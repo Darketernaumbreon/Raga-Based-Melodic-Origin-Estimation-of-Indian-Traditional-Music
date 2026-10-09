@@ -106,7 +106,7 @@ To ensure methodological clarity, we distinguish between two separate datasets u
 2. **Preprocessing Validation Dataset (Saraga Corpus)**: Used exclusively for verifying the accuracy of the tonic estimation algorithm against expert ground-truth annotations.
 
 ### A. Target Evaluation Dataset (Dataset A)
-The primary dataset used for model training and evaluation is **Dataset A**, a unified corpus compiled from the Tansen Recording Foundation (TRF) collection and the Indian Music Research Database (IMRD). It comprises **772 recordings across 38 canonical ragas**, totaling approximately 210 hours of audio.
+The primary dataset used for model training and evaluation is **Dataset A**, a unified corpus compiled from the Tansen Recording Foundation (TRF) collection and the Indian Music Research Database (IMRD), published open-access on Zenodo ([Zenodo Record 23247841](https://zenodo.org/records/23247841)). It comprises **772 recordings across 38 canonical ragas**, totaling approximately 210 hours of audio.
 
 **Table I: Composition of Target Evaluation Dataset (Dataset A)**
 
@@ -456,7 +456,7 @@ We have presented a robust methodology for raga identification in Indian traditi
 Applied to a 38-raga dataset of 772 recordings (~210 hours), our Swaragram-CRNN achieved **57.8% Top-1** (95% CI: $[49.1\%, 66.4\%]$) and **75.9% Top-3** (95% CI: $[68.1\%, 83.6\%]$) song-level accuracy — a **3.9× improvement** over a conventional Mel spectrogram baseline ($14.7\%$, $p = 9.07 \times 10^{-10}$ via McNemar's test), while utilizing **57% fewer parameters** and running **$38.5\times$ faster than real-time** ($\text{RTF} = 0.02598$ on GPU, processing a full 13.5-minute song in $21.05\text{ seconds}$). Song-level probability pooling contributed an additional **+19.7 percentage points** in Top-1 accuracy.
 
 ### Data Availability Statement
-The curated dataset splits, feature extraction scripts, trained model checkpoints, and evaluation pipelines are publicly available in the project repository for research reproducibility. Ground-truth tonic validation scripts and raw annotations are provided for replication of all reported metrics.
+The curated dataset splits, feature extraction metadata, and processed features are published and archived on Zenodo at [https://zenodo.org/records/23247841](https://zenodo.org/records/23247841). Code, trained model configurations, and evaluation pipelines are publicly available in the GitHub project repository for full research reproducibility. Ground-truth tonic validation scripts and raw annotations are provided for replication of all reported metrics.
 
 **Future Directions:**
 - **Extension to Carnatic Music**: Adapting the Swaragram framework to Carnatic music systems (*melakarta* and *janya* ragas).

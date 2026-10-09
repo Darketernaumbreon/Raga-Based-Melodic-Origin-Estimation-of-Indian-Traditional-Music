@@ -70,6 +70,9 @@ Raag_Analysis/
 
 ## 📊 Training Datasets Overview
 
+The curated dataset and metadata used in this project are published on Zenodo:  
+🔗 **Zenodo Dataset Record**: [https://zenodo.org/records/23247841](https://zenodo.org/records/23247841)
+
 Two distinct training datasets are pre-built from [`final_metadata.csv`](file:///C:/Users/Ayan/Desktop/Publication/Raag_Analysis/data/processed/metadata/unified/final_metadata.csv) at different recording frequency thresholds:
 
 | Dataset | Threshold | Classes | Recordings | Total Duration | Use Case |
