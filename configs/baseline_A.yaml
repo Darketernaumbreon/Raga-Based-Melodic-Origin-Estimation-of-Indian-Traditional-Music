@@ -1,0 +1,27 @@
+# Baseline CNN Training Configuration for Dataset A (38 classes, >=15 recordings)
+
+dataset:
+  name: "A"
+  feature_type: "mel" # 'mel', 'cqt', 'mfcc', or 'chroma'
+  sr: 22050
+  hop_length: 512
+  n_mels: 128
+  n_fft: 2048
+  extract_on_the_fly: true
+  cache_dir: "data/processed/features"
+
+model:
+  architecture: "baseline_cnn"
+  num_classes: 38
+  in_channels: 1
+  base_channels: 32
+  dropout: 0.5
+
+training:
+  batch_size: 16
+  num_epochs: 35
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  num_workers: 0
+  pin_memory: true
+  checkpoint_dir: "checkpoints/baseline_A"

@@ -1,0 +1,61 @@
+canonical_raag,recordings,duration_h,avg_duration_s,datasets,dataset_label
+Bhairavi,32,4.3,483.8,imrd; saraga; trf,B
+Yaman,32,3.789,426.2,imrd; trf,B
+Bageshree,30,4.86,583.2,imrd; saraga; trf,B
+Malkauns,29,4.378,543.5,imrd; saraga; trf,B
+Bahar,27,6.26,834.7,saraga; trf,B
+Bhoopali,27,3.631,484.1,imrd; saraga; trf,B
+Adana,26,5.473,757.8,trf,B
+Deepak,25,4.493,647.0,trf,B
+Basant,25,5.37,773.3,trf,B
+Sarang,25,5.31,764.7,imrd; trf,B
+Bhimpalasi,24,6.701,1005.1,saraga; trf,B
+Desh,23,3.263,510.7,trf,B
+Bihag,23,3.866,605.1,saraga; trf,B
+Khamaj,22,2.547,416.8,saraga; trf,B
+Marwa,21,5.516,945.5,saraga; trf,B
+Kedar,21,2.679,459.2,saraga; trf,B
+Asawari,20,1.196,215.2,imrd; trf,B
+Bhatiyar,19,4.919,931.9,saraga; trf,B
+Kafi,18,2.081,416.3,trf,B
+Shree,18,7.347,1469.3,saraga; trf,B
+Nat Bhairav,17,4.369,925.1,saraga; trf,B
+Gauri,17,4.182,885.6,saraga; trf,B
+Bibhas,17,4.716,998.6,saraga; trf,B
+Puriya,17,4.356,922.4,trf,B
+Bilaskhani Todi,16,4.066,914.8,saraga; trf,B
+Bhairav,16,5.741,1291.7,saraga; trf,B
+Multani,16,4.186,941.7,saraga; trf,B
+Bhairav Bahar,16,6.518,1466.5,trf,B
+Bilaval,16,1.434,322.7,trf,B
+Megh,16,4.398,989.5,saraga; trf,B
+Lalit,16,7.147,1608.0,saraga; trf,B
+Abhogi,15,6.168,1480.3,saraga; trf,B
+Durga,15,3.46,830.3,trf,B
+Yaman Kalyan,15,5.184,1244.2,saraga; trf,B
+Ramkali,15,5.335,1280.5,trf,B
+Poorvi,15,4.493,1078.4,trf,B
+Malhar,15,2.168,520.4,trf,B
+Ahir Bhairav,15,2.534,608.1,saraga; trf,B
+Sohni,14,3.195,821.6,trf,B
+Megh Malhar,14,5.158,1326.3,trf,B
+Pahadi,14,2.4,617.0,trf,B
+Jaunpuri,14,5.44,1398.9,trf,B
+Hemant,14,2.904,746.6,trf,B
+Bhupal Todi,14,4.761,1224.3,trf,B
+Bhinna Shadja,13,4.708,1303.6,trf,B
+Shuddha Kalyan,13,4.972,1376.9,saraga; trf,B
+Rageshree,13,4.533,1255.3,trf,B
+Komal Rishabh Asavari,13,3.72,1030.2,trf,B
+Madhuvanti,13,3.795,1050.8,trf,B
+Darbari,13,2.17,601.0,trf,B
+Alhaiya Bilaval,13,4.292,1188.6,trf,B
+Hindol,13,4.135,1144.9,trf,B
+Gujari Todi,13,3.292,911.7,trf,B
+Jhinjhoti,12,1.767,530.2,trf,B
+Desi,12,5.335,1600.5,trf,B
+Barwa,12,4.615,1384.6,trf,B
+Basant Mukhari,12,2.718,815.4,trf,B
+Sorath,11,2.88,942.7,trf,B
+Darbari Kanada,10,0.253,91.0,imrd,B
+Purba,10,6.578,2368.1,trf,B

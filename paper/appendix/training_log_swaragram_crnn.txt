@@ -1,0 +1,110 @@
+2026-07-26 16:30:25 [INFO] === Starting Training Run ===
+2026-07-26 16:30:25 [INFO] Hyperparameters: {'epochs': 50, 'batch_size': 32, 'lr': 0.001, 'weight_decay': 0.0001, 'patience': 10, 'seed': 42, 'experiment_name': 'swaragram_crnn_A', 'feature_type': 'swaragram'}
+2026-07-26 16:30:25 [INFO] Initializing DataLoaders...
+2026-07-26 16:30:30 [INFO] Train batches: 861 | Val batches: 182
+2026-07-26 16:30:32 [INFO] Initializing CRNN with 38 classes on cuda
+2026-07-26 16:30:35 [INFO] Trainer initialized on device: cuda
+2026-07-26 16:30:35 [INFO] Starting training loop for 50 epochs...
+2026-07-26 16:32:59 [INFO] Epoch 1/50 [143.7s]
+2026-07-26 16:32:59 [INFO]   Train | Loss: 3.2691 | Acc: 0.1029 | Top3: 0.2497 | F1: 0.0557
+2026-07-26 16:32:59 [INFO]   Val   | Loss: 3.1469 | Acc: 0.1487 | Top3: 0.3087 | F1: 0.0899
+2026-07-26 16:32:59 [INFO]   *** New Best Model! Val F1: 0.0899 ***
+2026-07-26 16:33:56 [INFO] Epoch 2/50 [56.1s]
+2026-07-26 16:33:56 [INFO]   Train | Loss: 2.6601 | Acc: 0.2722 | Top3: 0.4851 | F1: 0.2102
+2026-07-26 16:33:56 [INFO]   Val   | Loss: 2.8452 | Acc: 0.2263 | Top3: 0.4559 | F1: 0.1847
+2026-07-26 16:33:56 [INFO]   *** New Best Model! Val F1: 0.1847 ***
+2026-07-26 16:34:52 [INFO] Epoch 3/50 [56.2s]
+2026-07-26 16:34:52 [INFO]   Train | Loss: 2.2193 | Acc: 0.3866 | Top3: 0.6079 | F1: 0.3219
+2026-07-26 16:34:52 [INFO]   Val   | Loss: 2.7840 | Acc: 0.2697 | Top3: 0.4935 | F1: 0.2256
+2026-07-26 16:34:52 [INFO]   *** New Best Model! Val F1: 0.2256 ***
+2026-07-26 16:35:48 [INFO] Epoch 4/50 [56.2s]
+2026-07-26 16:35:48 [INFO]   Train | Loss: 1.9657 | Acc: 0.4525 | Top3: 0.6688 | F1: 0.3897
+2026-07-26 16:35:48 [INFO]   Val   | Loss: 2.6847 | Acc: 0.3187 | Top3: 0.5252 | F1: 0.2708
+2026-07-26 16:35:48 [INFO]   *** New Best Model! Val F1: 0.2708 ***
+2026-07-26 16:36:45 [INFO] Epoch 5/50 [56.2s]
+2026-07-26 16:36:45 [INFO]   Train | Loss: 1.7745 | Acc: 0.5033 | Top3: 0.7165 | F1: 0.4440
+2026-07-26 16:36:45 [INFO]   Val   | Loss: 2.6832 | Acc: 0.3359 | Top3: 0.5472 | F1: 0.2860
+2026-07-26 16:36:45 [INFO]   *** New Best Model! Val F1: 0.2860 ***
+2026-07-26 16:37:42 [INFO] Epoch 6/50 [56.9s]
+2026-07-26 16:37:42 [INFO]   Train | Loss: 1.6160 | Acc: 0.5461 | Top3: 0.7489 | F1: 0.4943
+2026-07-26 16:37:42 [INFO]   Val   | Loss: 2.7541 | Acc: 0.3449 | Top3: 0.5617 | F1: 0.3027
+2026-07-26 16:37:42 [INFO]   *** New Best Model! Val F1: 0.3027 ***
+2026-07-26 16:38:39 [INFO] Epoch 7/50 [56.5s]
+2026-07-26 16:38:39 [INFO]   Train | Loss: 1.5040 | Acc: 0.5741 | Top3: 0.7742 | F1: 0.5228
+2026-07-26 16:38:39 [INFO]   Val   | Loss: 2.7149 | Acc: 0.3554 | Top3: 0.5707 | F1: 0.3160
+2026-07-26 16:38:39 [INFO]   *** New Best Model! Val F1: 0.3160 ***
+2026-07-26 16:39:37 [INFO] Epoch 8/50 [57.5s]
+2026-07-26 16:39:37 [INFO]   Train | Loss: 1.3933 | Acc: 0.6032 | Top3: 0.7964 | F1: 0.5551
+2026-07-26 16:39:37 [INFO]   Val   | Loss: 2.8534 | Acc: 0.3595 | Top3: 0.5810 | F1: 0.3129
+2026-07-26 16:40:34 [INFO] Epoch 9/50 [56.8s]
+2026-07-26 16:40:34 [INFO]   Train | Loss: 1.3025 | Acc: 0.6261 | Top3: 0.8121 | F1: 0.5796
+2026-07-26 16:40:34 [INFO]   Val   | Loss: 2.8835 | Acc: 0.3731 | Top3: 0.5793 | F1: 0.3324
+2026-07-26 16:40:34 [INFO]   *** New Best Model! Val F1: 0.3324 ***
+2026-07-26 16:41:31 [INFO] Epoch 10/50 [57.6s]
+2026-07-26 16:41:31 [INFO]   Train | Loss: 1.0994 | Acc: 0.6814 | Top3: 0.8477 | F1: 0.6389
+2026-07-26 16:41:31 [INFO]   Val   | Loss: 3.0210 | Acc: 0.3754 | Top3: 0.5758 | F1: 0.3355
+2026-07-26 16:41:31 [INFO]   *** New Best Model! Val F1: 0.3355 ***
+2026-07-26 16:42:30 [INFO] Epoch 11/50 [58.4s]
+2026-07-26 16:42:30 [INFO]   Train | Loss: 1.0150 | Acc: 0.7021 | Top3: 0.8650 | F1: 0.6602
+2026-07-26 16:42:30 [INFO]   Val   | Loss: 2.9995 | Acc: 0.3769 | Top3: 0.5851 | F1: 0.3435
+2026-07-26 16:42:30 [INFO]   *** New Best Model! Val F1: 0.3435 ***
+2026-07-26 16:43:28 [INFO] Epoch 12/50 [57.6s]
+2026-07-26 16:43:28 [INFO]   Train | Loss: 0.9511 | Acc: 0.7226 | Top3: 0.8743 | F1: 0.6837
+2026-07-26 16:43:28 [INFO]   Val   | Loss: 3.1391 | Acc: 0.3856 | Top3: 0.5882 | F1: 0.3476
+2026-07-26 16:43:28 [INFO]   *** New Best Model! Val F1: 0.3476 ***
+2026-07-26 16:44:25 [INFO] Epoch 13/50 [57.2s]
+2026-07-26 16:44:25 [INFO]   Train | Loss: 0.8836 | Acc: 0.7382 | Top3: 0.8865 | F1: 0.7021
+2026-07-26 16:44:25 [INFO]   Val   | Loss: 3.1412 | Acc: 0.3931 | Top3: 0.5884 | F1: 0.3546
+2026-07-26 16:44:25 [INFO]   *** New Best Model! Val F1: 0.3546 ***
+2026-07-26 16:45:23 [INFO] Epoch 14/50 [57.0s]
+2026-07-26 16:45:23 [INFO]   Train | Loss: 0.7793 | Acc: 0.7683 | Top3: 0.9050 | F1: 0.7349
+2026-07-26 16:45:23 [INFO]   Val   | Loss: 3.3131 | Acc: 0.3973 | Top3: 0.5960 | F1: 0.3603
+2026-07-26 16:45:23 [INFO]   *** New Best Model! Val F1: 0.3603 ***
+2026-07-26 16:46:20 [INFO] Epoch 15/50 [57.1s]
+2026-07-26 16:46:20 [INFO]   Train | Loss: 0.7335 | Acc: 0.7789 | Top3: 0.9115 | F1: 0.7454
+2026-07-26 16:46:20 [INFO]   Val   | Loss: 3.3350 | Acc: 0.3981 | Top3: 0.5927 | F1: 0.3584
+2026-07-26 16:47:17 [INFO] Epoch 16/50 [57.3s]
+2026-07-26 16:47:17 [INFO]   Train | Loss: 0.6877 | Acc: 0.7901 | Top3: 0.9190 | F1: 0.7589
+2026-07-26 16:47:17 [INFO]   Val   | Loss: 3.5221 | Acc: 0.3876 | Top3: 0.5848 | F1: 0.3539
+2026-07-26 16:48:15 [INFO] Epoch 17/50 [57.1s]
+2026-07-26 16:48:15 [INFO]   Train | Loss: 0.6601 | Acc: 0.8012 | Top3: 0.9237 | F1: 0.7713
+2026-07-26 16:48:15 [INFO]   Val   | Loss: 3.4583 | Acc: 0.3987 | Top3: 0.5941 | F1: 0.3630
+2026-07-26 16:48:15 [INFO]   *** New Best Model! Val F1: 0.3630 ***
+2026-07-26 16:49:12 [INFO] Epoch 18/50 [57.5s]
+2026-07-26 16:49:12 [INFO]   Train | Loss: 0.6034 | Acc: 0.8146 | Top3: 0.9317 | F1: 0.7855
+2026-07-26 16:49:12 [INFO]   Val   | Loss: 3.6123 | Acc: 0.4016 | Top3: 0.5948 | F1: 0.3669
+2026-07-26 16:49:12 [INFO]   *** New Best Model! Val F1: 0.3669 ***
+2026-07-26 16:50:10 [INFO] Epoch 19/50 [57.1s]
+2026-07-26 16:50:10 [INFO]   Train | Loss: 0.5817 | Acc: 0.8238 | Top3: 0.9363 | F1: 0.7954
+2026-07-26 16:50:10 [INFO]   Val   | Loss: 3.6453 | Acc: 0.3992 | Top3: 0.5939 | F1: 0.3642
+2026-07-26 16:51:07 [INFO] Epoch 20/50 [57.0s]
+2026-07-26 16:51:07 [INFO]   Train | Loss: 0.5557 | Acc: 0.8295 | Top3: 0.9408 | F1: 0.8016
+2026-07-26 16:51:07 [INFO]   Val   | Loss: 3.6498 | Acc: 0.3930 | Top3: 0.5908 | F1: 0.3582
+2026-07-26 16:52:04 [INFO] Epoch 21/50 [57.1s]
+2026-07-26 16:52:04 [INFO]   Train | Loss: 0.5433 | Acc: 0.8352 | Top3: 0.9404 | F1: 0.8070
+2026-07-26 16:52:04 [INFO]   Val   | Loss: 3.7612 | Acc: 0.3937 | Top3: 0.5898 | F1: 0.3605
+2026-07-26 16:53:02 [INFO] Epoch 22/50 [57.2s]
+2026-07-26 16:53:02 [INFO]   Train | Loss: 0.5103 | Acc: 0.8434 | Top3: 0.9476 | F1: 0.8188
+2026-07-26 16:53:02 [INFO]   Val   | Loss: 3.7886 | Acc: 0.3949 | Top3: 0.5898 | F1: 0.3589
+2026-07-26 16:53:59 [INFO] Epoch 23/50 [57.0s]
+2026-07-26 16:53:59 [INFO]   Train | Loss: 0.5017 | Acc: 0.8425 | Top3: 0.9488 | F1: 0.8163
+2026-07-26 16:53:59 [INFO]   Val   | Loss: 3.8394 | Acc: 0.3959 | Top3: 0.5910 | F1: 0.3612
+2026-07-26 16:54:56 [INFO] Epoch 24/50 [56.9s]
+2026-07-26 16:54:56 [INFO]   Train | Loss: 0.4911 | Acc: 0.8467 | Top3: 0.9493 | F1: 0.8205
+2026-07-26 16:54:56 [INFO]   Val   | Loss: 3.8570 | Acc: 0.3954 | Top3: 0.5882 | F1: 0.3598
+2026-07-26 16:55:54 [INFO] Epoch 25/50 [57.7s]
+2026-07-26 16:55:54 [INFO]   Train | Loss: 0.4781 | Acc: 0.8526 | Top3: 0.9510 | F1: 0.8275
+2026-07-26 16:55:54 [INFO]   Val   | Loss: 3.9158 | Acc: 0.3938 | Top3: 0.5920 | F1: 0.3615
+2026-07-26 16:56:51 [INFO] Epoch 26/50 [57.2s]
+2026-07-26 16:56:51 [INFO]   Train | Loss: 0.4661 | Acc: 0.8568 | Top3: 0.9532 | F1: 0.8307
+2026-07-26 16:56:51 [INFO]   Val   | Loss: 3.9461 | Acc: 0.3966 | Top3: 0.5915 | F1: 0.3633
+2026-07-26 16:57:48 [INFO] Epoch 27/50 [57.0s]
+2026-07-26 16:57:48 [INFO]   Train | Loss: 0.4563 | Acc: 0.8590 | Top3: 0.9550 | F1: 0.8345
+2026-07-26 16:57:48 [INFO]   Val   | Loss: 3.9830 | Acc: 0.3956 | Top3: 0.5889 | F1: 0.3621
+2026-07-26 16:58:45 [INFO] Epoch 28/50 [57.0s]
+2026-07-26 16:58:45 [INFO]   Train | Loss: 0.4502 | Acc: 0.8620 | Top3: 0.9549 | F1: 0.8373
+2026-07-26 16:58:45 [INFO]   Val   | Loss: 3.9798 | Acc: 0.3937 | Top3: 0.5893 | F1: 0.3613
+2026-07-26 16:58:45 [INFO] EarlyStopping triggered after 10 epochs without improvement.
+2026-07-26 16:58:45 [INFO] Early stopping triggered! Training halted at epoch 28.
+2026-07-26 16:58:45 [INFO] === Training Complete ===
+2026-07-26 16:58:45 [INFO] Results saved to experiments\swaragram_crnn_A

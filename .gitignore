@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+ENV_DIR/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+ehthumbs.db
+__MACOSX/
+
+# Logs and temporary files
+logs/*.log
+*.log
+!logs/.gitkeep
+*.tmp
+*.zip
+
+# Checkpoints, model weights, and heavy binary weights
+checkpoints/*.pt
+checkpoints/*.pth
+models/*.pt
+models/*.pth
+*.pth
+*.pt
+!checkpoints/.gitkeep
+!models/.gitkeep
+
+# Datasets and raw audio (large files)
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed feature array dumps
+data/processed/features/*
+!data/processed/features/.gitkeep
+
+# Temporary packaging exports
+Raag_Analysis_Dataset/
+Raag_Analysis_Dataset.zip
+
+# Experiment outputs (preserve publication figures & statistical metrics)
+experiments/*
+!experiments/.gitkeep
+!experiments/paper_figures/
+!experiments/paper_figures/*
+!experiments/paper_stats/
+!experiments/paper_stats/*
+!notebooks/.gitkeep
+!configs/.gitkeep

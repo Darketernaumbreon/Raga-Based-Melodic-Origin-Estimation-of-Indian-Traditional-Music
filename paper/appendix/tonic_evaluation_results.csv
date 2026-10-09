@@ -1,0 +1,26 @@
+recording_id,audio_path,tonic_hz,tonic_note,status
+trf_0082,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/3.mp3,73.79,D2,OK
+25d5c348-023b-487b-b149-a46d553cedee,data/raw/saraga/audio/Raag Ahir Bhairon & Todi by Omkar Dadarkar/Raag Todi/Raag Todi.mp3.mp3,153.11,D♯3,OK
+trf_0285,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/0.mp3,127.23,C3,OK
+trf_0611,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/13.mp3,149.18,D3,OK
+trf_0389,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/4.mp3,150.88,D3,OK
+trf_0047,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/7.mp3,92.99,F♯2,OK
+trf_0013,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/2.mp3,70.72,C♯2,OK
+imrd_0013,data/raw/indian_music_raag/audio/bageshree03.wav,73.33,D2,OK
+trf_0482,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/4.mp3,139.45,C♯3,OK
+trf_0456,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/1.mp3,512.25,C5,OK
+trf_0377,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/9.mp3,104.65,G♯2,OK
+trf_0930,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/20.mp3,233.79,A♯3,OK
+imrd_0044,data/raw/indian_music_raag/audio/darbari27.wav,360.17,F♯4,OK
+imrd_0047,data/raw/indian_music_raag/audio/darbari30.wav,272.8,C♯4,OK
+c29c842f-6cc9-4beb-aaaa-1afa8cd0bc5d,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Sooha Kanada/Raag Sooha Kanada.mp3.mp3,214.25,A3,OK
+trf_0545,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/7.mp3,177.92,F3,OK
+trf_0481,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/3.mp3,183.13,F♯3,OK
+trf_0851,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/1.mp3,80.2,E2,OK
+trf_0753,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/9.mp3,266.36,C4,OK
+trf_0731,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/13.mp3,137.55,C♯3,OK
+trf_0094,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/3.mp3,234.11,A♯3,OK
+trf_0763,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/2.mp3,383.81,G4,OK
+imrd_0053,data/raw/indian_music_raag/audio/malkauns01.wav,73.4,D2,OK
+trf_0750,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/6.mp3,154.55,D♯3,OK
+trf_0530,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/8.mp3,104.33,G♯2,OK

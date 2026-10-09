@@ -1,0 +1,99 @@
+canonical_raag,num_recordings,datasets,recommendation
+Bhairavi,32,imrd; saraga; trf,KEEP
+Yaman,32,imrd; trf,KEEP
+Bageshree,30,imrd; saraga; trf,KEEP
+Malkauns,29,imrd; saraga; trf,KEEP
+Bahar,27,saraga; trf,KEEP
+Bhoopali,27,imrd; saraga; trf,KEEP
+Adana,26,trf,KEEP
+Basant,25,trf,KEEP
+Deepak,25,trf,KEEP
+Sarang,25,imrd; trf,KEEP
+Bhimpalasi,24,saraga; trf,KEEP
+Bihag,23,saraga; trf,KEEP
+Desh,23,trf,KEEP
+Khamaj,22,saraga; trf,KEEP
+Kedar,21,saraga; trf,KEEP
+Marwa,21,saraga; trf,KEEP
+Asawari,20,imrd; trf,KEEP
+Bhatiyar,19,saraga; trf,KEEP
+Kafi,18,trf,KEEP
+Shree,18,saraga; trf,KEEP
+Bibhas,17,saraga; trf,KEEP
+Gauri,17,saraga; trf,KEEP
+Nat Bhairav,17,saraga; trf,KEEP
+Puriya,17,trf,KEEP
+Bhairav,16,saraga; trf,KEEP
+Bhairav Bahar,16,trf,KEEP
+Bilaskhani Todi,16,saraga; trf,KEEP
+Bilaval,16,trf,KEEP
+Lalit,16,saraga; trf,KEEP
+Megh,16,saraga; trf,KEEP
+Multani,16,saraga; trf,KEEP
+Abhogi,15,saraga; trf,KEEP
+Ahir Bhairav,15,saraga; trf,KEEP
+Durga,15,trf,KEEP
+Malhar,15,trf,KEEP
+Poorvi,15,trf,KEEP
+Ramkali,15,trf,KEEP
+Yaman Kalyan,15,saraga; trf,KEEP
+Bhupal Todi,14,trf,KEEP
+Hemant,14,trf,KEEP
+Jaunpuri,14,trf,KEEP
+Megh Malhar,14,trf,KEEP
+Pahadi,14,trf,KEEP
+Sohni,14,trf,KEEP
+Alhaiya Bilaval,13,trf,KEEP
+Bhinna Shadja,13,trf,KEEP
+Darbari,13,trf,KEEP
+Gujari Todi,13,trf,KEEP
+Hindol,13,trf,KEEP
+Komal Rishabh Asavari,13,trf,KEEP
+Madhuvanti,13,trf,KEEP
+Rageshree,13,trf,KEEP
+Shuddha Kalyan,13,saraga; trf,KEEP
+Barwa,12,trf,KEEP
+Basant Mukhari,12,trf,KEEP
+Desi,12,trf,KEEP
+Jhinjhoti,12,trf,KEEP
+Sorath,11,trf,KEEP
+Darbari Kanada,10,imrd,KEEP
+Purba,10,trf,KEEP
+Komal Bhairav,5,trf,OPTIONAL
+Jog,3,saraga,HOLD
+Miyan Malhar,3,saraga,HOLD
+Todi,3,saraga,HOLD
+Bairagi,2,saraga,HOLD
+Dhani,2,saraga,HOLD
+Hameer,2,saraga,HOLD
+Rageshri,2,saraga,HOLD
+Ramdasi Malhar,2,saraga,HOLD
+Basanti Kedar,1,saraga,HOLD
+Chandrakauns,1,saraga,HOLD
+Dagori,1,saraga,HOLD
+Des,1,saraga,HOLD
+Gaud Malhar,1,saraga,HOLD
+Gawti,1,saraga,HOLD
+Hindol Pancham,1,saraga,HOLD
+Jait Kalyan,1,saraga,HOLD
+Jogia,1,saraga,HOLD
+Kalavati,1,saraga,HOLD
+Kalyan,1,saraga,HOLD
+Khat,1,saraga,HOLD
+Khokar,1,saraga,HOLD
+Kirwani,1,saraga,HOLD
+Komal Rishabh Asawari,1,saraga,HOLD
+Lagan Gandhar,1,saraga,HOLD
+Lalit Pancham,1,saraga,HOLD
+Maajh Khamaj,1,saraga,HOLD
+Madhukauns,1,saraga,HOLD
+Marubihag,1,saraga,HOLD
+Mishra Kalingada,1,saraga,HOLD
+Mishra Pilu,1,saraga,HOLD
+Nat Kamod,1,saraga,HOLD
+Puriya Dhanashree,1,saraga,HOLD
+Saraswati,1,saraga,HOLD
+Shuddha Sarang,1,saraga,HOLD
+Sohini,1,saraga,HOLD
+Suha,1,saraga,HOLD
+Triveni Gauri,1,saraga,HOLD

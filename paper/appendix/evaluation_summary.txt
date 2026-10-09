@@ -1,0 +1,28 @@
+=== EVALUATION SUMMARY ===
+
+Model: Swaragram CRNN (swaragram_crnn_A)
+Best Checkpoint: Epoch 26
+Dataset: Indian Folk Music Dataset A
+
+SEGMENT-LEVEL VALIDATION SET:
+  Top-1 Accuracy : 38.1%
+  Top-3 Accuracy : 56.9%
+  Macro F1       : 35.7%
+
+SONG-LEVEL TEST SET (116 recordings, ~27 segs each):
+  Top-1 Accuracy : 57.8%
+  Top-3 Accuracy : 75.9%
+  Macro F1       : 55.2%
+
+---
+Model: Mel CRNN Baseline (baseline_crnn_A)
+
+SONG-LEVEL TEST SET:
+  Top-1 Accuracy : 14.7%
+  Top-3 Accuracy : 24.1%
+  Macro F1       : 12.0%
+
+---
+IMPROVEMENT (Swaragram Song vs Mel Song):
+  Top-1: +43.1 percentage points (+293%)
+  Top-3: +51.8 percentage points (+215%)

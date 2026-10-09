@@ -1,0 +1,39 @@
+Raag,Test Recordings,Top-1 Acc (%),Top-3 Acc (%)
+Poorvi,2,100.0,100.0
+Nat Bhairav,2,100.0,100.0
+Shree,3,100.0,100.0
+Durga,2,100.0,100.0
+Bhimpalasi,3,100.0,100.0
+Bhairav,2,100.0,100.0
+Ramkali,2,100.0,100.0
+Lalit,3,100.0,100.0
+Sarang,4,75.0,75.0
+Basant,4,75.0,100.0
+Bahar,4,75.0,100.0
+Adana,4,75.0,100.0
+Bageshree,4,75.0,100.0
+Bilaskhani Todi,3,66.7,100.0
+Kedar,3,66.7,66.7
+Bhatiyar,3,66.7,66.7
+Bihag,3,66.7,100.0
+Marwa,3,66.7,100.0
+Bibhas,3,66.7,100.0
+Bhairav Bahar,3,66.7,100.0
+Bhairavi,5,60.0,60.0
+Abhogi,2,50.0,50.0
+Bhoopali,4,50.0,75.0
+Ahir Bhairav,2,50.0,50.0
+Multani,2,50.0,100.0
+Yaman Kalyan,2,50.0,100.0
+Malkauns,5,40.0,60.0
+Yaman,5,40.0,100.0
+Asawari,3,33.3,100.0
+Desh,3,33.3,66.7
+Khamaj,3,33.3,33.3
+Megh,3,33.3,66.7
+Kafi,3,33.3,33.3
+Gauri,3,33.3,33.3
+Bilaval,3,0.0,0.0
+Deepak,4,0.0,0.0
+Malhar,2,0.0,50.0
+Puriya,2,0.0,0.0

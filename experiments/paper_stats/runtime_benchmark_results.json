@@ -1,0 +1,39 @@
+{
+  "hardware_software_info": {
+    "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "cpu_name": "AMD Ryzen 7 7735HS with Radeon Graphics (3.20 GHz, 8 cores / 16 threads)",
+    "python_version": "3.11.9",
+    "pytorch_version": "2.7.1+cu118",
+    "cuda_version": "11.8",
+    "benchmark_protocol": "Averaged over 10 sample recordings (270s total) with 10 CUDA warmup iterations and explicit torch.cuda.synchronize() boundary calls."
+  },
+  "segment_benchmark_30s": {
+    "audio_load_resample_ms": 572.83,
+    "yin_pitch_tracking_ms": 173.94,
+    "tonic_estimation_ms": 0.49,
+    "swaragram_feature_generation_ms": 16.16,
+    "mel_spectrogram_generation_ms": 49.99,
+    "swaragram_crnn_inference_cpu_ms": 40.05,
+    "mel_crnn_inference_cpu_ms": 58.15,
+    "swaragram_crnn_inference_gpu_b1_ms": 16.05,
+    "mel_crnn_inference_gpu_b1_ms": 14.54,
+    "swaragram_crnn_inference_gpu_b32_ms_per_seg": 1.07,
+    "mel_crnn_inference_gpu_b32_ms_per_seg": 2.65
+  },
+  "totals_30s_segment": {
+    "swaragram_total_pipeline_cpu_ms": 803.47,
+    "swaragram_total_pipeline_gpu_ms": 779.47,
+    "mel_total_pipeline_cpu_ms": 680.97,
+    "mel_total_pipeline_gpu_ms": 637.36,
+    "swaragram_rtf_cpu": 0.02678,
+    "swaragram_rtf_gpu": 0.02598,
+    "speedup_vs_realtime_cpu": "37.3x faster than real-time",
+    "speedup_vs_realtime_gpu": "38.5x faster than real-time"
+  },
+  "full_recording_benchmark_13_5_min": {
+    "median_segments_count": 27,
+    "full_recording_audio_duration_minutes": 13.5,
+    "end_to_end_latency_cpu_seconds": 21.69,
+    "end_to_end_latency_gpu_seconds": 21.05
+  }
+}

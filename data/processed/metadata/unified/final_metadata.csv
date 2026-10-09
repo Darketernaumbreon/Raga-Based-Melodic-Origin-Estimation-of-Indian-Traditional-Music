@@ -1,0 +1,1143 @@
+recording_id,dataset,audio_path,file_name,original_raag,canonical_raag,duration_seconds,sample_rate,channels,file_format,artist,album,instrument,tonic,split,status
+8eaaeecc-159b-4537-993c-51e62219f88a,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Basanti Kedar/Raag Basanti Kedar.mp3.mp3,Raag Basanti Kedar.mp3.mp3,Basantī kēdār,Basanti Kedar,1001.314,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,138.591315,,HOLD
+66084e18-2dec-44bf-8bcb-48bf040b9318,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Dagori_Deepki/Raag Dagori_Deepki.mp3.mp3,Raag Dagori_Deepki.mp3.mp3,Ḍāgori,Dagori,639.753,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,138.591315,,HOLD
+44e9d183-06d3-41c7-81d2-4c874010f383,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Hindol Pancham/Raag Hindol Pancham.mp3.mp3,Raag Hindol Pancham.mp3.mp3,Hindōl pañcam,Hindol Pancham,727.524,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,139.394167,,HOLD
+9880433a-b5d3-4f5e-95a2-d7aa7bfee11f,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Jait Kalyan/Raag Jait Kalyan.mp3.mp3,Raag Jait Kalyan.mp3.mp3,Jait kalyāṇ,Jait Kalyan,1467.991,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,146.832384,,HOLD
+0f84aacf-9703-46ab-b5cd-2f8c6bd82b29,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Jogiya/Raag Jogiya.mp3.mp3,Raag Jogiya.mp3.mp3,Jōgiyā,Jogia,416.85,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,138.591315,,HOLD
+b7e9ec27-9777-456c-b7b6-bcfe2936e5e7,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Khat Todi/Raag Khat Todi.mp3.mp3,Raag Khat Todi.mp3.mp3,Khaṭa,Khat,1274.764,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,138.591315,,HOLD
+da0c6431-10b5-44b9-8ba4-57023fd45914,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Khokar/Raag Khokar.mp3.mp3,Raag Khokar.mp3.mp3,Khokar,Khokar,824.83,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,155.563492,,HOLD
+9a7e51fa-61fd-4e17-bc88-93df44ee3d0c,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Komal Rishav Aasavari/Raag Komal Rishav Aasavari.mp3.mp3,Raag Komal Rishav Aasavari.mp3.mp3,Kōmal riṣabh asāvēri,Komal Rishabh Asawari,1429.121,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,146.832384,,HOLD
+0bf5e46b-2434-496e-a1b2-cbf3273fdbdf,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Lalita Gauri/Raag Lalita Gauri.mp3.mp3,Raag Lalita Gauri.mp3.mp3,Gaurī,Gauri,991.021,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,146.832384,,KEEP
+15906c20-4376-46a0-a0d5-7093216f4534,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Nat Kamod/Raag Nat Kamod.mp3.mp3,Raag Nat Kamod.mp3.mp3,Naṭ kāmōd,Nat Kamod,546.548,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,155.563492,,HOLD
+3e2b9a68-43dc-45aa-b021-f4f6b3cb6171,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Ramgauri & Gauri/Raag Ramgauri & Gauri.mp3.mp3,Raag Ramgauri & Gauri.mp3.mp3,Gaurī,Gauri,1068.501,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,153.776693,,KEEP
+acae4dcf-e5e7-4c8f-b17c-bfec74cabcc1,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Sohani/Raag Sohani.mp3.mp3,Raag Sohani.mp3.mp3,Sōhinī,Sohini,87.577,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,156.464662,,HOLD
+c29c842f-6cc9-4beb-aaaa-1afa8cd0bc5d,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Sooha Kanada/Raag Sooha Kanada.mp3.mp3,Raag Sooha Kanada.mp3.mp3,Suhā,Suha,971.195,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,161.982376,,HOLD
+aa3b2a92-21ee-44c6-ba84-c2d209db7fc8,saraga,data/raw/saraga/audio/Anaahata by Milind Malshe/Raag Triveni/Raag Triveni.mp3.mp3,Raag Triveni.mp3.mp3,Trivēṇī gauri,Triveni Gauri,1508.638,44100,2,MP3,Milind Malshe,Anaahata,Tabla; Harmonium; Voice,162.920731,,HOLD
+51656b20-295c-40f9-8dab-005b9b90fa98,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Aahir Bhairon/Aahir Bhairon.mp3.mp3,Aahir Bhairon.mp3.mp3,Ahira bhairav,Ahir Bhairav,588.853,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,KEEP
+b71c2774-2532-4692-8761-5452e2a83118,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Bairagi/Bairagi.mp3.mp3,Bairagi.mp3.mp3,Bairāgi,Bairagi,898.627,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,HOLD
+3124479b-5118-4cf3-823f-8fefad45e586,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Bilaskhani Todi/Bilaskhani Todi.mp3.mp3,Bilaskhani Todi.mp3.mp3,Bilāsakhānī tōḍī,Bilaskhani Todi,853.693,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,KEEP
+d7a57d81-a5dd-44d8-aabf-951cb8f73fe2,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Kalavati/Kalavati.mp3.mp3,Kalavati.mp3.mp3,Kalāvati,Kalavati,343.547,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,HOLD
+b3849502-db24-4042-9d61-299de0211423,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Lyrics of all the Bandishes/Lyrics of all the Bandishes.mp3.mp3,Lyrics of all the Bandishes.mp3.mp3,,,418.52,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,EXCLUDED
+b77a3149-40fa-4e28-8205-cd4f006f60a1,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Malkauns/Malkauns.mp3.mp3,Malkauns.mp3.mp3,Mālkauns,Malkauns,332.8,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,184.997211,,KEEP
+631bde83-42e4-4c04-b260-3dbbd5b03799,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Maru Bihag/Maru Bihag.mp3.mp3,Maru Bihag.mp3.mp3,Mārūbihāg,Marubihag,961.053,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,HOLD
+ae735e58-e8a1-4db8-9a0a-b8f83863412a,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Multani/Multani.mp3.mp3,Multani.mp3.mp3,Multāni,Multani,665.2,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,KEEP
+6a2c841d-5a0e-4886-a5c0-f856fccbb938,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Nat Bhairon/Nat Bhairon.mp3.mp3,Nat Bhairon.mp3.mp3,Naṭ bhairav,Nat Bhairav,637.733,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,KEEP
+7704b0d2-eeac-47e4-ba05-c541a91eb621,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Raageshree/Raageshree.mp3.mp3,Raageshree.mp3.mp3,Rāgēśrī,Rageshri,491.813,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,HOLD
+450a6fcc-3c0a-483d-a31b-dde91413dcdd,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Shrutinandan Concept - an Introduction by Pandit Ajoy Chakrabarty/Shrutinandan Concept - an Introduction by Pandit Ajoy Chakrabarty.mp3.mp3,Shrutinandan Concept - an Introduction by Pandit Ajoy Chakrabarty.mp3.mp3,,,388.787,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,EXCLUDED
+a6d77610-1084-4696-9734-79285672df16,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Sudh Kalyan/Sudh Kalyan.mp3.mp3,Sudh Kalyan.mp3.mp3,Śuddh kalyāṇ,Shuddha Kalyan,902.813,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,KEEP
+3a75a312-b119-41f8-8a5a-e799ebeed0cc,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Sudh Sarang/Sudh Sarang.mp3.mp3,Sudh Sarang.mp3.mp3,Śuddh sāraṅg,Shuddha Sarang,804.707,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,HOLD
+2e5c159d-3dea-4a47-b871-76536866d643,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Taal and Sur of Thekas/Taal and Sur of Thekas.mp3.mp3,Taal and Sur of Thekas.mp3.mp3,,,284.093,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,EXCLUDED
+204008ee-89fe-44a4-a0c7-7bd7d64cf8a4,saraga,data/raw/saraga/audio/Geetinandan _ Part-3 by Ajoy Chakrabarty/Todi/Todi.mp3.mp3,Todi.mp3.mp3,Tōḍī,Todi,540.92,44100,2,MP3,Ajoy Chakrabarty,Geetinandan : Part-3,Voice; Harmonium; Tabla,138.591315,,HOLD
+57b81628-b37d-4fee-991a-4f2387bca45a,saraga,data/raw/saraga/audio/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Bilaskhani Todi/Raag Bilaskhani Todi.mp3.mp3,Raag Bilaskhani Todi.mp3.mp3,Bilāsakhānī tōḍī,Bilaskhani Todi,411.879,44100,2,MP3,Kaustuv Kanti Ganguli,Hindustani Alaps,Voice,146.832384,,KEEP
+62c7a9e6-e720-4cec-98cf-dda45c28bc0e,saraga,data/raw/saraga/audio/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Desh/Raag Desh.mp3.mp3,Raag Desh.mp3.mp3,Dēś,Des,386.886,48000,2,MP3,Kaustuv Kanti Ganguli,Hindustani Alaps,Voice,146.832384,,HOLD
+047abeeb-88f5-4395-8542-f7448668a281,saraga,data/raw/saraga/audio/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Lalit/Raag Lalit.mp3.mp3,Raag Lalit.mp3.mp3,Lalit,Lalit,378.103,44100,2,MP3,Kaustuv Kanti Ganguli,Hindustani Alaps,Voice,146.832384,,KEEP
+89224046-f086-4530-b2a3-70f9ae697faf,saraga,data/raw/saraga/audio/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Madhukauns/Raag Madhukauns.mp3.mp3,Raag Madhukauns.mp3.mp3,Madhukauns,Madhukauns,565.373,44100,2,MP3,Kaustuv Kanti Ganguli,Hindustani Alaps,Voice,146.832384,,HOLD
+dd875fec-377f-4565-98ca-cc9cf6397995,saraga,data/raw/saraga/audio/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Marwa/Raag Marwa.mp3.mp3,Raag Marwa.mp3.mp3,Mārvā,Marwa,392.653,44100,2,MP3,Kaustuv Kanti Ganguli,Hindustani Alaps,Voice,146.832384,,KEEP
+001932a8-85a2-4f3f-9497-5e322c85abcd,saraga,data/raw/saraga/audio/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Miyan Malhar/Raag Miyan Malhar.mp3.mp3,Raag Miyan Malhar.mp3.mp3,Miyām̐ malhār,Miyan Malhar,546.723,44100,2,MP3,Kaustuv Kanti Ganguli,Hindustani Alaps,Voice,146.832384,,HOLD
+15b6df7e-2b76-484d-9089-1619cc850b59,saraga,data/raw/saraga/audio/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Puriya Dhanashree/Raag Puriya Dhanashree.mp3.mp3,Raag Puriya Dhanashree.mp3.mp3,Puriyā dhanaśrī,Puriya Dhanashree,392.435,48000,2,MP3,Kaustuv Kanti Ganguli,Hindustani Alaps,Voice,146.832384,,HOLD
+82f80a73-a455-408a-a1bd-241b4b4f2388,saraga,data/raw/saraga/audio/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Yaman/Raag Yaman.mp3.mp3,Raag Yaman.mp3.mp3,Yaman kalyāṇ,Yaman Kalyan,351.144,44100,2,MP3,Kaustuv Kanti Ganguli,Hindustani Alaps,Voice,146.832384,,KEEP
+9f4ba52c-935c-4066-ad79-daa709dfa6ec,saraga,data/raw/saraga/audio/New Signature by Brajeshwar Mukherjee/Irani Bhairavi Thumri/Irani Bhairavi Thumri.mp3.mp3,Irani Bhairavi Thumri.mp3.mp3,Bhairavi,Bhairavi,360.267,44100,2,MP3,Brajeshwar Mukherjee,New Signature,Voice,195.997718,,KEEP
+ea36cb14-7c11-41d0-acb8-70ec66e61063,saraga,data/raw/saraga/audio/New Signature by Brajeshwar Mukherjee/Raag Bairagi/Raag Bairagi.mp3.mp3,Raag Bairagi.mp3.mp3,Bairāgi,Bairagi,2513.32,44100,2,MP3,Brajeshwar Mukherjee,New Signature,Voice,146.832384,,HOLD
+52d71bd6-1d8b-4007-a027-5732adf68355,saraga,data/raw/saraga/audio/New Signature by Brajeshwar Mukherjee/Raag Saraswati/Raag Saraswati.mp3.mp3,Raag Saraswati.mp3.mp3,Sarasvati,Saraswati,790.0,44100,2,MP3,Brajeshwar Mukherjee,New Signature,Voice,146.832384,,HOLD
+e40375a2-01d2-4137-823a-3e62503baf98,saraga,data/raw/saraga/audio/Raag Abhogi & Megh by Anol Chatterjee/Raag Abhogi/Raag Abhogi.mp3.mp3,Raag Abhogi.mp3.mp3,Ābhōgī,Abhogi,1882.659,44100,2,MP3,,Raag Abhogi & Megh,Harmonium; Voice; Tabla,195.997718,,KEEP
+a1543855-9f8c-42e5-945a-5fea2727df1c,saraga,data/raw/saraga/audio/Raag Abhogi & Megh by Anol Chatterjee/Raag Megh/Raag Megh.mp3.mp3,Raag Megh.mp3.mp3,Mēgh,Megh,1766.884,44100,2,MP3,,Raag Abhogi & Megh,Harmonium; Voice; Tabla,146.832384,,KEEP
+a01ac873-dff4-420f-9fd8-490dd87c58e9,saraga,"data/raw/saraga/audio/Raag Abhogi, Rageshree & Khamaj by Ajoy Chakrabarty/Raag Abhogi/Raag Abhogi.mp3.mp3",Raag Abhogi.mp3.mp3,Ābhōgī,Abhogi,2569.085,44100,2,MP3,Ajoy Chakrabarty,"Raag Abhogi, Rageshree & Khamaj",Voice,130.812783,,KEEP
+c556b631-111f-42e8-aa98-e02f0777be9e,saraga,"data/raw/saraga/audio/Raag Abhogi, Rageshree & Khamaj by Ajoy Chakrabarty/Raag Khamaj/Raag Khamaj.mp3.mp3",Raag Khamaj.mp3.mp3,Khamāj,Khamaj,1165.573,44100,2,MP3,Ajoy Chakrabarty,"Raag Abhogi, Rageshree & Khamaj",Voice,140.201669,,KEEP
+9a2ce15a-4b28-4d10-abc7-9e05310c2e3b,saraga,"data/raw/saraga/audio/Raag Abhogi, Rageshree & Khamaj by Ajoy Chakrabarty/Raag Rageshri/Raag Rageshri.mp3.mp3",Raag Rageshri.mp3.mp3,Rāgēśrī,Rageshri,2110.798,44100,2,MP3,Ajoy Chakrabarty,"Raag Abhogi, Rageshree & Khamaj",Voice,139.394167,,HOLD
+2073b056-8120-4b04-b808-3d6a8c6a2bd7,saraga,data/raw/saraga/audio/Raag Ahir Bhairon & Todi by Omkar Dadarkar/Raag Ahir Bhairon/Raag Ahir Bhairon.mp3.mp3,Raag Ahir Bhairon.mp3.mp3,Ahira bhairav,Ahir Bhairav,2365.115,44100,2,MP3,,Raag Ahir Bhairon & Todi,,155.563492,,KEEP
+25d5c348-023b-487b-b149-a46d553cedee,saraga,data/raw/saraga/audio/Raag Ahir Bhairon & Todi by Omkar Dadarkar/Raag Todi/Raag Todi.mp3.mp3,Raag Todi.mp3.mp3,Tōḍī,Todi,1056.145,44100,2,MP3,,Raag Ahir Bhairon & Todi,,153.776693,,HOLD
+b07c744e-c3ad-4bb8-b7e3-9a7ef979ea20,saraga,data/raw/saraga/audio/Raag Bageshree & Bhairavi Bhajan by Satyasheel Deshpande/Bhairavi Bhajan/Bhairavi Bhajan.mp3.mp3,Bhairavi Bhajan.mp3.mp3,Bhairavi,Bhairavi,897.91,44100,2,MP3,,Raag Bageshree & Bhairavi Bhajan,Harmonium; Voice; Tabla,139.394167,,KEEP
+897f4174-24be-493a-be1c-57fd3c018601,saraga,data/raw/saraga/audio/Raag Bageshree & Bhairavi Bhajan by Satyasheel Deshpande/Raag Bageshree/Raag Bageshree.mp3.mp3,Raag Bageshree.mp3.mp3,Bāgēśrī,Bageshree,2291.787,44100,2,MP3,,Raag Bageshree & Bhairavi Bhajan,Harmonium; Voice; Tabla,139.394167,,KEEP
+c73c038c-df41-43f9-a272-916b1f2e1fc7,saraga,"data/raw/saraga/audio/Raag Bahar, Gaud Malhar & Yaman by Omkar Dadarkar/Raag Bahar/Raag Bahar.mp3.mp3",Raag Bahar.mp3.mp3,Bahār,Bahar,1670.153,44100,2,MP3,,"Raag Bahar, Gaud Malhar & Yaman",Tabla; Harmonium; Voice,155.563492,,KEEP
+73b74f57-4ba1-4f22-a969-1d9b2e26b5ea,saraga,"data/raw/saraga/audio/Raag Bahar, Gaud Malhar & Yaman by Omkar Dadarkar/Raag Gaud Malhar/Raag Gaud Malhar.mp3.mp3",Raag Gaud Malhar.mp3.mp3,Gauḍ malhār,Gaud Malhar,1555.057,44100,2,MP3,,"Raag Bahar, Gaud Malhar & Yaman",Voice,153.776693,,HOLD
+c76cadd9-9e7b-4e9e-96dc-f79a9a8eed78,saraga,"data/raw/saraga/audio/Raag Bahar, Gaud Malhar & Yaman by Omkar Dadarkar/Raag Yaman/Raag Yaman.mp3.mp3",Raag Yaman.mp3.mp3,Yaman kalyāṇ,Yaman Kalyan,1081.64,44100,2,MP3,,"Raag Bahar, Gaud Malhar & Yaman",Voice,152.891004,,KEEP
+0a11bf6f-b55d-459c-9447-7a5a555a286f,saraga,data/raw/saraga/audio/Raag Bhairav & Dhani by Kumar Gandharva/Raag Bhairav/Raag Bhairav.mp3.mp3,Raag Bhairav.mp3.mp3,Bhairav,Bhairav,1457.595,44100,2,MP3,,Raag Bhairav & Dhani,Voice,176.643034,,KEEP
+20aac96e-9e62-41e9-a3ce-5e6f2d7fff1a,saraga,data/raw/saraga/audio/Raag Bhairav & Dhani by Kumar Gandharva/Raag Dhani/Raag Dhani.mp3.mp3,Raag Dhani.mp3.mp3,Dhanī,Dhani,2048.589,44100,2,MP3,,Raag Bhairav & Dhani,Voice,198.275102,,HOLD
+f0bc477f-03a7-44c5-8e63-cef7f8692c08,saraga,data/raw/saraga/audio/Raag Bhatiyar & Bhairavi Thumri by Kaustuv Kanti Ganguli/Bhairavi Thumri/Bhairavi Thumri.mp3.mp3,Bhairavi Thumri.mp3.mp3,Bhairavi,Bhairavi,718.869,44100,2,MP3,,Raag Bhatiyar & Bhairavi Thumri,Harmonium; Voice; Tabla,146.832384,,KEEP
+01c69de7-7aea-4e54-bc2b-bdd7758c650c,saraga,data/raw/saraga/audio/Raag Bhatiyar & Bhairavi Thumri by Kaustuv Kanti Ganguli/Raag Bhatiyar/Raag Bhatiyar.mp3.mp3,Raag Bhatiyar.mp3.mp3,Bhāṭiyār,Bhatiyar,2278.948,44100,2,MP3,,Raag Bhatiyar & Bhairavi Thumri,Harmonium; Voice; Tabla,146.832384,,KEEP
+bcb1c58d-e3f1-4fb7-a026-7d5a56c59107,saraga,data/raw/saraga/audio/Raag Bhimpalasi & Multani by Omkar Dadarkar/Raag Bhimpalasi/Raag Bhimpalasi.mp3.mp3,Raag Bhimpalasi.mp3.mp3,Bhimapalās,Bhimpalasi,1617.908,44100,2,MP3,,Raag Bhimpalasi & Multani,Voice,155.563492,,KEEP
+0bdad2a8-94d8-40c2-91ec-e77100fcaa02,saraga,data/raw/saraga/audio/Raag Bhimpalasi & Multani by Omkar Dadarkar/Raag Multani/Raag Multani.mp3.mp3,Raag Multani.mp3.mp3,Multāni,Multani,2527.466,44100,2,MP3,,Raag Bhimpalasi & Multani,Harmonium; Tabla; Voice,155.563492,,KEEP
+bfefde58-4eb2-49b0-9c63-7e4ce1070e61,saraga,data/raw/saraga/audio/Raag Bhoopali & Gavti by Omkar Dadarkar/Raag Bhoopali/Raag Bhoopali.mp3.mp3,Raag Bhoopali.mp3.mp3,Bhūp,Bhoopali,3346.587,44100,2,MP3,,Raag Bhoopali & Gavti,Tabla; Harmonium; Voice,155.563492,,KEEP
+e76e4ee3-bf5c-4d47-bb69-92b8d93035d8,saraga,data/raw/saraga/audio/Raag Bhoopali & Gavti by Omkar Dadarkar/Raag Gavti/Raag Gavti.mp3.mp3,Raag Gavti.mp3.mp3,Gavti,Gawti,1645.519,44100,2,MP3,,Raag Bhoopali & Gavti,Tabla; Harmonium; Voice,155.563492,,HOLD
+b4e6f413-a94e-4b8f-9088-0172bd443e3f,saraga,data/raw/saraga/audio/Raag Bhoopali & Paraj by Sameehan Kashalkar/Raag Bhoopali/Raag Bhoopali.mp3.mp3,Raag Bhoopali.mp3.mp3,,,3022.381,44100,2,MP3,Sameehan Kashalkar,Raag Bhoopali & Paraj,Tabla; Voice; Harmonium,146.832384,,EXCLUDED
+274262a7-58b8-455a-a6f5-91a421453c3e,saraga,data/raw/saraga/audio/Raag Bhoopali & Paraj by Sameehan Kashalkar/Raag Paraj/Raag Paraj.mp3.mp3,Raag Paraj.mp3.mp3,,,913.438,44100,2,MP3,Sameehan Kashalkar,Raag Bhoopali & Paraj,Tabla; Voice; Harmonium,146.832384,,EXCLUDED
+f5d00c2d-5ca1-4a49-bb38-1af3496e6dfc,saraga,data/raw/saraga/audio/Raag Bihag & Bhairavi Dadra by Omkar Dadarkar/Bhairavi Dadra/Bhairavi Dadra.mp3.mp3,Bhairavi Dadra.mp3.mp3,Bhairavi,Bhairavi,601.51,44100,2,MP3,,Raag Bihag & Bhairavi Dadra,Voice,155.563492,,KEEP
+5d56b3ab-99d1-48c3-a785-269d74ccc944,saraga,data/raw/saraga/audio/Raag Bihag & Bhairavi Dadra by Omkar Dadarkar/Raag Bihag/Raag Bihag.mp3.mp3,Raag Bihag.mp3.mp3,Bihāg,Bihag,2517.017,44100,2,MP3,,Raag Bihag & Bhairavi Dadra,Voice,234.43211,,KEEP
+f0ce173e-e69b-4baf-8c23-cdd63fd15ab1,saraga,data/raw/saraga/audio/Raag Bihag by Deborshee Bhattacharya/Raag Bihag/Raag Bihag.mp3.mp3,Raag Bihag.mp3.mp3,Bihāg,Bihag,3934.346,44100,2,MP3,Deborshee Bhattacharya,Raag Bihag,Voice; Tabla; Harmonium,146.832384,,KEEP
+a7f28ee8-49af-4572-9c9c-f06b9d85dda2,saraga,data/raw/saraga/audio/Raag Jog & Hameer by Brajeshwar Mukherjee/Raag Hameer/Raag Hameer.mp3.mp3,Raag Hameer.mp3.mp3,Hamīr,Hameer,901.108,44100,2,MP3,,Raag Jog & Hameer,Harmonium; Tabla; Voice,146.832384,,HOLD
+d0781259-2c63-4b35-8ca3-75c19a98e275,saraga,data/raw/saraga/audio/Raag Jog & Hameer by Brajeshwar Mukherjee/Raag Jog/Raag Jog.mp3.mp3,Raag Jog.mp3.mp3,Jōg,Jog,2013.454,44100,2,MP3,,Raag Jog & Hameer,Harmonium; Tabla; Voice,146.832384,,HOLD
+f89ad73c-88a0-4cb4-b8cc-e5241a77d8b9,saraga,data/raw/saraga/audio/Raag Jog & Kirwani Bhajan by Kaustuv Kanti Ganguli/Kirwani Bhajan/Kirwani Bhajan.mp3.mp3,Kirwani Bhajan.mp3.mp3,Kīravāṇi,Kirwani,603.913,44100,2,MP3,Kaustuv Kanti Ganguli,Raag Jog & Kirwani Bhajan,Voice; Violin; Tabla,146.832384,,HOLD
+99dcaebe-ab49-4fa3-ab6c-a9458143af8e,saraga,data/raw/saraga/audio/Raag Jog & Kirwani Bhajan by Kaustuv Kanti Ganguli/Raag Jog/Raag Jog.mp3.mp3,Raag Jog.mp3.mp3,Jōg,Jog,2923.665,44100,2,MP3,Kaustuv Kanti Ganguli,Raag Jog & Kirwani Bhajan,Voice; Violin; Tabla,146.832384,,HOLD
+f49ac932-a7d3-4031-ae44-acf5ea47eca1,saraga,"data/raw/saraga/audio/Raag Kalyan, Bhimpalasi & Dhani by Satyasheel Deshpande/Raag Bhimpalasi/Raag Bhimpalasi.mp3.mp3",Raag Bhimpalasi.mp3.mp3,Bhimapalās,Bhimpalasi,1905.746,44100,2,MP3,,"Raag Kalyan, Bhimpalasi & Dhani",Tabla; Voice,147.682975,,KEEP
+a9431b48-880b-4dcb-96f5-6f2c11879fb1,saraga,"data/raw/saraga/audio/Raag Kalyan, Bhimpalasi & Dhani by Satyasheel Deshpande/Raag Dhani/Raag Dhani.mp3.mp3",Raag Dhani.mp3.mp3,Dhanī,Dhani,847.74,44100,2,MP3,,"Raag Kalyan, Bhimpalasi & Dhani",Voice,147.682975,,HOLD
+ee7cec18-bc81-4b96-8778-9bda53c8c86e,saraga,"data/raw/saraga/audio/Raag Kalyan, Bhimpalasi & Dhani by Satyasheel Deshpande/Raag Kalyan/Raag Kalyan.mp3.mp3",Raag Kalyan.mp3.mp3,Kalyāṇ,Kalyan,2032.053,44100,2,MP3,,"Raag Kalyan, Bhimpalasi & Dhani",Voice,147.682975,,HOLD
+566d6c64-ae66-45e7-9f91-e33cd6c0f18f,saraga,data/raw/saraga/audio/Raag Kedar & Jog by Ajoy Chakrabarty/Raag Jog/Raag Jog.mp3.mp3,Raag Jog.mp3.mp3,Jōg,Jog,3147.33,44100,2,MP3,Ajoy Chakrabarty,Raag Kedar & Jog,Voice,146.832384,,HOLD
+dc09e696-88d1-427f-bb1b-92d899ed9af1,saraga,data/raw/saraga/audio/Raag Kedar & Jog by Ajoy Chakrabarty/Raag Kedar/Raag Kedar.mp3.mp3,Raag Kedar.mp3.mp3,Kēdār,Kedar,2727.008,48000,2,MP3,Ajoy Chakrabarty,Raag Kedar & Jog,Voice,140.201669,,KEEP
+80d7ae8a-c78b-4469-a3de-b1271df8c50f,saraga,data/raw/saraga/audio/Raag Kedar & Sohani by Sameehan Kashalkar/Raag Kedar/Raag Kedar.mp3.mp3,Raag Kedar.mp3.mp3,,,2622.865,44100,2,MP3,Sameehan Kashalkar,Raag Kedar & Sohani,Tabla; Voice; Harmonium,155.563492,,EXCLUDED
+59b4daa8-bc31-446d-9f1d-670d5adec627,saraga,data/raw/saraga/audio/Raag Kedar & Sohani by Sameehan Kashalkar/Raag Sohani/Raag Sohani.mp3.mp3,Raag Sohani.mp3.mp3,,,678.205,44100,2,MP3,Sameehan Kashalkar,Raag Kedar & Sohani,Tabla; Voice; Harmonium,155.563492,,EXCLUDED
+cf1b51f3-aa25-4fb2-bf63-f0271448abf0,saraga,data/raw/saraga/audio/Raag Lagan Gandhar & Nirgun Bhajan by Kumar Gandharva/Nirgun Bhajan/Nirgun Bhajan.mp3.mp3,Nirgun Bhajan.mp3.mp3,Miśra kaliṅgaḍā,Mishra Kalingada,787.789,44100,2,MP3,,Raag Lagan Gandhar & Nirgun Bhajan,Voice,189.321316,,HOLD
+34c7f5c5-cd81-4a53-ae65-90c97f9effd2,saraga,data/raw/saraga/audio/Raag Lagan Gandhar & Nirgun Bhajan by Kumar Gandharva/Raag Lagan Gandhar/Raag Lagan Gandhar.mp3.mp3,Raag Lagan Gandhar.mp3.mp3,Lagan gāndhār,Lagan Gandhar,2953.862,44100,2,MP3,,Raag Lagan Gandhar & Nirgun Bhajan,Voice,188.230906,,HOLD
+d2b7d16c-d6c2-4ed0-9b63-312217b02a9e,saraga,data/raw/saraga/audio/Raag Lalit & Bibhas by Omkar Dadarkar/Raag Bibhas/Raag Bibhas.mp3.mp3,Raag Bibhas.mp3.mp3,Bibhās,Bibhas,849.516,44100,2,MP3,,Raag Lalit & Bibhas,Sarangi; Harmonium; Tabla; Voice,156.464662,,KEEP
+8e815f51-194f-4e14-b1e3-5a214590d895,saraga,data/raw/saraga/audio/Raag Lalit & Bibhas by Omkar Dadarkar/Raag Lalit/Raag Lalit.mp3.mp3,Raag Lalit.mp3.mp3,Lalit,Lalit,2445.363,44100,2,MP3,,Raag Lalit & Bibhas,Sarangi; Harmonium; Tabla; Voice,156.464662,,KEEP
+6bb27c39-a1d0-4775-8915-662044c43352,saraga,"data/raw/saraga/audio/Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande/Majh Khamaj Thumri/Majh Khamaj Thumri.mp3.mp3",Majh Khamaj Thumri.mp3.mp3,Mājh khamāj,Maajh Khamaj,323.495,44100,2,MP3,,"Raag Malkauns, Chandrakauns & Majh Khamaj Thumri",Voice,141.013849,,HOLD
+49747cb6-7edc-43aa-bf15-44a6043f6472,saraga,"data/raw/saraga/audio/Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande/Raag Chandrakauns/Raag Chandrakauns.mp3.mp3",Raag Chandrakauns.mp3.mp3,Candrakauns,Chandrakauns,239.008,44100,2,MP3,,"Raag Malkauns, Chandrakauns & Majh Khamaj Thumri",Voice,141.013849,,HOLD
+52944bc0-4639-4760-be76-f2720a20be81,saraga,"data/raw/saraga/audio/Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande/Raag Malkauns/Raag Malkauns.mp3.mp3",Raag Malkauns.mp3.mp3,Mālkauns,Malkauns,2318.49,44100,2,MP3,,"Raag Malkauns, Chandrakauns & Majh Khamaj Thumri",Voice,141.013849,,KEEP
+78e3eb01-f033-4461-9a3f-3ffbdf0834fb,saraga,data/raw/saraga/audio/Raag Marwa & Hameer by Sameehan Kashalkar/Raag Hameer/Raag Hameer.mp3.mp3,Raag Hameer.mp3.mp3,Hamīr,Hameer,1131.544,48000,2,MP3,,Raag Marwa & Hameer,Tabla; Voice; Harmonium,146.832384,,HOLD
+1a311323-791b-46fa-ab59-b749adcd18e1,saraga,data/raw/saraga/audio/Raag Marwa & Hameer by Sameehan Kashalkar/Raag Marwa/Raag Marwa.mp3.mp3,Raag Marwa.mp3.mp3,Mārvā,Marwa,2039.692,48000,2,MP3,,Raag Marwa & Hameer,Tabla; Voice; Harmonium,146.832384,,KEEP
+98afad39-5abc-4c96-b7af-5f2c70831066,saraga,data/raw/saraga/audio/Raag Marwa & Shree by Omkar Dadarkar/Raag Marwa/Raag Marwa.mp3.mp3,Raag Marwa.mp3.mp3,Mārvā,Marwa,1937.777,44100,2,MP3,,Raag Marwa & Shree,Tabla; Harmonium; Voice,152.010417,,KEEP
+f3313201-ab83-4633-b463-60b862ab1a21,saraga,data/raw/saraga/audio/Raag Marwa & Shree by Omkar Dadarkar/Raag Shree/Raag Shree.mp3.mp3,Raag Shree.mp3.mp3,Śrī,Shree,2250.306,44100,2,MP3,,Raag Marwa & Shree,Harmonium; Voice; Tabla,152.010417,,KEEP
+1f9922a5-0366-4461-96ac-81a31703416b,saraga,data/raw/saraga/audio/Raag Mian Malhar & Ramdasi Malhar by Deborshee Bhattacharya/Raag Mian Malhar/Raag Mian Malhar.mp3.mp3,Raag Mian Malhar.mp3.mp3,Miyām̐ malhār,Miyan Malhar,3935.503,44100,2,MP3,,Raag Mian Malhar & Ramdasi Malhar,Voice; Tabla; Harmonium,146.832384,,HOLD
+9310d945-c36c-4d0a-90fd-2afc8fdec1a4,saraga,data/raw/saraga/audio/Raag Mian Malhar & Ramdasi Malhar by Deborshee Bhattacharya/Raag Ramdasi Malhar/Raag Ramdasi Malhar.mp3.mp3,Raag Ramdasi Malhar.mp3.mp3,Rāmdāsī malhār,Ramdasi Malhar,696.113,44100,2,MP3,,Raag Mian Malhar & Ramdasi Malhar,Tabla; Harmonium,147.682975,,HOLD
+adf0b8ea-cc74-410f-bd52-d59c08c78783,saraga,data/raw/saraga/audio/Raag Mian Malhar & Ramdasi Malhar by Satyasheel Deshpande/Raag Mian Malhar/Raag Mian Malhar.mp3.mp3,Raag Mian Malhar.mp3.mp3,Miyām̐ malhār,Miyan Malhar,2847.988,44100,2,MP3,,Raag Mian Malhar & Ramdasi Malhar,Harmonium; Voice; Tabla,139.394167,,HOLD
+c2d94545-9d2f-4197-8902-c1a1bdcb72f8,saraga,data/raw/saraga/audio/Raag Mian Malhar & Ramdasi Malhar by Satyasheel Deshpande/Raag Ramdasi Malhar/Raag Ramdasi Malhar.mp3.mp3,Raag Ramdasi Malhar.mp3.mp3,Rāmdāsī malhār,Ramdasi Malhar,674.529,44100,2,MP3,,Raag Mian Malhar & Ramdasi Malhar,Harmonium; Voice; Tabla,139.394167,,HOLD
+aea2a29d-9ca0-4cd5-b3e9-9dcacd95165c,saraga,data/raw/saraga/audio/Raag Poorva & Gaud Malhar by Sameehan Kashalkar/Raag Gaud Malhar/Raag Gaud Malhar.mp3.mp3,Raag Gaud Malhar.mp3.mp3,,,952.151,44100,2,MP3,Sameehan Kashalkar,Raag Poorva & Gaud Malhar,Tabla; Voice; Harmonium,146.832384,,EXCLUDED
+43957847-9bdd-4f81-a540-3db26a0ad652,saraga,data/raw/saraga/audio/Raag Poorva & Gaud Malhar by Sameehan Kashalkar/Raag Poorva/Raag Poorva.mp3.mp3,Raag Poorva.mp3.mp3,,,2945.19,44100,2,MP3,Sameehan Kashalkar,Raag Poorva & Gaud Malhar,Tabla; Voice; Harmonium,147.682975,,EXCLUDED
+456b18c5-e88b-49b2-ab3e-bcf7cb2d093a,saraga,data/raw/saraga/audio/Raag Puriya & Bhimpalasi by Brajeshwar Mukherjee/Raag Bhimpalasi/Raag Bhimpalasi.mp3.mp3,Raag Bhimpalasi.mp3.mp3,,,872.989,48000,2,MP3,Brajeshwar Mukherjee,Raag Puriya & Bhimpalasi,Harmonium; Voice,146.832384,,EXCLUDED
+ecf28526-9da7-43c6-b039-ed9f7e6ca50b,saraga,data/raw/saraga/audio/Raag Puriya & Bhimpalasi by Brajeshwar Mukherjee/Raag Puriya/Raag Puriya.mp3.mp3,Raag Puriya.mp3.mp3,,,1849.549,48000,2,MP3,Brajeshwar Mukherjee,Raag Puriya & Bhimpalasi,Tabla; Voice; Harmonium,146.832384,,EXCLUDED
+9dcfa70f-9205-4848-8325-649cc900b12c,saraga,data/raw/saraga/audio/Raag Sawani & Bahar by Ulhas Kashalkar/Raag Bahar/Raag Bahar.mp3.mp3,Raag Bahar.mp3.mp3,,,683.351,44100,2,MP3,Ulhas Kashalkar,Raag Sawani & Bahar,Voice; Harmonium; Tabla,158.282694,,EXCLUDED
+c5692011-a1e4-469b-a978-15a516c7b1c4,saraga,data/raw/saraga/audio/Raag Sawani & Bahar by Ulhas Kashalkar/Raag Sawani/Raag Sawani.mp3.mp3,Raag Sawani.mp3.mp3,,,1322.124,44100,2,MP3,Ulhas Kashalkar,Raag Sawani & Bahar,Voice; Harmonium; Tabla,158.282694,,EXCLUDED
+b3a43a82-b3c3-49bf-bd3d-db561c1ec355,saraga,data/raw/saraga/audio/Raag Shree by Deborshee Bhattacharya/Raag Shree/Raag Shree.mp3.mp3,Raag Shree.mp3.mp3,Śrī,Shree,3048.907,44100,2,MP3,Deborshee Bhattacharya,Raag Shree,Voice; Harmonium,146.832384,,KEEP
+928a430e-813e-48b0-8a23-566e74aa8dc9,saraga,data/raw/saraga/audio/Raag Shree by Kaustuv Kanti Ganguli/Raag Shree/Raag Shree.mp3.mp3,Raag Shree.mp3.mp3,Śrī,Shree,3819.404,44100,2,MP3,,Raag Shree,Tabla; Voice; Harmonium,146.832384,,KEEP
+1da7a284-99d3-46be-9537-13e2edf8d928,saraga,"data/raw/saraga/audio/Raag Shree, Lalit Pancham & Bhairavi Thumri by Kaustuv Kanti Ganguli/Bhairavi Thumri/Bhairavi Thumri.mp3.mp3",Bhairavi Thumri.mp3.mp3,Bhairavi,Bhairavi,1152.719,44100,2,MP3,Kaustuv Kanti Ganguli,"Raag Shree, Lalit Pancham & Bhairavi Thumri",Voice; Violin; Harmonium; Tabla,195.997718,,KEEP
+c80561d6-5e81-42bb-b404-ac659741b643,saraga,"data/raw/saraga/audio/Raag Shree, Lalit Pancham & Bhairavi Thumri by Kaustuv Kanti Ganguli/Raag Lalit Pancham/Raag Lalit Pancham.mp3.mp3",Raag Lalit Pancham.mp3.mp3,Lalit pañcam,Lalit Pancham,2040.047,44100,2,MP3,Kaustuv Kanti Ganguli,"Raag Shree, Lalit Pancham & Bhairavi Thumri",Voice; Violin; Harmonium; Tabla,146.832384,,HOLD
+454f0c85-a41b-48c1-afa5-b4f5dbcb7947,saraga,"data/raw/saraga/audio/Raag Shree, Lalit Pancham & Bhairavi Thumri by Kaustuv Kanti Ganguli/Raag Shree/Raag Shree.mp3.mp3",Raag Shree.mp3.mp3,Śrī,Shree,3969.66,44100,2,MP3,Kaustuv Kanti Ganguli,"Raag Shree, Lalit Pancham & Bhairavi Thumri",Voice; Violin; Harmonium; Tabla,146.832384,,KEEP
+3f162361-c4fa-46f9-bc56-58242d978449,saraga,data/raw/saraga/audio/Raag Todi by Kumar Gandharva/Raag Todi/Raag Todi.mp3.mp3,Raag Todi.mp3.mp3,Tōḍī,Todi,4265.653,44100,2,MP3,,Raag Todi,Voice,187.146775,,HOLD
+5c464958-6411-480b-8b36-84da68bea036,saraga,data/raw/saraga/audio/Subha Chale Sham Dhale by Ajoy Chakrabarty/Introduction about Ajoy Chakrabarty/Introduction about Ajoy Chakrabarty.mp3.mp3,Introduction about Ajoy Chakrabarty.mp3.mp3,,,210.413,44100,2,MP3,,Subha Chale Sham Dhale,Tabla; Harmonium,141.830734,,EXCLUDED
+4bc5cb16-9808-431b-87a4-4dd63af6bb17,saraga,data/raw/saraga/audio/Subha Chale Sham Dhale by Ajoy Chakrabarty/Introductory speech by Ajoy Chakrabarty/Introductory speech by Ajoy Chakrabarty.mp3.mp3,Introductory speech by Ajoy Chakrabarty.mp3.mp3,,,183.053,44100,2,MP3,,Subha Chale Sham Dhale,Tabla; Harmonium,141.830734,,EXCLUDED
+9af146bf-4fdf-41bb-a665-eacc15741d32,saraga,data/raw/saraga/audio/Subha Chale Sham Dhale by Ajoy Chakrabarty/Raga Lalit - Khayal/Raga Lalit - Khayal.mp3.mp3,Raga Lalit - Khayal.mp3.mp3,Lalit,Lalit,3616.987,44100,2,MP3,,Subha Chale Sham Dhale,Tabla; Harmonium,141.830734,,KEEP
+6ac112dd-b04f-4ad8-9913-1a1bfc35c5ec,saraga,data/raw/saraga/audio/Subha Chale Sham Dhale by Ajoy Chakrabarty/Raga Shree - Khayal/Raga Shree - Khayal.mp3.mp3,Raga Shree - Khayal.mp3.mp3,Śrī,Shree,2950.787,44100,2,MP3,,Subha Chale Sham Dhale,Violin; Harmonium; Tabla,148.538494,,KEEP
+6e377364-69ab-48fb-a90c-0661429cfdec,saraga,data/raw/saraga/audio/Subha Chale Sham Dhale by Ajoy Chakrabarty/Thumri in Piloo/Thumri in Piloo.mp3.mp3,Thumri in Piloo.mp3.mp3,Miśra pīlū,Mishra Pilu,765.213,44100,2,MP3,,Subha Chale Sham Dhale,Violin; Harmonium; Tabla,148.538494,,HOLD
+imrd_0001,imrd,data/raw/indian_music_raag/audio/asavari01.wav,asavari01.wav,asavari,Asawari,254.113,44100,1,WAV,,,,,,KEEP
+imrd_0002,imrd,data/raw/indian_music_raag/audio/asavari02.wav,asavari02.wav,asavari,Asawari,226.815,44100,1,WAV,,,,,,KEEP
+imrd_0003,imrd,data/raw/indian_music_raag/audio/asavari03.wav,asavari03.wav,asavari,Asawari,226.815,44100,1,WAV,,,,,,KEEP
+imrd_0004,imrd,data/raw/indian_music_raag/audio/asavari04.wav,asavari04.wav,asavari,Asawari,229.021,44100,1,WAV,,,,,,KEEP
+imrd_0005,imrd,data/raw/indian_music_raag/audio/asavari05.wav,asavari05.wav,asavari,Asawari,240.152,44100,1,WAV,,,,,,KEEP
+imrd_0006,imrd,data/raw/indian_music_raag/audio/asavari25.wav,asavari25.wav,asavari,Asawari,68.8,44100,1,WAV,,,,,,KEEP
+imrd_0007,imrd,data/raw/indian_music_raag/audio/asavari26.wav,asavari26.wav,asavari,Asawari,52.969,44100,1,WAV,,,,,,KEEP
+imrd_0008,imrd,data/raw/indian_music_raag/audio/asavari27.wav,asavari27.wav,asavari,Asawari,86.843,44100,1,WAV,,,,,,KEEP
+imrd_0009,imrd,data/raw/indian_music_raag/audio/asavari28.wav,asavari28.wav,asavari,Asawari,87.075,44100,1,WAV,,,,,,KEEP
+imrd_0010,imrd,data/raw/indian_music_raag/audio/asavari29.wav,asavari29.wav,asavari,Asawari,87.075,44100,1,WAV,,,,,,KEEP
+imrd_0011,imrd,data/raw/indian_music_raag/audio/bageshree01.wav,bageshree01.wav,bageshree,Bageshree,297.448,44100,1,WAV,,,,,,KEEP
+imrd_0012,imrd,data/raw/indian_music_raag/audio/bageshree02.wav,bageshree02.wav,bageshree,Bageshree,291.454,44100,1,WAV,,,,,,KEEP
+imrd_0013,imrd,data/raw/indian_music_raag/audio/bageshree03.wav,bageshree03.wav,bageshree,Bageshree,287.536,44100,1,WAV,,,,,,KEEP
+imrd_0014,imrd,data/raw/indian_music_raag/audio/bageshree04.wav,bageshree04.wav,bageshree,Bageshree,286.607,44100,1,WAV,,,,,,KEEP
+imrd_0015,imrd,data/raw/indian_music_raag/audio/bageshree05.wav,bageshree05.wav,bageshree,Bageshree,285.315,44100,1,WAV,,,,,,KEEP
+imrd_0016,imrd,data/raw/indian_music_raag/audio/bageshree24.wav,bageshree24.wav,bageshree,Bageshree,128.421,44100,1,WAV,,,,,,KEEP
+imrd_0017,imrd,data/raw/indian_music_raag/audio/bageshree25.wav,bageshree25.wav,bageshree,Bageshree,118.654,44100,1,WAV,,,,,,KEEP
+imrd_0018,imrd,data/raw/indian_music_raag/audio/bageshree27.wav,bageshree27.wav,bageshree,Bageshree,43.059,44100,1,WAV,,,,,,KEEP
+imrd_0019,imrd,data/raw/indian_music_raag/audio/bageshree28.wav,bageshree28.wav,bageshree,Bageshree,67.178,44100,1,WAV,,,,,,KEEP
+imrd_0020,imrd,data/raw/indian_music_raag/audio/bageshree29.wav,bageshree29.wav,bageshree,Bageshree,72.2,44100,1,WAV,,,,,,KEEP
+imrd_0021,imrd,data/raw/indian_music_raag/audio/bageshree30.wav,bageshree30.wav,bageshree,Bageshree,73.07,44100,1,WAV,,,,,,KEEP
+imrd_0022,imrd,data/raw/indian_music_raag/audio/bageshree31.wav,bageshree31.wav,bageshree,Bageshree,78.933,44100,1,WAV,,,,,,KEEP
+imrd_0023,imrd,data/raw/indian_music_raag/audio/Bhairavi01.wav,Bhairavi01.wav,Bhairavi,Bhairavi,293.587,44100,1,WAV,,,,,,KEEP
+imrd_0024,imrd,data/raw/indian_music_raag/audio/Bhairavi02.wav,Bhairavi02.wav,Bhairavi,Bhairavi,269.976,44100,1,WAV,,,,,,KEEP
+imrd_0025,imrd,data/raw/indian_music_raag/audio/Bhairavi03.wav,Bhairavi03.wav,Bhairavi,Bhairavi,260.209,44100,1,WAV,,,,,,KEEP
+imrd_0026,imrd,data/raw/indian_music_raag/audio/Bhairavi04.wav,Bhairavi04.wav,Bhairavi,Bhairavi,262.705,44100,1,WAV,,,,,,KEEP
+imrd_0027,imrd,data/raw/indian_music_raag/audio/Bhairavi05.wav,Bhairavi05.wav,Bhairavi,Bhairavi,283.719,44100,1,WAV,,,,,,KEEP
+imrd_0028,imrd,data/raw/indian_music_raag/audio/bhairavi27.wav,bhairavi27.wav,bhairavi,Bhairavi,52.114,44100,1,WAV,,,,,,KEEP
+imrd_0029,imrd,data/raw/indian_music_raag/audio/bhairavi28.wav,bhairavi28.wav,bhairavi,Bhairavi,57.847,44100,1,WAV,,,,,,KEEP
+imrd_0030,imrd,data/raw/indian_music_raag/audio/bhairavi29.wav,bhairavi29.wav,bhairavi,Bhairavi,57.049,44100,1,WAV,,,,,,KEEP
+imrd_0031,imrd,data/raw/indian_music_raag/audio/bhairavi30.wav,bhairavi30.wav,bhairavi,Bhairavi,53.261,44100,1,WAV,,,,,,KEEP
+imrd_0032,imrd,data/raw/indian_music_raag/audio/bhairavi31.wav,bhairavi31.wav,bhairavi,Bhairavi,57.339,44100,1,WAV,,,,,,KEEP
+imrd_0033,imrd,data/raw/indian_music_raag/audio/bhoop01.wav,bhoop01.wav,bhoop,Bhoopali,274.489,44100,1,WAV,,,,,,KEEP
+imrd_0034,imrd,data/raw/indian_music_raag/audio/bhoop02.wav,bhoop02.wav,bhoop,Bhoopali,270.629,44100,1,WAV,,,,,,KEEP
+imrd_0035,imrd,data/raw/indian_music_raag/audio/bhoop03.wav,bhoop03.wav,bhoop,Bhoopali,207.006,44100,1,WAV,,,,,,KEEP
+imrd_0036,imrd,data/raw/indian_music_raag/audio/bhoop04.wav,bhoop04.wav,bhoop,Bhoopali,236.408,44100,1,WAV,,,,,,KEEP
+imrd_0037,imrd,data/raw/indian_music_raag/audio/bhoop05.wav,bhoop05.wav,bhoop,Bhoopali,224.987,44100,1,WAV,,,,,,KEEP
+imrd_0038,imrd,data/raw/indian_music_raag/audio/bhoopali21.wav,bhoopali21.wav,bhoopali,Bhoopali,40.875,44100,1,WAV,,,,,,KEEP
+imrd_0039,imrd,data/raw/indian_music_raag/audio/bhoopali22.wav,bhoopali22.wav,bhoopali,Bhoopali,56.599,44100,1,WAV,,,,,,KEEP
+imrd_0040,imrd,data/raw/indian_music_raag/audio/bhoopali23.wav,bhoopali23.wav,bhoopali,Bhoopali,56.12,44100,1,WAV,,,,,,KEEP
+imrd_0041,imrd,data/raw/indian_music_raag/audio/bhoopali24.wav,bhoopali24.wav,bhoopali,Bhoopali,55.742,44100,1,WAV,,,,,,KEEP
+imrd_0042,imrd,data/raw/indian_music_raag/audio/bhoopali25.wav,bhoopali25.wav,bhoopali,Bhoopali,56.831,44100,1,WAV,,,,,,KEEP
+imrd_0043,imrd,data/raw/indian_music_raag/audio/darbari26.wav,darbari26.wav,darbari,Darbari Kanada,21.13,44100,1,WAV,,,,,,KEEP
+imrd_0044,imrd,data/raw/indian_music_raag/audio/darbari27.wav,darbari27.wav,darbari,Darbari Kanada,22.349,44100,1,WAV,,,,,,KEEP
+imrd_0045,imrd,data/raw/indian_music_raag/audio/darbari28.wav,darbari28.wav,darbari,Darbari Kanada,20.216,44100,1,WAV,,,,,,KEEP
+imrd_0046,imrd,data/raw/indian_music_raag/audio/darbari29.wav,darbari29.wav,darbari,Darbari Kanada,20.84,44100,1,WAV,,,,,,KEEP
+imrd_0047,imrd,data/raw/indian_music_raag/audio/darbari30.wav,darbari30.wav,darbari,Darbari Kanada,20.55,44100,1,WAV,,,,,,KEEP
+imrd_0048,imrd,data/raw/indian_music_raag/audio/DKanada01.wav,DKanada01.wav,DKanada,Darbari Kanada,143.877,44100,1,WAV,,,,,,KEEP
+imrd_0049,imrd,data/raw/indian_music_raag/audio/DKanada02.wav,DKanada02.wav,DKanada,Darbari Kanada,136.025,44100,1,WAV,,,,,,KEEP
+imrd_0050,imrd,data/raw/indian_music_raag/audio/DKanada03.wav,DKanada03.wav,DKanada,Darbari Kanada,186.166,44100,1,WAV,,,,,,KEEP
+imrd_0051,imrd,data/raw/indian_music_raag/audio/DKanada04.wav,DKanada04.wav,DKanada,Darbari Kanada,163.338,44100,1,WAV,,,,,,KEEP
+imrd_0052,imrd,data/raw/indian_music_raag/audio/DKanada05.wav,DKanada05.wav,DKanada,Darbari Kanada,175.369,44100,1,WAV,,,,,,KEEP
+imrd_0053,imrd,data/raw/indian_music_raag/audio/malkauns01.wav,malkauns01.wav,malkauns,Malkauns,343.452,44100,1,WAV,,,,,,KEEP
+imrd_0054,imrd,data/raw/indian_music_raag/audio/malkauns02.wav,malkauns02.wav,malkauns,Malkauns,351.434,44100,1,WAV,,,,,,KEEP
+imrd_0055,imrd,data/raw/indian_music_raag/audio/malkauns03.wav,malkauns03.wav,malkauns,Malkauns,261.413,44100,1,WAV,,,,,,KEEP
+imrd_0056,imrd,data/raw/indian_music_raag/audio/malkauns04.wav,malkauns04.wav,malkauns,Malkauns,277.812,44100,1,WAV,,,,,,KEEP
+imrd_0057,imrd,data/raw/indian_music_raag/audio/malkauns05.wav,malkauns05.wav,malkauns,Malkauns,312.889,44100,1,WAV,,,,,,KEEP
+imrd_0058,imrd,data/raw/indian_music_raag/audio/malkauns25.wav,malkauns25.wav,malkauns,Malkauns,15.2,44100,1,WAV,,,,,,KEEP
+imrd_0059,imrd,data/raw/indian_music_raag/audio/malkauns26.wav,malkauns26.wav,malkauns,Malkauns,14.8,44100,1,WAV,,,,,,KEEP
+imrd_0060,imrd,data/raw/indian_music_raag/audio/malkauns27.wav,malkauns27.wav,malkauns,Malkauns,14.8,44100,1,WAV,,,,,,KEEP
+imrd_0061,imrd,data/raw/indian_music_raag/audio/malkauns28.wav,malkauns28.wav,malkauns,Malkauns,20.0,44100,1,WAV,,,,,,KEEP
+imrd_0062,imrd,data/raw/indian_music_raag/audio/malkauns29.wav,malkauns29.wav,malkauns,Malkauns,44.875,44100,1,WAV,,,,,,KEEP
+imrd_0063,imrd,data/raw/indian_music_raag/audio/sarang01.wav,sarang01.wav,sarang,Sarang,262.269,44100,1,WAV,,,,,,KEEP
+imrd_0064,imrd,data/raw/indian_music_raag/audio/sarang02.wav,sarang02.wav,sarang,Sarang,298.971,44100,1,WAV,,,,,,KEEP
+imrd_0065,imrd,data/raw/indian_music_raag/audio/sarang03.wav,sarang03.wav,sarang,Sarang,282.456,44100,1,WAV,,,,,,KEEP
+imrd_0066,imrd,data/raw/indian_music_raag/audio/sarang04.wav,sarang04.wav,sarang,Sarang,265.549,44100,1,WAV,,,,,,KEEP
+imrd_0067,imrd,data/raw/indian_music_raag/audio/sarang05.wav,sarang05.wav,sarang,Sarang,264.403,44100,1,WAV,,,,,,KEEP
+imrd_0068,imrd,data/raw/indian_music_raag/audio/sarang16.wav,sarang16.wav,sarang,Sarang,14.266,44100,1,WAV,,,,,,KEEP
+imrd_0069,imrd,data/raw/indian_music_raag/audio/sarang17.wav,sarang17.wav,sarang,Sarang,14.266,44100,1,WAV,,,,,,KEEP
+imrd_0070,imrd,data/raw/indian_music_raag/audio/sarang18.wav,sarang18.wav,sarang,Sarang,14.338,44100,1,WAV,,,,,,KEEP
+imrd_0071,imrd,data/raw/indian_music_raag/audio/sarang19.wav,sarang19.wav,sarang,Sarang,13.758,44100,1,WAV,,,,,,KEEP
+imrd_0072,imrd,data/raw/indian_music_raag/audio/sarang20.wav,sarang20.wav,sarang,Sarang,14.6,44100,1,WAV,,,,,,KEEP
+imrd_0073,imrd,data/raw/indian_music_raag/audio/yaman01.wav,yaman01.wav,yaman,Yaman,281.585,44100,1,WAV,,,,,,KEEP
+imrd_0074,imrd,data/raw/indian_music_raag/audio/yaman02.wav,yaman02.wav,yaman,Yaman,320.406,44100,1,WAV,,,,,,KEEP
+imrd_0075,imrd,data/raw/indian_music_raag/audio/yaman03.wav,yaman03.wav,yaman,Yaman,264.432,44100,1,WAV,,,,,,KEEP
+imrd_0076,imrd,data/raw/indian_music_raag/audio/yaman04.wav,yaman04.wav,yaman,Yaman,296.461,44100,1,WAV,,,,,,KEEP
+imrd_0077,imrd,data/raw/indian_music_raag/audio/yaman05.wav,yaman05.wav,yaman,Yaman,266.275,44100,1,WAV,,,,,,KEEP
+imrd_0078,imrd,data/raw/indian_music_raag/audio/yaman23.wav,yaman23.wav,yaman,Yaman,75.117,44100,1,WAV,,,,,,KEEP
+imrd_0079,imrd,data/raw/indian_music_raag/audio/yaman24.wav,yaman24.wav,yaman,Yaman,75.088,44100,1,WAV,,,,,,KEEP
+imrd_0080,imrd,data/raw/indian_music_raag/audio/yaman25.wav,yaman25.wav,yaman,Yaman,75.552,44100,1,WAV,,,,,,KEEP
+imrd_0081,imrd,data/raw/indian_music_raag/audio/yaman26.wav,yaman26.wav,yaman,Yaman,77.177,44100,1,WAV,,,,,,KEEP
+imrd_0082,imrd,data/raw/indian_music_raag/audio/yaman27.wav,yaman27.wav,yaman,Yaman,75.537,44100,1,WAV,,,,,,KEEP
+trf_0001,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/0.mp3,0.mp3,Adana,Adana,540.865,44100,2,MP3,,,,,,KEEP
+trf_0002,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/1.mp3,1.mp3,Adana,Adana,151.406,44100,2,MP3,,,,,,KEEP
+trf_0003,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/10.mp3,10.mp3,Adana,Adana,1010.86,44100,2,MP3,,,,,,KEEP
+trf_0004,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/11.mp3,11.mp3,Adana,Adana,1242.312,48000,2,MP3,,,,,,KEEP
+trf_0005,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/12.mp3,12.mp3,Adana,Adana,1199.7,44100,2,MP3,,,,,,KEEP
+trf_0006,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/13.mp3,13.mp3,Adana,Adana,1584.744,44100,2,MP3,,,,,,KEEP
+trf_0007,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/14.mp3,14.mp3,Adana,Adana,213.96,48000,2,MP3,,,,,,KEEP
+trf_0008,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/15.mp3,15.mp3,Adana,Adana,206.04,48000,2,MP3,,,,,,KEEP
+trf_0009,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/16.mp3,16.mp3,Adana,Adana,187.128,48000,2,MP3,,,,,,KEEP
+trf_0010,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/17.mp3,17.mp3,Adana,Adana,709.608,48000,2,MP3,,,,,,KEEP
+trf_0011,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/18.mp3,18.mp3,Adana,Adana,1114.227,44100,2,MP3,,,,,,KEEP
+trf_0012,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/19.mp3,19.mp3,Adana,Adana,231.21,44100,2,MP3,,,,,,KEEP
+trf_0013,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/2.mp3,2.mp3,Adana,Adana,608.993,44100,2,MP3,,,,,,KEEP
+trf_0014,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/20.mp3,20.mp3,Adana,Adana,1202.495,44100,2,MP3,,,,,,KEEP
+trf_0015,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/21.mp3,21.mp3,Adana,Adana,388.389,44100,2,MP3,,,,,,KEEP
+trf_0016,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/22.mp3,22.mp3,Adana,Adana,699.611,44100,2,MP3,,,,,,KEEP
+trf_0017,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/23.mp3,23.mp3,Adana,Adana,349.649,44100,2,MP3,,,,,,KEEP
+trf_0018,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/24.mp3,24.mp3,Adana,Adana,1739.448,48000,2,MP3,,,,,,KEEP
+trf_0019,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/25.mp3,25.mp3,Adana,Adana,371.043,44100,2,MP3,,,,,,KEEP
+trf_0020,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/3.mp3,3.mp3,Adana,Adana,440.059,44100,2,MP3,,,,,,KEEP
+trf_0021,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/4.mp3,4.mp3,Adana,Adana,735.608,44100,2,MP3,,,,,,KEEP
+trf_0022,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/5.mp3,5.mp3,Adana,Adana,555.102,44100,2,MP3,,,,,,KEEP
+trf_0023,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/6.mp3,6.mp3,Adana,Adana,645.773,44100,2,MP3,,,,,,KEEP
+trf_0024,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/7.mp3,7.mp3,Adana,Adana,876.042,44100,2,MP3,,,,,,KEEP
+trf_0025,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/8.mp3,8.mp3,Adana,Adana,1020.761,44100,2,MP3,,,,,,KEEP
+trf_0026,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Adana/9.mp3,9.mp3,Adana,Adana,1676.591,44100,2,MP3,,,,,,KEEP
+trf_0027,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/0.mp3,0.mp3,Asavari,Asawari,139.416,48000,2,MP3,,,,,,KEEP
+trf_0028,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/1.mp3,1.mp3,Asavari,Asawari,325.08,48000,2,MP3,,,,,,KEEP
+trf_0029,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/2.mp3,2.mp3,Asavari,Asawari,375.12,48000,2,MP3,,,,,,KEEP
+trf_0030,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/3.mp3,3.mp3,Asavari,Asawari,320.836,44100,2,MP3,,,,,,KEEP
+trf_0031,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/4.mp3,4.mp3,Asavari,Asawari,285.096,48000,2,MP3,,,,,,KEEP
+trf_0032,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/5.mp3,5.mp3,Asavari,Asawari,281.664,48000,2,MP3,,,,,,KEEP
+trf_0033,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/6.mp3,6.mp3,Asavari,Asawari,302.88,48000,2,MP3,,,,,,KEEP
+trf_0034,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/7.mp3,7.mp3,Asavari,Asawari,222.792,48000,2,MP3,,,,,,KEEP
+trf_0035,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/8.mp3,8.mp3,Asavari,Asawari,234.264,48000,2,MP3,,,,,,KEEP
+trf_0036,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Asavari/9.mp3,9.mp3,Asavari,Asawari,257.136,48000,2,MP3,,,,,,KEEP
+trf_0037,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/0.mp3,0.mp3,Darbari,Darbari,383.808,48000,2,MP3,,,,,,KEEP
+trf_0038,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/1.mp3,1.mp3,Darbari,Darbari,400.536,44100,2,MP3,,,,,,KEEP
+trf_0039,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/10.mp3,10.mp3,Darbari,Darbari,1865.953,44100,2,MP3,,,,,,KEEP
+trf_0040,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/11.mp3,11.mp3,Darbari,Darbari,660.193,44100,2,MP3,,,,,,KEEP
+trf_0041,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/12.mp3,12.mp3,Darbari,Darbari,709.068,44100,2,MP3,,,,,,KEEP
+trf_0042,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/2.mp3,2.mp3,Darbari,Darbari,344.088,48000,2,MP3,,,,,,KEEP
+trf_0043,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/3.mp3,3.mp3,Darbari,Darbari,291.864,48000,2,MP3,,,,,,KEEP
+trf_0044,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/4.mp3,4.mp3,Darbari,Darbari,437.812,44100,2,MP3,,,,,,KEEP
+trf_0045,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/5.mp3,5.mp3,Darbari,Darbari,130.416,48000,2,MP3,,,,,,KEEP
+trf_0046,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/6.mp3,6.mp3,Darbari,Darbari,285.672,48000,2,MP3,,,,,,KEEP
+trf_0047,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/7.mp3,7.mp3,Darbari,Darbari,494.629,44100,2,MP3,,,,,,KEEP
+trf_0048,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/8.mp3,8.mp3,Darbari,Darbari,1100.513,44100,2,MP3,,,,,,KEEP
+trf_0049,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Darbari/9.mp3,9.mp3,Darbari,Darbari,709.068,44100,2,MP3,,,,,,KEEP
+trf_0050,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/0.mp3,0.mp3,Desi,Desi,215.496,48000,2,MP3,,,,,,KEEP
+trf_0051,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/1.mp3,1.mp3,Desi,Desi,3354.331,44100,2,MP3,,,,,,KEEP
+trf_0052,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/10.mp3,10.mp3,Desi,Desi,800.496,44100,2,MP3,,,,,,KEEP
+trf_0053,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/11.mp3,11.mp3,Desi,Desi,1317.564,44100,2,MP3,,,,,,KEEP
+trf_0054,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/2.mp3,2.mp3,Desi,Desi,2205.048,44100,2,MP3,,,,,,KEEP
+trf_0055,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/3.mp3,3.mp3,Desi,Desi,218.616,48000,2,MP3,,,,,,KEEP
+trf_0056,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/4.mp3,4.mp3,Desi,Desi,2648.352,48000,2,MP3,,,,,,KEEP
+trf_0057,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/5.mp3,5.mp3,Desi,Desi,656.136,48000,2,MP3,,,,,,KEEP
+trf_0058,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/6.mp3,6.mp3,Desi,Desi,3205.277,44100,2,MP3,,,,,,KEEP
+trf_0059,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/7.mp3,7.mp3,Desi,Desi,1740.147,44100,2,MP3,,,,,,KEEP
+trf_0060,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/8.mp3,8.mp3,Desi,Desi,1711.464,48000,2,MP3,,,,,,KEEP
+trf_0061,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Desi/9.mp3,9.mp3,Desi,Desi,1133.505,44100,2,MP3,,,,,,KEEP
+trf_0062,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/0.mp3,0.mp3,Jaunpuri,Jaunpuri,408.36,48000,2,MP3,,,,,,KEEP
+trf_0063,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/1.mp3,1.mp3,Jaunpuri,Jaunpuri,1187.213,44100,2,MP3,,,,,,KEEP
+trf_0064,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/10.mp3,10.mp3,Jaunpuri,Jaunpuri,366.132,44100,2,MP3,,,,,,KEEP
+trf_0065,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/11.mp3,11.mp3,Jaunpuri,Jaunpuri,2997.185,44100,2,MP3,,,,,,KEEP
+trf_0066,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/12.mp3,12.mp3,Jaunpuri,Jaunpuri,2513.006,44100,2,MP3,,,,,,KEEP
+trf_0067,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/13.mp3,13.mp3,Jaunpuri,Jaunpuri,3622.322,44100,2,MP3,,,,,,KEEP
+trf_0068,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/2.mp3,2.mp3,Jaunpuri,Jaunpuri,160.052,44100,1,MP3,,,,,,KEEP
+trf_0069,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/3.mp3,3.mp3,Jaunpuri,Jaunpuri,1338.331,44100,2,MP3,,,,,,KEEP
+trf_0070,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/4.mp3,4.mp3,Jaunpuri,Jaunpuri,1150.032,48000,2,MP3,,,,,,KEEP
+trf_0071,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/5.mp3,5.mp3,Jaunpuri,Jaunpuri,190.992,48000,2,MP3,,,,,,KEEP
+trf_0072,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/6.mp3,6.mp3,Jaunpuri,Jaunpuri,2941.776,48000,2,MP3,,,,,,KEEP
+trf_0073,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/7.mp3,7.mp3,Jaunpuri,Jaunpuri,1405.872,48000,2,MP3,,,,,,KEEP
+trf_0074,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/8.mp3,8.mp3,Jaunpuri,Jaunpuri,1019.208,48000,2,MP3,,,,,,KEEP
+trf_0075,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Asavari (thaat)/Jaunpuri/9.mp3,9.mp3,Jaunpuri,Jaunpuri,284.082,44100,2,MP3,,,,,,KEEP
+trf_0076,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/0.mp3,0.mp3,Ahir Bhairav,Ahir Bhairav,268.722,44100,2,MP3,,,,,,KEEP
+trf_0077,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/1.mp3,1.mp3,Ahir Bhairav,Ahir Bhairav,440.973,44100,2,MP3,,,,,,KEEP
+trf_0078,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/10.mp3,10.mp3,Ahir Bhairav,Ahir Bhairav,583.158,44100,2,MP3,,,,,,KEEP
+trf_0079,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/11.mp3,11.mp3,Ahir Bhairav,Ahir Bhairav,355.265,44100,2,MP3,,,,,,KEEP
+trf_0080,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/12.mp3,12.mp3,Ahir Bhairav,Ahir Bhairav,916.584,44100,2,MP3,,,,,,KEEP
+trf_0081,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/2.mp3,2.mp3,Ahir Bhairav,Ahir Bhairav,279.024,48000,2,MP3,,,,,,KEEP
+trf_0082,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/3.mp3,3.mp3,Ahir Bhairav,Ahir Bhairav,213.36,48000,2,MP3,,,,,,KEEP
+trf_0083,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/4.mp3,4.mp3,Ahir Bhairav,Ahir Bhairav,324.258,44100,2,MP3,,,,,,KEEP
+trf_0084,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/5.mp3,5.mp3,Ahir Bhairav,Ahir Bhairav,401.868,44100,2,MP3,,,,,,KEEP
+trf_0085,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/6.mp3,6.mp3,Ahir Bhairav,Ahir Bhairav,981.394,44100,2,MP3,,,,,,KEEP
+trf_0086,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/7.mp3,7.mp3,Ahir Bhairav,Ahir Bhairav,314.88,44100,2,MP3,,,,,,KEEP
+trf_0087,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/8.mp3,8.mp3,Ahir Bhairav,Ahir Bhairav,651.207,44100,2,MP3,,,,,,KEEP
+trf_0088,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ahir Bhairav/9.mp3,9.mp3,Ahir Bhairav,Ahir Bhairav,436.402,44100,2,MP3,,,,,,KEEP
+trf_0089,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/0.mp3,0.mp3,Basant Mukhari,Basant Mukhari,223.344,48000,2,MP3,,,,,,KEEP
+trf_0090,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/1.mp3,1.mp3,Basant Mukhari,Basant Mukhari,287.06,44100,2,MP3,,,,,,KEEP
+trf_0091,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/10.mp3,10.mp3,Basant Mukhari,Basant Mukhari,605.048,44100,2,MP3,,,,,,KEEP
+trf_0092,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/11.mp3,11.mp3,Basant Mukhari,Basant Mukhari,380.944,44100,2,MP3,,,,,,KEEP
+trf_0093,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/2.mp3,2.mp3,Basant Mukhari,Basant Mukhari,312.033,44100,2,MP3,,,,,,KEEP
+trf_0094,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/3.mp3,3.mp3,Basant Mukhari,Basant Mukhari,625.972,44100,2,MP3,,,,,,KEEP
+trf_0095,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/4.mp3,4.mp3,Basant Mukhari,Basant Mukhari,646.632,48000,2,MP3,,,,,,KEEP
+trf_0096,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/5.mp3,5.mp3,Basant Mukhari,Basant Mukhari,1542.408,48000,2,MP3,,,,,,KEEP
+trf_0097,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/6.mp3,6.mp3,Basant Mukhari,Basant Mukhari,341.029,44100,2,MP3,,,,,,KEEP
+trf_0098,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/7.mp3,7.mp3,Basant Mukhari,Basant Mukhari,372.036,44100,2,MP3,,,,,,KEEP
+trf_0099,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/8.mp3,8.mp3,Basant Mukhari,Basant Mukhari,3943.2,48000,2,MP3,,,,,,KEEP
+trf_0100,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Basant Mukhari/9.mp3,9.mp3,Basant Mukhari,Basant Mukhari,504.764,44100,2,MP3,,,,,,KEEP
+trf_0101,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/0.mp3,0.mp3,Bhairav,Bhairav,255.648,48000,2,MP3,,,,,,KEEP
+trf_0102,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/1.mp3,1.mp3,Bhairav,Bhairav,265.08,48000,2,MP3,,,,,,KEEP
+trf_0103,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/10.mp3,10.mp3,Bhairav,Bhairav,488.808,48000,2,MP3,,,,,,KEEP
+trf_0104,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/11.mp3,11.mp3,Bhairav,Bhairav,870.008,44100,2,MP3,,,,,,KEEP
+trf_0105,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/12.mp3,12.mp3,Bhairav,Bhairav,1995.389,44100,2,MP3,,,,,,KEEP
+trf_0106,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/13.mp3,13.mp3,Bhairav,Bhairav,3859.069,44100,2,MP3,,,,,,KEEP
+trf_0107,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/14.mp3,14.mp3,Bhairav,Bhairav,1805.76,48000,2,MP3,,,,,,KEEP
+trf_0108,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/2.mp3,2.mp3,Bhairav,Bhairav,318.768,48000,2,MP3,,,,,,KEEP
+trf_0109,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/3.mp3,3.mp3,Bhairav,Bhairav,195.912,48000,2,MP3,,,,,,KEEP
+trf_0110,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/4.mp3,4.mp3,Bhairav,Bhairav,333.768,48000,2,MP3,,,,,,KEEP
+trf_0111,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/5.mp3,5.mp3,Bhairav,Bhairav,5370.567,44100,2,MP3,,,,,,KEEP
+trf_0112,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/6.mp3,6.mp3,Bhairav,Bhairav,1965.061,44100,2,MP3,,,,,,KEEP
+trf_0113,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/7.mp3,7.mp3,Bhairav,Bhairav,266.815,44100,2,MP3,,,,,,KEEP
+trf_0114,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/8.mp3,8.mp3,Bhairav,Bhairav,667.664,44100,2,MP3,,,,,,KEEP
+trf_0115,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav/9.mp3,9.mp3,Bhairav,Bhairav,550.557,44100,2,MP3,,,,,,KEEP
+trf_0116,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/0.mp3,0.mp3,Bhairav Bahar,Bhairav Bahar,677.355,44100,2,MP3,,,,,,KEEP
+trf_0117,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/1.mp3,1.mp3,Bhairav Bahar,Bhairav Bahar,287.373,44100,2,MP3,,,,,,KEEP
+trf_0118,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/10.mp3,10.mp3,Bhairav Bahar,Bhairav Bahar,952.398,44100,2,MP3,,,,,,KEEP
+trf_0119,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/11.mp3,11.mp3,Bhairav Bahar,Bhairav Bahar,1380.31,44100,2,MP3,,,,,,KEEP
+trf_0120,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/12.mp3,12.mp3,Bhairav Bahar,Bhairav Bahar,645.277,44100,2,MP3,,,,,,KEEP
+trf_0121,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/13.mp3,13.mp3,Bhairav Bahar,Bhairav Bahar,1812.611,44100,2,MP3,,,,,,KEEP
+trf_0122,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/14.mp3,14.mp3,Bhairav Bahar,Bhairav Bahar,2880.967,44100,2,MP3,,,,,,KEEP
+trf_0123,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/15.mp3,15.mp3,Bhairav Bahar,Bhairav Bahar,461.009,44100,2,MP3,,,,,,KEEP
+trf_0124,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/2.mp3,2.mp3,Bhairav Bahar,Bhairav Bahar,1766.232,48000,2,MP3,,,,,,KEEP
+trf_0125,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/3.mp3,3.mp3,Bhairav Bahar,Bhairav Bahar,1801.152,48000,2,MP3,,,,,,KEEP
+trf_0126,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/4.mp3,4.mp3,Bhairav Bahar,Bhairav Bahar,1765.068,44100,2,MP3,,,,,,KEEP
+trf_0127,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/5.mp3,5.mp3,Bhairav Bahar,Bhairav Bahar,3158.126,44100,2,MP3,,,,,,KEEP
+trf_0128,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/6.mp3,6.mp3,Bhairav Bahar,Bhairav Bahar,3715.448,44100,2,MP3,,,,,,KEEP
+trf_0129,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/7.mp3,7.mp3,Bhairav Bahar,Bhairav Bahar,441.417,44100,2,MP3,,,,,,KEEP
+trf_0130,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/8.mp3,8.mp3,Bhairav Bahar,Bhairav Bahar,1358.341,44100,2,MP3,,,,,,KEEP
+trf_0131,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bhairav Bahar/9.mp3,9.mp3,Bhairav Bahar,Bhairav Bahar,361.456,44100,2,MP3,,,,,,KEEP
+trf_0132,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/0.mp3,0.mp3,Bibhas,Bibhas,253.464,48000,2,MP3,,,,,,KEEP
+trf_0133,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/1.mp3,1.mp3,Bibhas,Bibhas,85.629,44100,2,MP3,,,,,,KEEP
+trf_0134,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/10.mp3,10.mp3,Bibhas,Bibhas,295.941,44100,2,MP3,,,,,,KEEP
+trf_0135,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/11.mp3,11.mp3,Bibhas,Bibhas,1588.176,48000,2,MP3,,,,,,KEEP
+trf_0136,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/12.mp3,12.mp3,Bibhas,Bibhas,952.346,44100,2,MP3,,,,,,KEEP
+trf_0137,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/13.mp3,13.mp3,Bibhas,Bibhas,3721.169,44100,2,MP3,,,,,,KEEP
+trf_0138,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/14.mp3,14.mp3,Bibhas,Bibhas,1600.209,44100,2,MP3,,,,,,KEEP
+trf_0139,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/15.mp3,15.mp3,Bibhas,Bibhas,1589.943,44100,2,MP3,,,,,,KEEP
+trf_0140,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/2.mp3,2.mp3,Bibhas,Bibhas,347.742,44100,2,MP3,,,,,,KEEP
+trf_0141,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/3.mp3,3.mp3,Bibhas,Bibhas,1148.291,44100,2,MP3,,,,,,KEEP
+trf_0142,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/4.mp3,4.mp3,Bibhas,Bibhas,893.568,48000,2,MP3,,,,,,KEEP
+trf_0143,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/5.mp3,5.mp3,Bibhas,Bibhas,511.216,44100,2,MP3,,,,,,KEEP
+trf_0144,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/6.mp3,6.mp3,Bibhas,Bibhas,1369.704,44100,2,MP3,,,,,,KEEP
+trf_0145,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/7.mp3,7.mp3,Bibhas,Bibhas,187.611,44100,2,MP3,,,,,,KEEP
+trf_0146,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/8.mp3,8.mp3,Bibhas,Bibhas,492.147,44100,2,MP3,,,,,,KEEP
+trf_0147,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Bibhas/9.mp3,9.mp3,Bibhas,Bibhas,1089.202,44100,1,MP3,,,,,,KEEP
+trf_0148,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Komal Bhairav/0.mp3,0.mp3,Komal Bhairav,Komal Bhairav,217.368,48000,2,MP3,,,,,,OPTIONAL
+trf_0149,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Komal Bhairav/1.mp3,1.mp3,Komal Bhairav,Komal Bhairav,685.061,44100,2,MP3,,,,,,OPTIONAL
+trf_0150,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Komal Bhairav/2.mp3,2.mp3,Komal Bhairav,Komal Bhairav,359.419,44100,2,MP3,,,,,,OPTIONAL
+trf_0151,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Komal Bhairav/3.mp3,3.mp3,Komal Bhairav,Komal Bhairav,501.708,44100,2,MP3,,,,,,OPTIONAL
+trf_0152,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Komal Bhairav/4.mp3,4.mp3,Komal Bhairav,Komal Bhairav,213.185,44100,2,MP3,,,,,,OPTIONAL
+trf_0153,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/0.mp3,0.mp3,Nat Bhairav,Nat Bhairav,1418.214,44100,2,MP3,,,,,,KEEP
+trf_0154,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/1.mp3,1.mp3,Nat Bhairav,Nat Bhairav,637.127,44100,2,MP3,,,,,,KEEP
+trf_0155,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/10.mp3,10.mp3,Nat Bhairav,Nat Bhairav,765.336,44100,2,MP3,,,,,,KEEP
+trf_0156,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/11.mp3,11.mp3,Nat Bhairav,Nat Bhairav,401.319,44100,2,MP3,,,,,,KEEP
+trf_0157,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/12.mp3,12.mp3,Nat Bhairav,Nat Bhairav,1400.376,48000,2,MP3,,,,,,KEEP
+trf_0158,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/13.mp3,13.mp3,Nat Bhairav,Nat Bhairav,541.701,44100,2,MP3,,,,,,KEEP
+trf_0159,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/14.mp3,14.mp3,Nat Bhairav,Nat Bhairav,59.376,44100,2,MP3,,,,,,KEEP
+trf_0160,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/15.mp3,15.mp3,Nat Bhairav,Nat Bhairav,339.409,44100,2,MP3,,,,,,KEEP
+trf_0161,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/2.mp3,2.mp3,Nat Bhairav,Nat Bhairav,292.512,48000,2,MP3,,,,,,KEEP
+trf_0162,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/3.mp3,3.mp3,Nat Bhairav,Nat Bhairav,1020.144,48000,2,MP3,,,,,,KEEP
+trf_0163,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/4.mp3,4.mp3,Nat Bhairav,Nat Bhairav,2505.012,44100,2,MP3,,,,,,KEEP
+trf_0164,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/5.mp3,5.mp3,Nat Bhairav,Nat Bhairav,614.557,44100,2,MP3,,,,,,KEEP
+trf_0165,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/6.mp3,6.mp3,Nat Bhairav,Nat Bhairav,339.435,44100,2,MP3,,,,,,KEEP
+trf_0166,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/7.mp3,7.mp3,Nat Bhairav,Nat Bhairav,1393.92,44100,2,MP3,,,,,,KEEP
+trf_0167,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/8.mp3,8.mp3,Nat Bhairav,Nat Bhairav,608.052,44100,2,MP3,,,,,,KEEP
+trf_0168,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Nat Bhairav/9.mp3,9.mp3,Nat Bhairav,Nat Bhairav,2753.176,44100,2,MP3,,,,,,KEEP
+trf_0169,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/0.mp3,0.mp3,Ramkali,Ramkali,282.072,48000,2,MP3,,,,,,KEEP
+trf_0170,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/1.mp3,1.mp3,Ramkali,Ramkali,340.976,44100,2,MP3,,,,,,KEEP
+trf_0171,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/10.mp3,10.mp3,Ramkali,Ramkali,1490.328,48000,2,MP3,,,,,,KEEP
+trf_0172,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/11.mp3,11.mp3,Ramkali,Ramkali,734.563,44100,2,MP3,,,,,,KEEP
+trf_0173,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/12.mp3,12.mp3,Ramkali,Ramkali,1472.976,48000,2,MP3,,,,,,KEEP
+trf_0174,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/13.mp3,13.mp3,Ramkali,Ramkali,2102.152,44100,2,MP3,,,,,,KEEP
+trf_0175,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/14.mp3,14.mp3,Ramkali,Ramkali,3137.332,44100,2,MP3,,,,,,KEEP
+trf_0176,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/2.mp3,2.mp3,Ramkali,Ramkali,1080.216,44100,2,MP3,,,,,,KEEP
+trf_0177,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/3.mp3,3.mp3,Ramkali,Ramkali,3608.268,44100,2,MP3,,,,,,KEEP
+trf_0178,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/4.mp3,4.mp3,Ramkali,Ramkali,1826.299,44100,2,MP3,,,,,,KEEP
+trf_0179,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/5.mp3,5.mp3,Ramkali,Ramkali,795.69,44100,2,MP3,,,,,,KEEP
+trf_0180,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/6.mp3,6.mp3,Ramkali,Ramkali,649.3,44100,2,MP3,,,,,,KEEP
+trf_0181,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/7.mp3,7.mp3,Ramkali,Ramkali,234.71,44100,2,MP3,,,,,,KEEP
+trf_0182,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/8.mp3,8.mp3,Ramkali,Ramkali,1096.124,44100,2,MP3,,,,,,KEEP
+trf_0183,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairav (thaat)/Ramkali/9.mp3,9.mp3,Ramkali,Ramkali,356.754,44100,2,MP3,,,,,,KEEP
+trf_0184,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/0.mp3,0.mp3,Bhairavi,Bhairavi,419.918,44100,2,MP3,,,,,,KEEP
+trf_0185,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/1.mp3,1.mp3,Bhairavi,Bhairavi,350.929,44100,2,MP3,,,,,,KEEP
+trf_0186,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/10.mp3,10.mp3,Bhairavi,Bhairavi,585.038,44100,2,MP3,,,,,,KEEP
+trf_0187,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/11.mp3,11.mp3,Bhairavi,Bhairavi,537.443,44100,2,MP3,,,,,,KEEP
+trf_0188,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/12.mp3,12.mp3,Bhairavi,Bhairavi,686.524,44100,2,MP3,,,,,,KEEP
+trf_0189,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/13.mp3,13.mp3,Bhairavi,Bhairavi,621.714,44100,2,MP3,,,,,,KEEP
+trf_0190,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/14.mp3,14.mp3,Bhairavi,Bhairavi,1956.049,44100,2,MP3,,,,,,KEEP
+trf_0191,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/15.mp3,15.mp3,Bhairavi,Bhairavi,540.096,48000,1,MP3,,,,,,KEEP
+trf_0192,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/16.mp3,16.mp3,Bhairavi,Bhairavi,696.816,44100,2,MP3,,,,,,KEEP
+trf_0193,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/2.mp3,2.mp3,Bhairavi,Bhairavi,149.081,44100,2,MP3,,,,,,KEEP
+trf_0194,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/3.mp3,3.mp3,Bhairavi,Bhairavi,149.081,44100,2,MP3,,,,,,KEEP
+trf_0195,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/4.mp3,4.mp3,Bhairavi,Bhairavi,204.288,48000,2,MP3,,,,,,KEEP
+trf_0196,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/5.mp3,5.mp3,Bhairavi,Bhairavi,190.536,48000,2,MP3,,,,,,KEEP
+trf_0197,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/6.mp3,6.mp3,Bhairavi,Bhairavi,356.493,44100,2,MP3,,,,,,KEEP
+trf_0198,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/7.mp3,7.mp3,Bhairavi,Bhairavi,778.423,44100,2,MP3,,,,,,KEEP
+trf_0199,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/8.mp3,8.mp3,Bhairavi,Bhairavi,1150.276,44100,2,MP3,,,,,,KEEP
+trf_0200,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhairavi/9.mp3,9.mp3,Bhairavi,Bhairavi,729.94,44100,2,MP3,,,,,,KEEP
+trf_0201,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/0.mp3,0.mp3,Bhupal Todi,Bhupal Todi,3293.884,44100,2,MP3,,,,,,KEEP
+trf_0202,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/1.mp3,1.mp3,Bhupal Todi,Bhupal Todi,428.669,44100,2,MP3,,,,,,KEEP
+trf_0203,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/10.mp3,10.mp3,Bhupal Todi,Bhupal Todi,1192.416,48000,2,MP3,,,,,,KEEP
+trf_0204,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/11.mp3,11.mp3,Bhupal Todi,Bhupal Todi,452.911,44100,2,MP3,,,,,,KEEP
+trf_0205,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/12.mp3,12.mp3,Bhupal Todi,Bhupal Todi,2148.96,48000,2,MP3,,,,,,KEEP
+trf_0206,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/13.mp3,13.mp3,Bhupal Todi,Bhupal Todi,2975.269,44100,2,MP3,,,,,,KEEP
+trf_0207,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/2.mp3,2.mp3,Bhupal Todi,Bhupal Todi,312.921,44100,2,MP3,,,,,,KEEP
+trf_0208,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/3.mp3,3.mp3,Bhupal Todi,Bhupal Todi,950.047,44100,2,MP3,,,,,,KEEP
+trf_0209,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/4.mp3,4.mp3,Bhupal Todi,Bhupal Todi,1013.133,44100,2,MP3,,,,,,KEEP
+trf_0210,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/5.mp3,5.mp3,Bhupal Todi,Bhupal Todi,756.846,44100,2,MP3,,,,,,KEEP
+trf_0211,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/6.mp3,6.mp3,Bhupal Todi,Bhupal Todi,345.417,44100,2,MP3,,,,,,KEEP
+trf_0212,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/7.mp3,7.mp3,Bhupal Todi,Bhupal Todi,322.273,44100,2,MP3,,,,,,KEEP
+trf_0213,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/8.mp3,8.mp3,Bhupal Todi,Bhupal Todi,1215.033,44100,2,MP3,,,,,,KEEP
+trf_0214,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bhupal Todi/9.mp3,9.mp3,Bhupal Todi,Bhupal Todi,1732.127,44100,2,MP3,,,,,,KEEP
+trf_0215,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/0.mp3,0.mp3,Bilaskhani Todi,Bilaskhani Todi,364.152,48000,2,MP3,,,,,,KEEP
+trf_0216,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/1.mp3,1.mp3,Bilaskhani Todi,Bilaskhani Todi,389.59,44100,2,MP3,,,,,,KEEP
+trf_0217,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/10.mp3,10.mp3,Bilaskhani Todi,Bilaskhani Todi,445.992,48000,2,MP3,,,,,,KEEP
+trf_0218,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/11.mp3,11.mp3,Bilaskhani Todi,Bilaskhani Todi,438.674,44100,2,MP3,,,,,,KEEP
+trf_0219,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/12.mp3,12.mp3,Bilaskhani Todi,Bilaskhani Todi,367.569,44100,2,MP3,,,,,,KEEP
+trf_0220,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/13.mp3,13.mp3,Bilaskhani Todi,Bilaskhani Todi,852.793,44100,2,MP3,,,,,,KEEP
+trf_0221,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/2.mp3,2.mp3,Bilaskhani Todi,Bilaskhani Todi,1637.982,44100,2,MP3,,,,,,KEEP
+trf_0222,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/3.mp3,3.mp3,Bilaskhani Todi,Bilaskhani Todi,895.056,48000,2,MP3,,,,,,KEEP
+trf_0223,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/4.mp3,4.mp3,Bilaskhani Todi,Bilaskhani Todi,679.576,44100,2,MP3,,,,,,KEEP
+trf_0224,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/5.mp3,5.mp3,Bilaskhani Todi,Bilaskhani Todi,169.368,48000,2,MP3,,,,,,KEEP
+trf_0225,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/6.mp3,6.mp3,Bilaskhani Todi,Bilaskhani Todi,3773.179,44100,2,MP3,,,,,,KEEP
+trf_0226,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/7.mp3,7.mp3,Bilaskhani Todi,Bilaskhani Todi,569.757,44100,2,MP3,,,,,,KEEP
+trf_0227,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/8.mp3,8.mp3,Bilaskhani Todi,Bilaskhani Todi,1250.116,44100,2,MP3,,,,,,KEEP
+trf_0228,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Bilaskhani Todi/9.mp3,9.mp3,Bilaskhani Todi,Bilaskhani Todi,1536.653,44100,2,MP3,,,,,,KEEP
+trf_0229,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/0.mp3,0.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,386.784,48000,2,MP3,,,,,,KEEP
+trf_0230,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/1.mp3,1.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,727.092,44100,2,MP3,,,,,,KEEP
+trf_0231,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/10.mp3,10.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,2728.824,48000,2,MP3,,,,,,KEEP
+trf_0232,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/11.mp3,11.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,2695.21,44100,2,MP3,,,,,,KEEP
+trf_0233,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/12.mp3,12.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,647.16,48000,2,MP3,,,,,,KEEP
+trf_0234,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/2.mp3,2.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,506.016,48000,2,MP3,,,,,,KEEP
+trf_0235,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/3.mp3,3.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,900.101,44100,2,MP3,,,,,,KEEP
+trf_0236,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/4.mp3,4.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,792.32,44100,2,MP3,,,,,,KEEP
+trf_0237,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/5.mp3,5.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,237.048,48000,2,MP3,,,,,,KEEP
+trf_0238,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/6.mp3,6.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,2942.981,44100,2,MP3,,,,,,KEEP
+trf_0239,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/7.mp3,7.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,159.556,44100,2,MP3,,,,,,KEEP
+trf_0240,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/8.mp3,8.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,196.056,48000,2,MP3,,,,,,KEEP
+trf_0241,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Komal Rishabh Asavari/9.mp3,9.mp3,Komal Rishabh Asavari,Komal Rishabh Asavari,473.313,44100,2,MP3,,,,,,KEEP
+trf_0242,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/0.mp3,0.mp3,Malkauns,Malkauns,335.088,48000,2,MP3,,,,,,KEEP
+trf_0243,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/1.mp3,1.mp3,Malkauns,Malkauns,215.88,48000,2,MP3,,,,,,KEEP
+trf_0244,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/10.mp3,10.mp3,Malkauns,Malkauns,2224.039,44100,2,MP3,,,,,,KEEP
+trf_0245,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/11.mp3,11.mp3,Malkauns,Malkauns,328.385,44100,2,MP3,,,,,,KEEP
+trf_0246,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/12.mp3,12.mp3,Malkauns,Malkauns,2067.069,44100,2,MP3,,,,,,KEEP
+trf_0247,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/13.mp3,13.mp3,Malkauns,Malkauns,661.76,44100,2,MP3,,,,,,KEEP
+trf_0248,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/14.mp3,14.mp3,Malkauns,Malkauns,1370.854,44100,2,MP3,,,,,,KEEP
+trf_0249,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/15.mp3,15.mp3,Malkauns,Malkauns,372.72,48000,2,MP3,,,,,,KEEP
+trf_0250,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/16.mp3,16.mp3,Malkauns,Malkauns,457.691,44100,1,MP3,,,,,,KEEP
+trf_0251,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/2.mp3,2.mp3,Malkauns,Malkauns,319.791,44100,2,MP3,,,,,,KEEP
+trf_0252,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/3.mp3,3.mp3,Malkauns,Malkauns,329.112,48000,2,MP3,,,,,,KEEP
+trf_0253,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/4.mp3,4.mp3,Malkauns,Malkauns,459.285,44100,2,MP3,,,,,,KEEP
+trf_0254,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/5.mp3,5.mp3,Malkauns,Malkauns,208.8,48000,2,MP3,,,,,,KEEP
+trf_0255,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/6.mp3,6.mp3,Malkauns,Malkauns,306.364,44100,1,MP3,,,,,,KEEP
+trf_0256,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/7.mp3,7.mp3,Malkauns,Malkauns,878.88,48000,2,MP3,,,,,,KEEP
+trf_0257,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/8.mp3,8.mp3,Malkauns,Malkauns,392.829,44100,2,MP3,,,,,,KEEP
+trf_0258,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bhairavi (thaat)/Malkauns/9.mp3,9.mp3,Malkauns,Malkauns,524.147,44100,2,MP3,,,,,,KEEP
+trf_0259,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/0.mp3,0.mp3,Alhaiya Bilaval,Alhaiya Bilaval,502.1,44100,2,MP3,,,,,,KEEP
+trf_0260,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/1.mp3,1.mp3,Alhaiya Bilaval,Alhaiya Bilaval,380.448,48000,2,MP3,,,,,,KEEP
+trf_0261,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/10.mp3,10.mp3,Alhaiya Bilaval,Alhaiya Bilaval,1970.26,44100,2,MP3,,,,,,KEEP
+trf_0262,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/11.mp3,11.mp3,Alhaiya Bilaval,Alhaiya Bilaval,1652.219,44100,2,MP3,,,,,,KEEP
+trf_0263,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/12.mp3,12.mp3,Alhaiya Bilaval,Alhaiya Bilaval,99.736,44100,2,MP3,,,,,,KEEP
+trf_0264,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/2.mp3,2.mp3,Alhaiya Bilaval,Alhaiya Bilaval,214.883,44100,2,MP3,,,,,,KEEP
+trf_0265,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/3.mp3,3.mp3,Alhaiya Bilaval,Alhaiya Bilaval,716.565,44100,2,MP3,,,,,,KEEP
+trf_0266,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/4.mp3,4.mp3,Alhaiya Bilaval,Alhaiya Bilaval,3245.4,48000,2,MP3,,,,,,KEEP
+trf_0267,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/5.mp3,5.mp3,Alhaiya Bilaval,Alhaiya Bilaval,2551.406,44100,2,MP3,,,,,,KEEP
+trf_0268,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/6.mp3,6.mp3,Alhaiya Bilaval,Alhaiya Bilaval,181.864,44100,2,MP3,,,,,,KEEP
+trf_0269,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/7.mp3,7.mp3,Alhaiya Bilaval,Alhaiya Bilaval,1339.559,44100,2,MP3,,,,,,KEEP
+trf_0270,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/8.mp3,8.mp3,Alhaiya Bilaval,Alhaiya Bilaval,689.685,44100,2,MP3,,,,,,KEEP
+trf_0271,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Alhaiya Bilaval/9.mp3,9.mp3,Alhaiya Bilaval,Alhaiya Bilaval,1908.245,44100,2,MP3,,,,,,KEEP
+trf_0272,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/0.mp3,0.mp3,Bhinna Shadja,Bhinna Shadja,647.158,44100,2,MP3,,,,,,KEEP
+trf_0273,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/1.mp3,1.mp3,Bhinna Shadja,Bhinna Shadja,1389.009,44100,2,MP3,,,,,,KEEP
+trf_0274,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/10.mp3,10.mp3,Bhinna Shadja,Bhinna Shadja,210.469,44100,2,MP3,,,,,,KEEP
+trf_0275,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/11.mp3,11.mp3,Bhinna Shadja,Bhinna Shadja,2840.451,44100,2,MP3,,,,,,KEEP
+trf_0276,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/12.mp3,12.mp3,Bhinna Shadja,Bhinna Shadja,418.038,44100,2,MP3,,,,,,KEEP
+trf_0277,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/2.mp3,2.mp3,Bhinna Shadja,Bhinna Shadja,433.152,48000,2,MP3,,,,,,KEEP
+trf_0278,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/3.mp3,3.mp3,Bhinna Shadja,Bhinna Shadja,527.151,44100,2,MP3,,,,,,KEEP
+trf_0279,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/4.mp3,4.mp3,Bhinna Shadja,Bhinna Shadja,1183.53,44100,2,MP3,,,,,,KEEP
+trf_0280,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/5.mp3,5.mp3,Bhinna Shadja,Bhinna Shadja,940.042,44100,2,MP3,,,,,,KEEP
+trf_0281,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/6.mp3,6.mp3,Bhinna Shadja,Bhinna Shadja,1245.205,44100,2,MP3,,,,,,KEEP
+trf_0282,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/7.mp3,7.mp3,Bhinna Shadja,Bhinna Shadja,877.662,44100,2,MP3,,,,,,KEEP
+trf_0283,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/8.mp3,8.mp3,Bhinna Shadja,Bhinna Shadja,1760.052,44100,2,MP3,,,,,,KEEP
+trf_0284,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bhinna Shadja/9.mp3,9.mp3,Bhinna Shadja,Bhinna Shadja,4475.481,44100,2,MP3,,,,,,KEEP
+trf_0285,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/0.mp3,0.mp3,Bihag,Bihag,218.619,44100,2,MP3,,,,,,KEEP
+trf_0286,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/1.mp3,1.mp3,Bihag,Bihag,370.464,48000,2,MP3,,,,,,KEEP
+trf_0287,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/10.mp3,10.mp3,Bihag,Bihag,215.616,48000,2,MP3,,,,,,KEEP
+trf_0288,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/11.mp3,11.mp3,Bihag,Bihag,352.776,48000,2,MP3,,,,,,KEEP
+trf_0289,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/12.mp3,12.mp3,Bihag,Bihag,451.892,44100,2,MP3,,,,,,KEEP
+trf_0290,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/13.mp3,13.mp3,Bihag,Bihag,580.78,44100,2,MP3,,,,,,KEEP
+trf_0291,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/14.mp3,14.mp3,Bihag,Bihag,181.264,44100,2,MP3,,,,,,KEEP
+trf_0292,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/15.mp3,15.mp3,Bihag,Bihag,357.538,44100,2,MP3,,,,,,KEEP
+trf_0293,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/16.mp3,16.mp3,Bihag,Bihag,673.593,44100,2,MP3,,,,,,KEEP
+trf_0294,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/17.mp3,17.mp3,Bihag,Bihag,1080.085,44100,2,MP3,,,,,,KEEP
+trf_0295,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/18.mp3,18.mp3,Bihag,Bihag,157.649,44100,2,MP3,,,,,,KEEP
+trf_0296,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/19.mp3,19.mp3,Bihag,Bihag,473.731,44100,2,MP3,,,,,,KEEP
+trf_0297,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/2.mp3,2.mp3,Bihag,Bihag,572.134,44100,2,MP3,,,,,,KEEP
+trf_0298,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/20.mp3,20.mp3,Bihag,Bihag,334.237,44100,2,MP3,,,,,,KEEP
+trf_0299,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/3.mp3,3.mp3,Bihag,Bihag,210.24,48000,2,MP3,,,,,,KEEP
+trf_0300,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/4.mp3,4.mp3,Bihag,Bihag,112.17,44100,2,MP3,,,,,,KEEP
+trf_0301,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/5.mp3,5.mp3,Bihag,Bihag,174.132,44100,2,MP3,,,,,,KEEP
+trf_0302,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/6.mp3,6.mp3,Bihag,Bihag,284.928,48000,2,MP3,,,,,,KEEP
+trf_0303,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/7.mp3,7.mp3,Bihag,Bihag,172.608,48000,2,MP3,,,,,,KEEP
+trf_0304,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/8.mp3,8.mp3,Bihag,Bihag,207.888,48000,2,MP3,,,,,,KEEP
+trf_0305,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bihag/9.mp3,9.mp3,Bihag,Bihag,282.768,48000,2,MP3,,,,,,KEEP
+trf_0306,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/0.mp3,0.mp3,Bilaval,Bilaval,409.152,48000,2,MP3,,,,,,KEEP
+trf_0307,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/1.mp3,1.mp3,Bilaval,Bilaval,202.318,44100,2,MP3,,,,,,KEEP
+trf_0308,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/10.mp3,10.mp3,Bilaval,Bilaval,282.384,48000,2,MP3,,,,,,KEEP
+trf_0309,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/11.mp3,11.mp3,Bilaval,Bilaval,382.877,44100,2,MP3,,,,,,KEEP
+trf_0310,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/12.mp3,12.mp3,Bilaval,Bilaval,198.635,44100,2,MP3,,,,,,KEEP
+trf_0311,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/13.mp3,13.mp3,Bilaval,Bilaval,164.676,44100,2,MP3,,,,,,KEEP
+trf_0312,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/14.mp3,14.mp3,Bilaval,Bilaval,225.802,44100,2,MP3,,,,,,KEEP
+trf_0313,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/15.mp3,15.mp3,Bilaval,Bilaval,15.047,44100,2,MP3,,,,,,KEEP
+trf_0314,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/2.mp3,2.mp3,Bilaval,Bilaval,264.647,44100,2,MP3,,,,,,KEEP
+trf_0315,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/3.mp3,3.mp3,Bilaval,Bilaval,326.664,48000,2,MP3,,,,,,KEEP
+trf_0316,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/4.mp3,4.mp3,Bilaval,Bilaval,194.299,44100,2,MP3,,,,,,KEEP
+trf_0317,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/5.mp3,5.mp3,Bilaval,Bilaval,216.288,48000,2,MP3,,,,,,KEEP
+trf_0318,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/6.mp3,6.mp3,Bilaval,Bilaval,909.845,44100,2,MP3,,,,,,KEEP
+trf_0319,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/7.mp3,7.mp3,Bilaval,Bilaval,470.282,44100,2,MP3,,,,,,KEEP
+trf_0320,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/8.mp3,8.mp3,Bilaval,Bilaval,317.1,44100,2,MP3,,,,,,KEEP
+trf_0321,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Bilaval/9.mp3,9.mp3,Bilaval,Bilaval,583.576,44100,1,MP3,,,,,,KEEP
+trf_0322,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/0.mp3,0.mp3,Durga,Durga,277.056,48000,2,MP3,,,,,,KEEP
+trf_0323,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/1.mp3,1.mp3,Durga,Durga,324.702,44100,2,MP3,,,,,,KEEP
+trf_0324,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/10.mp3,10.mp3,Durga,Durga,1219.736,44100,2,MP3,,,,,,KEEP
+trf_0325,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/11.mp3,11.mp3,Durga,Durga,264.046,44100,2,MP3,,,,,,KEEP
+trf_0326,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/12.mp3,12.mp3,Durga,Durga,205.035,44100,2,MP3,,,,,,KEEP
+trf_0327,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/13.mp3,13.mp3,Durga,Durga,544.444,44100,2,MP3,,,,,,KEEP
+trf_0328,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/14.mp3,14.mp3,Durga,Durga,1696.209,44100,2,MP3,,,,,,KEEP
+trf_0329,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/2.mp3,2.mp3,Durga,Durga,2148.6,48000,2,MP3,,,,,,KEEP
+trf_0330,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/3.mp3,3.mp3,Durga,Durga,1758.354,44100,2,MP3,,,,,,KEEP
+trf_0331,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/4.mp3,4.mp3,Durga,Durga,681.12,48000,2,MP3,,,,,,KEEP
+trf_0332,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/5.mp3,5.mp3,Durga,Durga,913.894,44100,2,MP3,,,,,,KEEP
+trf_0333,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/6.mp3,6.mp3,Durga,Durga,872.411,44100,2,MP3,,,,,,KEEP
+trf_0334,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/7.mp3,7.mp3,Durga,Durga,796.656,44100,2,MP3,,,,,,KEEP
+trf_0335,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/8.mp3,8.mp3,Durga,Durga,117.081,44100,2,MP3,,,,,,KEEP
+trf_0336,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Durga/9.mp3,9.mp3,Durga,Durga,635.559,44100,2,MP3,,,,,,KEEP
+trf_0337,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/0.mp3,0.mp3,Hemant,Hemant,215.52,48000,2,MP3,,,,,,KEEP
+trf_0338,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/1.mp3,1.mp3,Hemant,Hemant,249.024,48000,2,MP3,,,,,,KEEP
+trf_0339,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/10.mp3,10.mp3,Hemant,Hemant,2706.808,44100,2,MP3,,,,,,KEEP
+trf_0340,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/11.mp3,11.mp3,Hemant,Hemant,682.789,44100,2,MP3,,,,,,KEEP
+trf_0341,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/12.mp3,12.mp3,Hemant,Hemant,370.051,44100,2,MP3,,,,,,KEEP
+trf_0342,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/13.mp3,13.mp3,Hemant,Hemant,1671.001,44100,2,MP3,,,,,,KEEP
+trf_0343,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/2.mp3,2.mp3,Hemant,Hemant,485.4,48000,2,MP3,,,,,,KEEP
+trf_0344,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/3.mp3,3.mp3,Hemant,Hemant,145.267,44100,2,MP3,,,,,,KEEP
+trf_0345,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/4.mp3,4.mp3,Hemant,Hemant,200.829,44100,2,MP3,,,,,,KEEP
+trf_0346,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/5.mp3,5.mp3,Hemant,Hemant,1155.579,44100,2,MP3,,,,,,KEEP
+trf_0347,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/6.mp3,6.mp3,Hemant,Hemant,465.476,44100,2,MP3,,,,,,KEEP
+trf_0348,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/7.mp3,7.mp3,Hemant,Hemant,1415.064,48000,2,MP3,,,,,,KEEP
+trf_0349,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/8.mp3,8.mp3,Hemant,Hemant,60.096,48000,2,MP3,,,,,,KEEP
+trf_0350,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Hemant/9.mp3,9.mp3,Hemant,Hemant,630.1,44100,2,MP3,,,,,,KEEP
+trf_0351,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/0.mp3,0.mp3,Pahadi,Pahadi,372.456,48000,2,MP3,,,,,,KEEP
+trf_0352,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/1.mp3,1.mp3,Pahadi,Pahadi,277.838,44100,2,MP3,,,,,,KEEP
+trf_0353,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/10.mp3,10.mp3,Pahadi,Pahadi,1810.051,44100,2,MP3,,,,,,KEEP
+trf_0354,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/11.mp3,11.mp3,Pahadi,Pahadi,538.958,44100,2,MP3,,,,,,KEEP
+trf_0355,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/12.mp3,12.mp3,Pahadi,Pahadi,540.317,44100,2,MP3,,,,,,KEEP
+trf_0356,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/13.mp3,13.mp3,Pahadi,Pahadi,1019.352,48000,2,MP3,,,,,,KEEP
+trf_0357,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/2.mp3,2.mp3,Pahadi,Pahadi,432.536,44100,2,MP3,,,,,,KEEP
+trf_0358,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/3.mp3,3.mp3,Pahadi,Pahadi,615.184,44100,2,MP3,,,,,,KEEP
+trf_0359,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/4.mp3,4.mp3,Pahadi,Pahadi,230.165,44100,2,MP3,,,,,,KEEP
+trf_0360,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/5.mp3,5.mp3,Pahadi,Pahadi,465.424,44100,2,MP3,,,,,,KEEP
+trf_0361,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/6.mp3,6.mp3,Pahadi,Pahadi,919.171,44100,2,MP3,,,,,,KEEP
+trf_0362,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/7.mp3,7.mp3,Pahadi,Pahadi,517.433,44100,2,MP3,,,,,,KEEP
+trf_0363,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/8.mp3,8.mp3,Pahadi,Pahadi,539.69,44100,2,MP3,,,,,,KEEP
+trf_0364,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Bilaval (thaat)/Pahadi/9.mp3,9.mp3,Pahadi,Pahadi,359.993,44100,2,MP3,,,,,,KEEP
+trf_0365,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/0.mp3,0.mp3,Abhogi,Abhogi,1791.168,48000,2,MP3,,,,,,KEEP
+trf_0366,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/1.mp3,1.mp3,Abhogi,Abhogi,185.208,48000,2,MP3,,,,,,KEEP
+trf_0367,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/10.mp3,10.mp3,Abhogi,Abhogi,3052.069,44100,2,MP3,,,,,,KEEP
+trf_0368,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/11.mp3,11.mp3,Abhogi,Abhogi,2206.668,44100,2,MP3,,,,,,KEEP
+trf_0369,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/12.mp3,12.mp3,Abhogi,Abhogi,316.97,44100,2,MP3,,,,,,KEEP
+trf_0370,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/2.mp3,2.mp3,Abhogi,Abhogi,1989.042,44100,2,MP3,,,,,,KEEP
+trf_0371,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/3.mp3,3.mp3,Abhogi,Abhogi,314.832,48000,2,MP3,,,,,,KEEP
+trf_0372,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/4.mp3,4.mp3,Abhogi,Abhogi,824.607,44100,2,MP3,,,,,,KEEP
+trf_0373,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/5.mp3,5.mp3,Abhogi,Abhogi,1052.112,48000,2,MP3,,,,,,KEEP
+trf_0374,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/6.mp3,6.mp3,Abhogi,Abhogi,735.817,44100,2,MP3,,,,,,KEEP
+trf_0375,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/7.mp3,7.mp3,Abhogi,Abhogi,2315.912,44100,2,MP3,,,,,,KEEP
+trf_0376,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/8.mp3,8.mp3,Abhogi,Abhogi,2060.539,44100,2,MP3,,,,,,KEEP
+trf_0377,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Abhogi/9.mp3,9.mp3,Abhogi,Abhogi,907.912,44100,2,MP3,,,,,,KEEP
+trf_0378,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/0.mp3,0.mp3,Bageshree,Bageshree,185.664,48000,2,MP3,,,,,,KEEP
+trf_0379,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/1.mp3,1.mp3,Bageshree,Bageshree,101.695,44100,2,MP3,,,,,,KEEP
+trf_0380,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/10.mp3,10.mp3,Bageshree,Bageshree,185.088,48000,2,MP3,,,,,,KEEP
+trf_0381,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/11.mp3,11.mp3,Bageshree,Bageshree,1970.364,44100,2,MP3,,,,,,KEEP
+trf_0382,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/12.mp3,12.mp3,Bageshree,Bageshree,1380.6,48000,2,MP3,,,,,,KEEP
+trf_0383,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/13.mp3,13.mp3,Bageshree,Bageshree,4184.921,44100,2,MP3,,,,,,KEEP
+trf_0384,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/14.mp3,14.mp3,Bageshree,Bageshree,565.995,44100,2,MP3,,,,,,KEEP
+trf_0385,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/15.mp3,15.mp3,Bageshree,Bageshree,485.616,44100,2,MP3,,,,,,KEEP
+trf_0386,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/16.mp3,16.mp3,Bageshree,Bageshree,1719.85,44100,2,MP3,,,,,,KEEP
+trf_0387,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/2.mp3,2.mp3,Bageshree,Bageshree,190.015,44100,2,MP3,,,,,,KEEP
+trf_0388,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/3.mp3,3.mp3,Bageshree,Bageshree,174.744,48000,2,MP3,,,,,,KEEP
+trf_0389,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/4.mp3,4.mp3,Bageshree,Bageshree,278.4,48000,2,MP3,,,,,,KEEP
+trf_0390,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/5.mp3,5.mp3,Bageshree,Bageshree,449.123,44100,2,MP3,,,,,,KEEP
+trf_0391,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/6.mp3,6.mp3,Bageshree,Bageshree,481.411,44100,2,MP3,,,,,,KEEP
+trf_0392,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/7.mp3,7.mp3,Bageshree,Bageshree,194.04,48000,2,MP3,,,,,,KEEP
+trf_0393,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/8.mp3,8.mp3,Bageshree,Bageshree,332.088,48000,2,MP3,,,,,,KEEP
+trf_0394,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bageshree/9.mp3,9.mp3,Bageshree,Bageshree,293.592,48000,2,MP3,,,,,,KEEP
+trf_0395,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/0.mp3,0.mp3,Bahar,Bahar,373.32,48000,2,MP3,,,,,,KEEP
+trf_0396,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/1.mp3,1.mp3,Bahar,Bahar,647.314,44100,2,MP3,,,,,,KEEP
+trf_0397,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/10.mp3,10.mp3,Bahar,Bahar,1206.552,48000,2,MP3,,,,,,KEEP
+trf_0398,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/11.mp3,11.mp3,Bahar,Bahar,895.216,44100,2,MP3,,,,,,KEEP
+trf_0399,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/12.mp3,12.mp3,Bahar,Bahar,863.304,48000,2,MP3,,,,,,KEEP
+trf_0400,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/13.mp3,13.mp3,Bahar,Bahar,2193.998,44100,2,MP3,,,,,,KEEP
+trf_0401,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/14.mp3,14.mp3,Bahar,Bahar,1900.957,44100,2,MP3,,,,,,KEEP
+trf_0402,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/15.mp3,15.mp3,Bahar,Bahar,202.8,48000,2,MP3,,,,,,KEEP
+trf_0403,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/16.mp3,16.mp3,Bahar,Bahar,268.968,48000,2,MP3,,,,,,KEEP
+trf_0404,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/17.mp3,17.mp3,Bahar,Bahar,260.904,48000,2,MP3,,,,,,KEEP
+trf_0405,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/18.mp3,18.mp3,Bahar,Bahar,180.528,48000,2,MP3,,,,,,KEEP
+trf_0406,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/19.mp3,19.mp3,Bahar,Bahar,328.632,48000,2,MP3,,,,,,KEEP
+trf_0407,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/2.mp3,2.mp3,Bahar,Bahar,554.919,44100,2,MP3,,,,,,KEEP
+trf_0408,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/20.mp3,20.mp3,Bahar,Bahar,895.368,48000,2,MP3,,,,,,KEEP
+trf_0409,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/21.mp3,21.mp3,Bahar,Bahar,2509.401,44100,2,MP3,,,,,,KEEP
+trf_0410,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/22.mp3,22.mp3,Bahar,Bahar,959.687,44100,2,MP3,,,,,,KEEP
+trf_0411,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/23.mp3,23.mp3,Bahar,Bahar,2115.056,44100,2,MP3,,,,,,KEEP
+trf_0412,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/24.mp3,24.mp3,Bahar,Bahar,729.731,44100,2,MP3,,,,,,KEEP
+trf_0413,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/25.mp3,25.mp3,Bahar,Bahar,1006.42,44100,2,MP3,,,,,,KEEP
+trf_0414,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/3.mp3,3.mp3,Bahar,Bahar,282.645,44100,2,MP3,,,,,,KEEP
+trf_0415,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/4.mp3,4.mp3,Bahar,Bahar,75.781,44100,2,MP3,,,,,,KEEP
+trf_0416,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/5.mp3,5.mp3,Bahar,Bahar,418.429,44100,2,MP3,,,,,,KEEP
+trf_0417,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/6.mp3,6.mp3,Bahar,Bahar,635.664,44100,2,MP3,,,,,,KEEP
+trf_0418,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/7.mp3,7.mp3,Bahar,Bahar,360.176,44100,2,MP3,,,,,,KEEP
+trf_0419,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/8.mp3,8.mp3,Bahar,Bahar,708.676,44100,2,MP3,,,,,,KEEP
+trf_0420,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bahar/9.mp3,9.mp3,Bahar,Bahar,291.291,44100,2,MP3,,,,,,KEEP
+trf_0421,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/0.mp3,0.mp3,Barwa,Barwa,269.592,48000,2,MP3,,,,,,KEEP
+trf_0422,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/1.mp3,1.mp3,Barwa,Barwa,850.368,48000,2,MP3,,,,,,KEEP
+trf_0423,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/10.mp3,10.mp3,Barwa,Barwa,2282.893,44100,2,MP3,,,,,,KEEP
+trf_0424,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/11.mp3,11.mp3,Barwa,Barwa,3001.783,44100,2,MP3,,,,,,KEEP
+trf_0425,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/2.mp3,2.mp3,Barwa,Barwa,700.735,44100,2,MP3,,,,,,KEEP
+trf_0426,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/3.mp3,3.mp3,Barwa,Barwa,428.016,44100,2,MP3,,,,,,KEEP
+trf_0427,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/4.mp3,4.mp3,Barwa,Barwa,750.811,44100,2,MP3,,,,,,KEEP
+trf_0428,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/5.mp3,5.mp3,Barwa,Barwa,350.067,44100,2,MP3,,,,,,KEEP
+trf_0429,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/6.mp3,6.mp3,Barwa,Barwa,3158.23,44100,2,MP3,,,,,,KEEP
+trf_0430,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/7.mp3,7.mp3,Barwa,Barwa,152.372,44100,2,MP3,,,,,,KEEP
+trf_0431,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/8.mp3,8.mp3,Barwa,Barwa,4399.882,44100,2,MP3,,,,,,KEEP
+trf_0432,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Barwa/9.mp3,9.mp3,Barwa,Barwa,269.871,44100,2,MP3,,,,,,KEEP
+trf_0433,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/0.mp3,0.mp3,Bhimpalasi,Bhimpalasi,583.497,44100,2,MP3,,,,,,KEEP
+trf_0434,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/1.mp3,1.mp3,Bhimpalasi,Bhimpalasi,638.119,44100,2,MP3,,,,,,KEEP
+trf_0435,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/10.mp3,10.mp3,Bhimpalasi,Bhimpalasi,340.368,48000,2,MP3,,,,,,KEEP
+trf_0436,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/11.mp3,11.mp3,Bhimpalasi,Bhimpalasi,237.84,48000,2,MP3,,,,,,KEEP
+trf_0437,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/12.mp3,12.mp3,Bhimpalasi,Bhimpalasi,485.329,44100,2,MP3,,,,,,KEEP
+trf_0438,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/13.mp3,13.mp3,Bhimpalasi,Bhimpalasi,536.372,44100,2,MP3,,,,,,KEEP
+trf_0439,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/14.mp3,14.mp3,Bhimpalasi,Bhimpalasi,523.024,44100,2,MP3,,,,,,KEEP
+trf_0440,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/15.mp3,15.mp3,Bhimpalasi,Bhimpalasi,145.789,44100,2,MP3,,,,,,KEEP
+trf_0441,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/16.mp3,16.mp3,Bhimpalasi,Bhimpalasi,3793.737,44100,2,MP3,,,,,,KEEP
+trf_0442,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/17.mp3,17.mp3,Bhimpalasi,Bhimpalasi,314.436,44100,2,MP3,,,,,,KEEP
+trf_0443,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/18.mp3,18.mp3,Bhimpalasi,Bhimpalasi,1046.387,44100,2,MP3,,,,,,KEEP
+trf_0444,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/19.mp3,19.mp3,Bhimpalasi,Bhimpalasi,469.603,44100,2,MP3,,,,,,KEEP
+trf_0445,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/2.mp3,2.mp3,Bhimpalasi,Bhimpalasi,1332.976,44100,2,MP3,,,,,,KEEP
+trf_0446,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/20.mp3,20.mp3,Bhimpalasi,Bhimpalasi,1889.149,44100,2,MP3,,,,,,KEEP
+trf_0447,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/21.mp3,21.mp3,Bhimpalasi,Bhimpalasi,221.649,44100,2,MP3,,,,,,KEEP
+trf_0448,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/3.mp3,3.mp3,Bhimpalasi,Bhimpalasi,566.126,44100,2,MP3,,,,,,KEEP
+trf_0449,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/4.mp3,4.mp3,Bhimpalasi,Bhimpalasi,58.514,44100,2,MP3,,,,,,KEEP
+trf_0450,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/5.mp3,5.mp3,Bhimpalasi,Bhimpalasi,515.944,44100,2,MP3,,,,,,KEEP
+trf_0451,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/6.mp3,6.mp3,Bhimpalasi,Bhimpalasi,3151.804,44100,2,MP3,,,,,,KEEP
+trf_0452,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/7.mp3,7.mp3,Bhimpalasi,Bhimpalasi,2955.128,44100,2,MP3,,,,,,KEEP
+trf_0453,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/8.mp3,8.mp3,Bhimpalasi,Bhimpalasi,241.058,44100,2,MP3,,,,,,KEEP
+trf_0454,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Bhimpalasi/9.mp3,9.mp3,Bhimpalasi,Bhimpalasi,551.314,44100,2,MP3,,,,,,KEEP
+trf_0455,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/0.mp3,0.mp3,Kafi,Kafi,244.536,48000,2,MP3,,,,,,KEEP
+trf_0456,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/1.mp3,1.mp3,Kafi,Kafi,282.828,44100,2,MP3,,,,,,KEEP
+trf_0457,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/10.mp3,10.mp3,Kafi,Kafi,331.968,48000,2,MP3,,,,,,KEEP
+trf_0458,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/11.mp3,11.mp3,Kafi,Kafi,533.447,44100,2,MP3,,,,,,KEEP
+trf_0459,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/12.mp3,12.mp3,Kafi,Kafi,433.972,44100,2,MP3,,,,,,KEEP
+trf_0460,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/13.mp3,13.mp3,Kafi,Kafi,765.858,44100,2,MP3,,,,,,KEEP
+trf_0461,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/14.mp3,14.mp3,Kafi,Kafi,208.091,44100,2,MP3,,,,,,KEEP
+trf_0462,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/15.mp3,15.mp3,Kafi,Kafi,464.353,44100,2,MP3,,,,,,KEEP
+trf_0463,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/16.mp3,16.mp3,Kafi,Kafi,481.75,44100,2,MP3,,,,,,KEEP
+trf_0464,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/17.mp3,17.mp3,Kafi,Kafi,1242.331,44100,2,MP3,,,,,,KEEP
+trf_0465,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/2.mp3,2.mp3,Kafi,Kafi,267.154,44100,2,MP3,,,,,,KEEP
+trf_0466,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/3.mp3,3.mp3,Kafi,Kafi,344.372,44100,2,MP3,,,,,,KEEP
+trf_0467,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/4.mp3,4.mp3,Kafi,Kafi,239.448,48000,2,MP3,,,,,,KEEP
+trf_0468,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/5.mp3,5.mp3,Kafi,Kafi,743.04,48000,2,MP3,,,,,,KEEP
+trf_0469,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/6.mp3,6.mp3,Kafi,Kafi,222.851,44100,2,MP3,,,,,,KEEP
+trf_0470,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/7.mp3,7.mp3,Kafi,Kafi,288.104,44100,2,MP3,,,,,,KEEP
+trf_0471,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/8.mp3,8.mp3,Kafi,Kafi,155.28,48000,2,MP3,,,,,,KEEP
+trf_0472,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Kafi/9.mp3,9.mp3,Kafi,Kafi,243.331,44100,1,MP3,,,,,,KEEP
+trf_0473,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/0.mp3,0.mp3,Malhar,Malhar,294.168,48000,2,MP3,,,,,,KEEP
+trf_0474,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/1.mp3,1.mp3,Malhar,Malhar,284.688,48000,2,MP3,,,,,,KEEP
+trf_0475,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/10.mp3,10.mp3,Malhar,Malhar,507.141,44100,2,MP3,,,,,,KEEP
+trf_0476,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/11.mp3,11.mp3,Malhar,Malhar,113.894,44100,2,MP3,,,,,,KEEP
+trf_0477,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/12.mp3,12.mp3,Malhar,Malhar,1906.051,44100,2,MP3,,,,,,KEEP
+trf_0478,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/13.mp3,13.mp3,Malhar,Malhar,316.526,44100,2,MP3,,,,,,KEEP
+trf_0479,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/14.mp3,14.mp3,Malhar,Malhar,308.088,44100,2,MP3,,,,,,KEEP
+trf_0480,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/2.mp3,2.mp3,Malhar,Malhar,264.696,48000,2,MP3,,,,,,KEEP
+trf_0481,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/3.mp3,3.mp3,Malhar,Malhar,214.08,48000,2,MP3,,,,,,KEEP
+trf_0482,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/4.mp3,4.mp3,Malhar,Malhar,1897.456,44100,2,MP3,,,,,,KEEP
+trf_0483,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/5.mp3,5.mp3,Malhar,Malhar,271.804,44100,2,MP3,,,,,,KEEP
+trf_0484,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/6.mp3,6.mp3,Malhar,Malhar,80.849,44100,2,MP3,,,,,,KEEP
+trf_0485,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/7.mp3,7.mp3,Malhar,Malhar,517.721,44100,2,MP3,,,,,,KEEP
+trf_0486,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/8.mp3,8.mp3,Malhar,Malhar,184.163,44100,2,MP3,,,,,,KEEP
+trf_0487,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Malhar/9.mp3,9.mp3,Malhar,Malhar,645.12,48000,2,MP3,,,,,,KEEP
+trf_0488,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/0.mp3,0.mp3,Megh,Megh,439.51,44100,2,MP3,,,,,,KEEP
+trf_0489,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/1.mp3,1.mp3,Megh,Megh,477.153,44100,2,MP3,,,,,,KEEP
+trf_0490,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/10.mp3,10.mp3,Megh,Megh,591.96,48000,2,MP3,,,,,,KEEP
+trf_0491,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/11.mp3,11.mp3,Megh,Megh,412.5,44100,2,MP3,,,,,,KEEP
+trf_0492,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/12.mp3,12.mp3,Megh,Megh,159.974,44100,2,MP3,,,,,,KEEP
+trf_0493,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/13.mp3,13.mp3,Megh,Megh,1341.518,44100,2,MP3,,,,,,KEEP
+trf_0494,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/14.mp3,14.mp3,Megh,Megh,283.536,48000,2,MP3,,,,,,KEEP
+trf_0495,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/2.mp3,2.mp3,Megh,Megh,2839.98,44100,2,MP3,,,,,,KEEP
+trf_0496,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/3.mp3,3.mp3,Megh,Megh,1765.068,44100,2,MP3,,,,,,KEEP
+trf_0497,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/4.mp3,4.mp3,Megh,Megh,16.536,44100,2,MP3,,,,,,KEEP
+trf_0498,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/5.mp3,5.mp3,Megh,Megh,384.653,44100,2,MP3,,,,,,KEEP
+trf_0499,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/6.mp3,6.mp3,Megh,Megh,1762.769,44100,2,MP3,,,,,,KEEP
+trf_0500,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/7.mp3,7.mp3,Megh,Megh,2367.295,44100,2,MP3,,,,,,KEEP
+trf_0501,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/8.mp3,8.mp3,Megh,Megh,711.889,44100,2,MP3,,,,,,KEEP
+trf_0502,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh/9.mp3,9.mp3,Megh,Megh,510.302,44100,2,MP3,,,,,,KEEP
+trf_0503,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/0.mp3,0.mp3,Megh Malhar,Megh Malhar,195.648,48000,2,MP3,,,,,,KEEP
+trf_0504,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/1.mp3,1.mp3,Megh Malhar,Megh Malhar,284.688,48000,2,MP3,,,,,,KEEP
+trf_0505,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/10.mp3,10.mp3,Megh Malhar,Megh Malhar,2573.035,44100,2,MP3,,,,,,KEEP
+trf_0506,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/11.mp3,11.mp3,Megh Malhar,Megh Malhar,428.983,44100,2,MP3,,,,,,KEEP
+trf_0507,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/12.mp3,12.mp3,Megh Malhar,Megh Malhar,393.24,48000,2,MP3,,,,,,KEEP
+trf_0508,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/13.mp3,13.mp3,Megh Malhar,Megh Malhar,2239.608,44100,2,MP3,,,,,,KEEP
+trf_0509,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/2.mp3,2.mp3,Megh Malhar,Megh Malhar,264.696,48000,2,MP3,,,,,,KEEP
+trf_0510,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/3.mp3,3.mp3,Megh Malhar,Megh Malhar,2047.06,44100,2,MP3,,,,,,KEEP
+trf_0511,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/4.mp3,4.mp3,Megh Malhar,Megh Malhar,3787.259,44100,2,MP3,,,,,,KEEP
+trf_0512,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/5.mp3,5.mp3,Megh Malhar,Megh Malhar,3570.024,44100,2,MP3,,,,,,KEEP
+trf_0513,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/6.mp3,6.mp3,Megh Malhar,Megh Malhar,489.927,44100,2,MP3,,,,,,KEEP
+trf_0514,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/7.mp3,7.mp3,Megh Malhar,Megh Malhar,482.56,44100,2,MP3,,,,,,KEEP
+trf_0515,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/8.mp3,8.mp3,Megh Malhar,Megh Malhar,991.896,44100,2,MP3,,,,,,KEEP
+trf_0516,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/Megh Malhar/9.mp3,9.mp3,Megh Malhar,Megh Malhar,820.167,44100,2,MP3,,,,,,KEEP
+trf_0517,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/0.mp3,0.mp3,sarang,Sarang,203.904,48000,2,MP3,,,,,,KEEP
+trf_0518,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/1.mp3,1.mp3,sarang,Sarang,460.016,44100,2,MP3,,,,,,KEEP
+trf_0519,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/10.mp3,10.mp3,sarang,Sarang,343.014,44100,2,MP3,,,,,,KEEP
+trf_0520,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/11.mp3,11.mp3,sarang,Sarang,548.415,44100,2,MP3,,,,,,KEEP
+trf_0521,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/12.mp3,12.mp3,sarang,Sarang,497.345,44100,2,MP3,,,,,,KEEP
+trf_0522,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/13.mp3,13.mp3,sarang,Sarang,1219.892,44100,2,MP3,,,,,,KEEP
+trf_0523,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/14.mp3,14.mp3,sarang,Sarang,2780.056,44100,2,MP3,,,,,,KEEP
+trf_0524,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/2.mp3,2.mp3,sarang,Sarang,281.232,48000,2,MP3,,,,,,KEEP
+trf_0525,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/3.mp3,3.mp3,sarang,Sarang,237.768,48000,2,MP3,,,,,,KEEP
+trf_0526,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/4.mp3,4.mp3,sarang,Sarang,3151.08,48000,2,MP3,,,,,,KEEP
+trf_0527,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/5.mp3,5.mp3,sarang,Sarang,1838.088,48000,2,MP3,,,,,,KEEP
+trf_0528,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/6.mp3,6.mp3,sarang,Sarang,953.783,44100,2,MP3,,,,,,KEEP
+trf_0529,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/7.mp3,7.mp3,sarang,Sarang,1863.288,44100,2,MP3,,,,,,KEEP
+trf_0530,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/8.mp3,8.mp3,sarang,Sarang,818.599,44100,2,MP3,,,,,,KEEP
+trf_0531,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kafi (thaat)/sarang/9.mp3,9.mp3,sarang,Sarang,2476.042,44100,2,MP3,,,,,,KEEP
+trf_0532,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/0.mp3,0.mp3,Bhoopali,Bhoopali,238.656,48000,2,MP3,,,,,,KEEP
+trf_0533,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/1.mp3,1.mp3,Bhoopali,Bhoopali,363.938,44100,2,MP3,,,,,,KEEP
+trf_0534,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/10.mp3,10.mp3,Bhoopali,Bhoopali,62.694,44100,2,MP3,,,,,,KEEP
+trf_0535,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/11.mp3,11.mp3,Bhoopali,Bhoopali,247.615,44100,2,MP3,,,,,,KEEP
+trf_0536,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/12.mp3,12.mp3,Bhoopali,Bhoopali,1511.576,44100,2,MP3,,,,,,KEEP
+trf_0537,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/13.mp3,13.mp3,Bhoopali,Bhoopali,69.982,44100,2,MP3,,,,,,KEEP
+trf_0538,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/14.mp3,14.mp3,Bhoopali,Bhoopali,207.099,44100,2,MP3,,,,,,KEEP
+trf_0539,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/15.mp3,15.mp3,Bhoopali,Bhoopali,413.649,44100,2,MP3,,,,,,KEEP
+trf_0540,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/2.mp3,2.mp3,Bhoopali,Bhoopali,3409.296,48000,2,MP3,,,,,,KEEP
+trf_0541,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/3.mp3,3.mp3,Bhoopali,Bhoopali,166.776,48000,2,MP3,,,,,,KEEP
+trf_0542,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/4.mp3,4.mp3,Bhoopali,Bhoopali,245.04,48000,2,MP3,,,,,,KEEP
+trf_0543,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/5.mp3,5.mp3,Bhoopali,Bhoopali,383.712,48000,2,MP3,,,,,,KEEP
+trf_0544,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/6.mp3,6.mp3,Bhoopali,Bhoopali,237.096,48000,2,MP3,,,,,,KEEP
+trf_0545,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/7.mp3,7.mp3,Bhoopali,Bhoopali,266.606,44100,2,MP3,,,,,,KEEP
+trf_0546,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/8.mp3,8.mp3,Bhoopali,Bhoopali,289.515,44100,2,MP3,,,,,,KEEP
+trf_0547,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Bhoopali/9.mp3,9.mp3,Bhoopali,Bhoopali,130.429,44100,2,MP3,,,,,,KEEP
+trf_0548,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/0.mp3,0.mp3,Hindol,Hindol,442.88,44100,2,MP3,,,,,,KEEP
+trf_0549,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/1.mp3,1.mp3,Hindol,Hindol,2891.938,44100,2,MP3,,,,,,KEEP
+trf_0550,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/10.mp3,10.mp3,Hindol,Hindol,488.098,44100,2,MP3,,,,,,KEEP
+trf_0551,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/11.mp3,11.mp3,Hindol,Hindol,1995.938,44100,2,MP3,,,,,,KEEP
+trf_0552,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/12.mp3,12.mp3,Hindol,Hindol,1647.621,44100,2,MP3,,,,,,KEEP
+trf_0553,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/2.mp3,2.mp3,Hindol,Hindol,1760.888,44100,2,MP3,,,,,,KEEP
+trf_0554,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/3.mp3,3.mp3,Hindol,Hindol,757.447,44100,2,MP3,,,,,,KEEP
+trf_0555,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/4.mp3,4.mp3,Hindol,Hindol,1036.983,44100,2,MP3,,,,,,KEEP
+trf_0556,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/5.mp3,5.mp3,Hindol,Hindol,322.403,44100,2,MP3,,,,,,KEEP
+trf_0557,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/6.mp3,6.mp3,Hindol,Hindol,1441.097,44100,2,MP3,,,,,,KEEP
+trf_0558,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/7.mp3,7.mp3,Hindol,Hindol,608.784,44100,2,MP3,,,,,,KEEP
+trf_0559,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/8.mp3,8.mp3,Hindol,Hindol,494.054,44100,2,MP3,,,,,,KEEP
+trf_0560,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Hindol/9.mp3,9.mp3,Hindol,Hindol,996.075,44100,2,MP3,,,,,,KEEP
+trf_0561,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/0.mp3,0.mp3,Kedar,Kedar,197.688,48000,2,MP3,,,,,,KEEP
+trf_0562,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/1.mp3,1.mp3,Kedar,Kedar,195.657,44100,2,MP3,,,,,,KEEP
+trf_0563,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/10.mp3,10.mp3,Kedar,Kedar,196.101,44100,2,MP3,,,,,,KEEP
+trf_0564,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/11.mp3,11.mp3,Kedar,Kedar,1755.696,48000,2,MP3,,,,,,KEEP
+trf_0565,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/12.mp3,12.mp3,Kedar,Kedar,248.529,44100,2,MP3,,,,,,KEEP
+trf_0566,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/13.mp3,13.mp3,Kedar,Kedar,288.888,48000,2,MP3,,,,,,KEEP
+trf_0567,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/14.mp3,14.mp3,Kedar,Kedar,258.264,48000,2,MP3,,,,,,KEEP
+trf_0568,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/15.mp3,15.mp3,Kedar,Kedar,232.392,48000,2,MP3,,,,,,KEEP
+trf_0569,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/16.mp3,16.mp3,Kedar,Kedar,326.243,44100,2,MP3,,,,,,KEEP
+trf_0570,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/17.mp3,17.mp3,Kedar,Kedar,538.697,44100,2,MP3,,,,,,KEEP
+trf_0571,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/18.mp3,18.mp3,Kedar,Kedar,93.753,44100,2,MP3,,,,,,KEEP
+trf_0572,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/19.mp3,19.mp3,Kedar,Kedar,435.383,44100,2,MP3,,,,,,KEEP
+trf_0573,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/2.mp3,2.mp3,Kedar,Kedar,234.12,48000,2,MP3,,,,,,KEEP
+trf_0574,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/3.mp3,3.mp3,Kedar,Kedar,198.713,44100,2,MP3,,,,,,KEEP
+trf_0575,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/4.mp3,4.mp3,Kedar,Kedar,454.608,48000,2,MP3,,,,,,KEEP
+trf_0576,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/5.mp3,5.mp3,Kedar,Kedar,220.056,48000,2,MP3,,,,,,KEEP
+trf_0577,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/6.mp3,6.mp3,Kedar,Kedar,259.056,44100,2,MP3,,,,,,KEEP
+trf_0578,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/7.mp3,7.mp3,Kedar,Kedar,268.92,48000,2,MP3,,,,,,KEEP
+trf_0579,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/8.mp3,8.mp3,Kedar,Kedar,300.24,48000,2,MP3,,,,,,KEEP
+trf_0580,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Kedar/9.mp3,9.mp3,Kedar,Kedar,212.592,48000,2,MP3,,,,,,KEEP
+trf_0581,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/0.mp3,0.mp3,suddha kalyan,Shuddha Kalyan,226.512,48000,2,MP3,,,,,,KEEP
+trf_0582,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/1.mp3,1.mp3,suddha kalyan,Shuddha Kalyan,210.528,48000,2,MP3,,,,,,KEEP
+trf_0583,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/10.mp3,10.mp3,suddha kalyan,Shuddha Kalyan,2896.405,44100,2,MP3,,,,,,KEEP
+trf_0584,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/11.mp3,11.mp3,suddha kalyan,Shuddha Kalyan,3192.346,44100,2,MP3,,,,,,KEEP
+trf_0585,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/2.mp3,2.mp3,suddha kalyan,Shuddha Kalyan,199.32,48000,2,MP3,,,,,,KEEP
+trf_0586,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/3.mp3,3.mp3,suddha kalyan,Shuddha Kalyan,211.104,48000,2,MP3,,,,,,KEEP
+trf_0587,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/4.mp3,4.mp3,suddha kalyan,Shuddha Kalyan,1706.344,44100,2,MP3,,,,,,KEEP
+trf_0588,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/5.mp3,5.mp3,suddha kalyan,Shuddha Kalyan,2115.056,44100,2,MP3,,,,,,KEEP
+trf_0589,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/6.mp3,6.mp3,suddha kalyan,Shuddha Kalyan,433.789,44100,2,MP3,,,,,,KEEP
+trf_0590,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/7.mp3,7.mp3,suddha kalyan,Shuddha Kalyan,2717.962,44100,2,MP3,,,,,,KEEP
+trf_0591,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/8.mp3,8.mp3,suddha kalyan,Shuddha Kalyan,2593.802,44100,2,MP3,,,,,,KEEP
+trf_0592,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/suddha kalyan/9.mp3,9.mp3,suddha kalyan,Shuddha Kalyan,494.315,44100,2,MP3,,,,,,KEEP
+trf_0593,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/0.mp3,0.mp3,Yaman Kalyan,Yaman Kalyan,200.52,48000,2,MP3,,,,,,KEEP
+trf_0594,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/1.mp3,1.mp3,Yaman Kalyan,Yaman Kalyan,287.064,48000,2,MP3,,,,,,KEEP
+trf_0595,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/10.mp3,10.mp3,Yaman Kalyan,Yaman Kalyan,867.135,44100,2,MP3,,,,,,KEEP
+trf_0596,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/11.mp3,11.mp3,Yaman Kalyan,Yaman Kalyan,1670.034,44100,2,MP3,,,,,,KEEP
+trf_0597,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/12.mp3,12.mp3,Yaman Kalyan,Yaman Kalyan,4319.164,44100,2,MP3,,,,,,KEEP
+trf_0598,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/2.mp3,2.mp3,Yaman Kalyan,Yaman Kalyan,307.128,48000,2,MP3,,,,,,KEEP
+trf_0599,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/3.mp3,3.mp3,Yaman Kalyan,Yaman Kalyan,184.656,48000,2,MP3,,,,,,KEEP
+trf_0600,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/4.mp3,4.mp3,Yaman Kalyan,Yaman Kalyan,2531.544,48000,2,MP3,,,,,,KEEP
+trf_0601,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/5.mp3,5.mp3,Yaman Kalyan,Yaman Kalyan,433.032,44100,2,MP3,,,,,,KEEP
+trf_0602,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/6.mp3,6.mp3,Yaman Kalyan,Yaman Kalyan,762.436,44100,2,MP3,,,,,,KEEP
+trf_0603,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/7.mp3,7.mp3,Yaman Kalyan,Yaman Kalyan,553.404,44100,2,MP3,,,,,,KEEP
+trf_0604,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/8.mp3,8.mp3,Yaman Kalyan,Yaman Kalyan,2090.057,44100,2,MP3,,,,,,KEEP
+trf_0605,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman Kalyan/9.mp3,9.mp3,Yaman Kalyan,Yaman Kalyan,3023.647,44100,2,MP3,,,,,,KEEP
+trf_0606,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/0.mp3,0.mp3,Yaman or Kalyan,Yaman,243.84,48000,2,MP3,,,,,,KEEP
+trf_0607,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/1.mp3,1.mp3,Yaman or Kalyan,Yaman,1577.378,44100,2,MP3,,,,,,KEEP
+trf_0608,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/10.mp3,10.mp3,Yaman or Kalyan,Yaman,247.368,48000,2,MP3,,,,,,KEEP
+trf_0609,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/11.mp3,11.mp3,Yaman or Kalyan,Yaman,307.128,48000,2,MP3,,,,,,KEEP
+trf_0610,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/12.mp3,12.mp3,Yaman or Kalyan,Yaman,290.638,44100,2,MP3,,,,,,KEEP
+trf_0611,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/13.mp3,13.mp3,Yaman or Kalyan,Yaman,182.856,48000,2,MP3,,,,,,KEEP
+trf_0612,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/14.mp3,14.mp3,Yaman or Kalyan,Yaman,404.245,44100,2,MP3,,,,,,KEEP
+trf_0613,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/15.mp3,15.mp3,Yaman or Kalyan,Yaman,1317.851,44100,2,MP3,,,,,,KEEP
+trf_0614,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/16.mp3,16.mp3,Yaman or Kalyan,Yaman,423.732,44100,2,MP3,,,,,,KEEP
+trf_0615,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/17.mp3,17.mp3,Yaman or Kalyan,Yaman,1326.132,44100,2,MP3,,,,,,KEEP
+trf_0616,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/18.mp3,18.mp3,Yaman or Kalyan,Yaman,657.45,44100,2,MP3,,,,,,KEEP
+trf_0617,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/19.mp3,19.mp3,Yaman or Kalyan,Yaman,266.58,44100,2,MP3,,,,,,KEEP
+trf_0618,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/2.mp3,2.mp3,Yaman or Kalyan,Yaman,2060.952,48000,2,MP3,,,,,,KEEP
+trf_0619,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/20.mp3,20.mp3,Yaman or Kalyan,Yaman,365.871,44100,1,MP3,,,,,,KEEP
+trf_0620,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/21.mp3,21.mp3,Yaman or Kalyan,Yaman,469.29,44100,2,MP3,,,,,,KEEP
+trf_0621,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/3.mp3,3.mp3,Yaman or Kalyan,Yaman,250.44,48000,2,MP3,,,,,,KEEP
+trf_0622,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/4.mp3,4.mp3,Yaman or Kalyan,Yaman,190.992,48000,2,MP3,,,,,,KEEP
+trf_0623,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/5.mp3,5.mp3,Yaman or Kalyan,Yaman,226.656,48000,2,MP3,,,,,,KEEP
+trf_0624,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/6.mp3,6.mp3,Yaman or Kalyan,Yaman,385.56,48000,2,MP3,,,,,,KEEP
+trf_0625,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/7.mp3,7.mp3,Yaman or Kalyan,Yaman,256.056,48000,2,MP3,,,,,,KEEP
+trf_0626,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/8.mp3,8.mp3,Yaman or Kalyan,Yaman,200.568,44100,2,MP3,,,,,,KEEP
+trf_0627,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Kalyan (thaat)/Yaman or Kalyan/9.mp3,9.mp3,Yaman or Kalyan,Yaman,180.168,48000,2,MP3,,,,,,KEEP
+trf_0628,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/0.mp3,0.mp3,Desh,Desh,200.064,48000,2,MP3,,,,,,KEEP
+trf_0629,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/1.mp3,1.mp3,Desh,Desh,282.432,48000,2,MP3,,,,,,KEEP
+trf_0630,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/10.mp3,10.mp3,Desh,Desh,244.532,44100,2,MP3,,,,,,KEEP
+trf_0631,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/11.mp3,11.mp3,Desh,Desh,211.096,44100,2,MP3,,,,,,KEEP
+trf_0632,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/12.mp3,12.mp3,Desh,Desh,183.092,44100,2,MP3,,,,,,KEEP
+trf_0633,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/13.mp3,13.mp3,Desh,Desh,265.536,48000,2,MP3,,,,,,KEEP
+trf_0634,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/14.mp3,14.mp3,Desh,Desh,64.848,48000,2,MP3,,,,,,KEEP
+trf_0635,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/15.mp3,15.mp3,Desh,Desh,276.114,44100,2,MP3,,,,,,KEEP
+trf_0636,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/16.mp3,16.mp3,Desh,Desh,204.591,44100,2,MP3,,,,,,KEEP
+trf_0637,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/17.mp3,17.mp3,Desh,Desh,909.288,48000,2,MP3,,,,,,KEEP
+trf_0638,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/18.mp3,18.mp3,Desh,Desh,547.056,44100,2,MP3,,,,,,KEEP
+trf_0639,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/19.mp3,19.mp3,Desh,Desh,3218.495,44100,2,MP3,,,,,,KEEP
+trf_0640,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/2.mp3,2.mp3,Desh,Desh,306.547,44100,2,MP3,,,,,,KEEP
+trf_0641,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/20.mp3,20.mp3,Desh,Desh,1660.134,44100,2,MP3,,,,,,KEEP
+trf_0642,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/21.mp3,21.mp3,Desh,Desh,819.148,44100,2,MP3,,,,,,KEEP
+trf_0643,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/22.mp3,22.mp3,Desh,Desh,506.358,44100,2,MP3,,,,,,KEEP
+trf_0644,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/3.mp3,3.mp3,Desh,Desh,600.79,44100,2,MP3,,,,,,KEEP
+trf_0645,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/4.mp3,4.mp3,Desh,Desh,154.828,44100,2,MP3,,,,,,KEEP
+trf_0646,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/5.mp3,5.mp3,Desh,Desh,339.48,48000,2,MP3,,,,,,KEEP
+trf_0647,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/6.mp3,6.mp3,Desh,Desh,189.649,44100,2,MP3,,,,,,KEEP
+trf_0648,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/7.mp3,7.mp3,Desh,Desh,191.164,44100,2,MP3,,,,,,KEEP
+trf_0649,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/8.mp3,8.mp3,Desh,Desh,201.408,48000,2,MP3,,,,,,KEEP
+trf_0650,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Desh/9.mp3,9.mp3,Desh,Desh,170.136,44100,2,MP3,,,,,,KEEP
+trf_0651,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/0.mp3,0.mp3,Jhinjhoti,Jhinjhoti,268.296,48000,2,MP3,,,,,,KEEP
+trf_0652,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/1.mp3,1.mp3,Jhinjhoti,Jhinjhoti,258.6,48000,2,MP3,,,,,,KEEP
+trf_0653,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/10.mp3,10.mp3,Jhinjhoti,Jhinjhoti,457.744,44100,2,MP3,,,,,,KEEP
+trf_0654,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/11.mp3,11.mp3,Jhinjhoti,Jhinjhoti,699.272,44100,2,MP3,,,,,,KEEP
+trf_0655,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/2.mp3,2.mp3,Jhinjhoti,Jhinjhoti,236.095,44100,2,MP3,,,,,,KEEP
+trf_0656,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/3.mp3,3.mp3,Jhinjhoti,Jhinjhoti,283.638,44100,2,MP3,,,,,,KEEP
+trf_0657,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/4.mp3,4.mp3,Jhinjhoti,Jhinjhoti,948.036,44100,2,MP3,,,,,,KEEP
+trf_0658,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/5.mp3,5.mp3,Jhinjhoti,Jhinjhoti,885.864,44100,2,MP3,,,,,,KEEP
+trf_0659,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/6.mp3,6.mp3,Jhinjhoti,Jhinjhoti,460.173,44100,2,MP3,,,,,,KEEP
+trf_0660,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/7.mp3,7.mp3,Jhinjhoti,Jhinjhoti,191.504,44100,2,MP3,,,,,,KEEP
+trf_0661,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/8.mp3,8.mp3,Jhinjhoti,Jhinjhoti,936.385,44100,2,MP3,,,,,,KEEP
+trf_0662,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Jhinjhoti/9.mp3,9.mp3,Jhinjhoti,Jhinjhoti,737.071,44100,2,MP3,,,,,,KEEP
+trf_0663,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/0.mp3,0.mp3,Khamaj,Khamaj,504.984,48000,2,MP3,,,,,,KEEP
+trf_0664,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/1.mp3,1.mp3,Khamaj,Khamaj,191.352,48000,2,MP3,,,,,,KEEP
+trf_0665,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/10.mp3,10.mp3,Khamaj,Khamaj,348.395,44100,2,MP3,,,,,,KEEP
+trf_0666,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/11.mp3,11.mp3,Khamaj,Khamaj,315.193,44100,2,MP3,,,,,,KEEP
+trf_0667,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/12.mp3,12.mp3,Khamaj,Khamaj,265.43,44100,2,MP3,,,,,,KEEP
+trf_0668,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/13.mp3,13.mp3,Khamaj,Khamaj,834.847,44100,2,MP3,,,,,,KEEP
+trf_0669,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/14.mp3,14.mp3,Khamaj,Khamaj,265.038,44100,2,MP3,,,,,,KEEP
+trf_0670,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/15.mp3,15.mp3,Khamaj,Khamaj,802.116,44100,2,MP3,,,,,,KEEP
+trf_0671,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/16.mp3,16.mp3,Khamaj,Khamaj,460.199,44100,2,MP3,,,,,,KEEP
+trf_0672,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/17.mp3,17.mp3,Khamaj,Khamaj,605.153,44100,2,MP3,,,,,,KEEP
+trf_0673,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/18.mp3,18.mp3,Khamaj,Khamaj,270.028,44100,2,MP3,,,,,,KEEP
+trf_0674,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/19.mp3,19.mp3,Khamaj,Khamaj,249.6,44100,2,MP3,,,,,,KEEP
+trf_0675,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/2.mp3,2.mp3,Khamaj,Khamaj,119.432,44100,2,MP3,,,,,,KEEP
+trf_0676,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/20.mp3,20.mp3,Khamaj,Khamaj,1043.226,44100,2,MP3,,,,,,KEEP
+trf_0677,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/3.mp3,3.mp3,Khamaj,Khamaj,232.568,44100,1,MP3,,,,,,KEEP
+trf_0678,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/4.mp3,4.mp3,Khamaj,Khamaj,202.824,48000,2,MP3,,,,,,KEEP
+trf_0679,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/5.mp3,5.mp3,Khamaj,Khamaj,220.224,48000,2,MP3,,,,,,KEEP
+trf_0680,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/6.mp3,6.mp3,Khamaj,Khamaj,226.368,48000,2,MP3,,,,,,KEEP
+trf_0681,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/7.mp3,7.mp3,Khamaj,Khamaj,207.073,44100,2,MP3,,,,,,KEEP
+trf_0682,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/8.mp3,8.mp3,Khamaj,Khamaj,387.216,48000,2,MP3,,,,,,KEEP
+trf_0683,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Khamaj/9.mp3,9.mp3,Khamaj,Khamaj,253.728,48000,2,MP3,,,,,,KEEP
+trf_0684,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/0.mp3,0.mp3,Rageshree,Rageshree,257.808,48000,2,MP3,,,,,,KEEP
+trf_0685,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/1.mp3,1.mp3,Rageshree,Rageshree,286.32,48000,2,MP3,,,,,,KEEP
+trf_0686,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/10.mp3,10.mp3,Rageshree,Rageshree,465.45,44100,2,MP3,,,,,,KEEP
+trf_0687,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/11.mp3,11.mp3,Rageshree,Rageshree,1726.433,44100,2,MP3,,,,,,KEEP
+trf_0688,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/12.mp3,12.mp3,Rageshree,Rageshree,491.311,44100,2,MP3,,,,,,KEEP
+trf_0689,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/2.mp3,2.mp3,Rageshree,Rageshree,8051.749,44100,2,MP3,,,,,,KEEP
+trf_0690,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/3.mp3,3.mp3,Rageshree,Rageshree,209.064,48000,2,MP3,,,,,,KEEP
+trf_0691,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/4.mp3,4.mp3,Rageshree,Rageshree,240.192,48000,2,MP3,,,,,,KEEP
+trf_0692,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/5.mp3,5.mp3,Rageshree,Rageshree,1807.464,44100,2,MP3,,,,,,KEEP
+trf_0693,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/6.mp3,6.mp3,Rageshree,Rageshree,199.314,44100,2,MP3,,,,,,KEEP
+trf_0694,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/7.mp3,7.mp3,Rageshree,Rageshree,628.245,44100,2,MP3,,,,,,KEEP
+trf_0695,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/8.mp3,8.mp3,Rageshree,Rageshree,1141.185,44100,2,MP3,,,,,,KEEP
+trf_0696,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Rageshree/9.mp3,9.mp3,Rageshree,Rageshree,813.923,44100,2,MP3,,,,,,KEEP
+trf_0697,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/0.mp3,0.mp3,Sorath,Sorath,217.608,48000,2,MP3,,,,,,KEEP
+trf_0698,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/1.mp3,1.mp3,Sorath,Sorath,665.64,48000,2,MP3,,,,,,KEEP
+trf_0699,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/10.mp3,10.mp3,Sorath,Sorath,801.802,44100,2,MP3,,,,,,KEEP
+trf_0700,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/2.mp3,2.mp3,Sorath,Sorath,906.371,44100,2,MP3,,,,,,KEEP
+trf_0701,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/3.mp3,3.mp3,Sorath,Sorath,492.8,44100,2,MP3,,,,,,KEEP
+trf_0702,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/4.mp3,4.mp3,Sorath,Sorath,3587.37,44100,2,MP3,,,,,,KEEP
+trf_0703,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/5.mp3,5.mp3,Sorath,Sorath,1164.669,44100,2,MP3,,,,,,KEEP
+trf_0704,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/6.mp3,6.mp3,Sorath,Sorath,164.885,44100,2,MP3,,,,,,KEEP
+trf_0705,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/7.mp3,7.mp3,Sorath,Sorath,482.638,44100,2,MP3,,,,,,KEEP
+trf_0706,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/8.mp3,8.mp3,Sorath,Sorath,1327.543,44100,2,MP3,,,,,,KEEP
+trf_0707,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Khamaj (thaat)/Sorath/9.mp3,9.mp3,Sorath,Sorath,558.132,44100,2,MP3,,,,,,KEEP
+trf_0708,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/0.mp3,0.mp3,Bhatiyar,Bhatiyar,333.768,48000,2,MP3,,,,,,KEEP
+trf_0709,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/1.mp3,1.mp3,Bhatiyar,Bhatiyar,158.304,48000,2,MP3,,,,,,KEEP
+trf_0710,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/10.mp3,10.mp3,Bhatiyar,Bhatiyar,830.459,44100,2,MP3,,,,,,KEEP
+trf_0711,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/11.mp3,11.mp3,Bhatiyar,Bhatiyar,1707.259,44100,2,MP3,,,,,,KEEP
+trf_0712,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/12.mp3,12.mp3,Bhatiyar,Bhatiyar,609.024,48000,2,MP3,,,,,,KEEP
+trf_0713,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/13.mp3,13.mp3,Bhatiyar,Bhatiyar,677.355,44100,2,MP3,,,,,,KEEP
+trf_0714,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/14.mp3,14.mp3,Bhatiyar,Bhatiyar,631.798,44100,2,MP3,,,,,,KEEP
+trf_0715,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/15.mp3,15.mp3,Bhatiyar,Bhatiyar,365.736,48000,2,MP3,,,,,,KEEP
+trf_0716,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/16.mp3,16.mp3,Bhatiyar,Bhatiyar,2215.367,44100,2,MP3,,,,,,KEEP
+trf_0717,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/17.mp3,17.mp3,Bhatiyar,Bhatiyar,1811.069,44100,2,MP3,,,,,,KEEP
+trf_0718,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/2.mp3,2.mp3,Bhatiyar,Bhatiyar,296.856,48000,2,MP3,,,,,,KEEP
+trf_0719,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/3.mp3,3.mp3,Bhatiyar,Bhatiyar,117.682,44100,2,MP3,,,,,,KEEP
+trf_0720,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/4.mp3,4.mp3,Bhatiyar,Bhatiyar,1815.36,48000,2,MP3,,,,,,KEEP
+trf_0721,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/5.mp3,5.mp3,Bhatiyar,Bhatiyar,247.406,44100,2,MP3,,,,,,KEEP
+trf_0722,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/6.mp3,6.mp3,Bhatiyar,Bhatiyar,1784.79,44100,2,MP3,,,,,,KEEP
+trf_0723,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/7.mp3,7.mp3,Bhatiyar,Bhatiyar,362.136,44100,2,MP3,,,,,,KEEP
+trf_0724,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/8.mp3,8.mp3,Bhatiyar,Bhatiyar,598.753,44100,2,MP3,,,,,,KEEP
+trf_0725,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Bhatiyar/9.mp3,9.mp3,Bhatiyar,Bhatiyar,864.549,44100,2,MP3,,,,,,KEEP
+trf_0726,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/0.mp3,0.mp3,Marva,Marwa,220.248,48000,2,MP3,,,,,,KEEP
+trf_0727,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/1.mp3,1.mp3,Marva,Marwa,304.68,48000,2,MP3,,,,,,KEEP
+trf_0728,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/10.mp3,10.mp3,Marva,Marwa,318.955,44100,2,MP3,,,,,,KEEP
+trf_0729,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/11.mp3,11.mp3,Marva,Marwa,327.079,44100,2,MP3,,,,,,KEEP
+trf_0730,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/12.mp3,12.mp3,Marva,Marwa,489.665,44100,2,MP3,,,,,,KEEP
+trf_0731,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/13.mp3,13.mp3,Marva,Marwa,408.336,48000,2,MP3,,,,,,KEEP
+trf_0732,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/14.mp3,14.mp3,Marva,Marwa,444.369,44100,2,MP3,,,,,,KEEP
+trf_0733,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/15.mp3,15.mp3,Marva,Marwa,1292.8,44100,2,MP3,,,,,,KEEP
+trf_0734,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/16.mp3,16.mp3,Marva,Marwa,3133.78,44100,2,MP3,,,,,,KEEP
+trf_0735,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/17.mp3,17.mp3,Marva,Marwa,1089.306,44100,2,MP3,,,,,,KEEP
+trf_0736,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/2.mp3,2.mp3,Marva,Marwa,352.896,48000,2,MP3,,,,,,KEEP
+trf_0737,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/3.mp3,3.mp3,Marva,Marwa,201.096,48000,2,MP3,,,,,,KEEP
+trf_0738,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/4.mp3,4.mp3,Marva,Marwa,432.336,48000,2,MP3,,,,,,KEEP
+trf_0739,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/5.mp3,5.mp3,Marva,Marwa,378.906,44100,2,MP3,,,,,,KEEP
+trf_0740,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/6.mp3,6.mp3,Marva,Marwa,3480.242,44100,2,MP3,,,,,,KEEP
+trf_0741,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/7.mp3,7.mp3,Marva,Marwa,1804.095,44100,2,MP3,,,,,,KEEP
+trf_0742,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/8.mp3,8.mp3,Marva,Marwa,443.429,44100,2,MP3,,,,,,KEEP
+trf_0743,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Marva/9.mp3,9.mp3,Marva,Marwa,364.121,44100,2,MP3,,,,,,KEEP
+trf_0744,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/0.mp3,0.mp3,Purba,Purba,1157.329,44100,2,MP3,,,,,,KEEP
+trf_0745,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/1.mp3,1.mp3,Purba,Purba,4067.004,44100,2,MP3,,,,,,KEEP
+trf_0746,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/2.mp3,2.mp3,Purba,Purba,5370.253,44100,2,MP3,,,,,,KEEP
+trf_0747,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/3.mp3,3.mp3,Purba,Purba,1479.105,44100,2,MP3,,,,,,KEEP
+trf_0748,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/4.mp3,4.mp3,Purba,Purba,1789.78,44100,2,MP3,,,,,,KEEP
+trf_0749,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/5.mp3,5.mp3,Purba,Purba,1429.211,44100,2,MP3,,,,,,KEEP
+trf_0750,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/6.mp3,6.mp3,Purba,Purba,1797.433,44100,2,MP3,,,,,,KEEP
+trf_0751,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/7.mp3,7.mp3,Purba,Purba,1794.168,44100,2,MP3,,,,,,KEEP
+trf_0752,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/8.mp3,8.mp3,Purba,Purba,1227.672,48000,2,MP3,,,,,,KEEP
+trf_0753,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Purba/9.mp3,9.mp3,Purba,Purba,3568.68,48000,2,MP3,,,,,,KEEP
+trf_0754,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/0.mp3,0.mp3,Puriya,Puriya,218.496,48000,2,MP3,,,,,,KEEP
+trf_0755,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/1.mp3,1.mp3,Puriya,Puriya,351.504,44100,2,MP3,,,,,,KEEP
+trf_0756,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/10.mp3,10.mp3,Puriya,Puriya,261.407,44100,2,MP3,,,,,,KEEP
+trf_0757,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/11.mp3,11.mp3,Puriya,Puriya,3017.3,44100,2,MP3,,,,,,KEEP
+trf_0758,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/12.mp3,12.mp3,Puriya,Puriya,510.015,44100,2,MP3,,,,,,KEEP
+trf_0759,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/13.mp3,13.mp3,Puriya,Puriya,1748.4,48000,2,MP3,,,,,,KEEP
+trf_0760,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/14.mp3,14.mp3,Puriya,Puriya,350.851,44100,2,MP3,,,,,,KEEP
+trf_0761,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/15.mp3,15.mp3,Puriya,Puriya,3344.771,44100,2,MP3,,,,,,KEEP
+trf_0762,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/16.mp3,16.mp3,Puriya,Puriya,1097.038,44100,2,MP3,,,,,,KEEP
+trf_0763,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/2.mp3,2.mp3,Puriya,Puriya,339.2,44100,2,MP3,,,,,,KEEP
+trf_0764,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/3.mp3,3.mp3,Puriya,Puriya,2620.003,44100,2,MP3,,,,,,KEEP
+trf_0765,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/4.mp3,4.mp3,Puriya,Puriya,194.743,44100,2,MP3,,,,,,KEEP
+trf_0766,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/5.mp3,5.mp3,Puriya,Puriya,229.608,48000,2,MP3,,,,,,KEEP
+trf_0767,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/6.mp3,6.mp3,Puriya,Puriya,239.308,44100,2,MP3,,,,,,KEEP
+trf_0768,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/7.mp3,7.mp3,Puriya,Puriya,383.592,48000,2,MP3,,,,,,KEEP
+trf_0769,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/8.mp3,8.mp3,Puriya,Puriya,448.056,48000,2,MP3,,,,,,KEEP
+trf_0770,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Puriya/9.mp3,9.mp3,Puriya,Puriya,326.04,48000,2,MP3,,,,,,KEEP
+trf_0771,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/0.mp3,0.mp3,Sohni,Sohni,286.328,44100,2,MP3,,,,,,KEEP
+trf_0772,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/1.mp3,1.mp3,Sohni,Sohni,208.32,48000,2,MP3,,,,,,KEEP
+trf_0773,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/10.mp3,10.mp3,Sohni,Sohni,1796.18,44100,2,MP3,,,,,,KEEP
+trf_0774,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/11.mp3,11.mp3,Sohni,Sohni,382.25,44100,2,MP3,,,,,,KEEP
+trf_0775,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/12.mp3,12.mp3,Sohni,Sohni,4631.118,44100,2,MP3,,,,,,KEEP
+trf_0776,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/13.mp3,13.mp3,Sohni,Sohni,914.573,44100,2,MP3,,,,,,KEEP
+trf_0777,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/2.mp3,2.mp3,Sohni,Sohni,265.008,48000,2,MP3,,,,,,KEEP
+trf_0778,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/3.mp3,3.mp3,Sohni,Sohni,349.2,48000,2,MP3,,,,,,KEEP
+trf_0779,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/4.mp3,4.mp3,Sohni,Sohni,400.901,44100,2,MP3,,,,,,KEEP
+trf_0780,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/5.mp3,5.mp3,Sohni,Sohni,328.908,44100,2,MP3,,,,,,KEEP
+trf_0781,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/6.mp3,6.mp3,Sohni,Sohni,618.945,44100,2,MP3,,,,,,KEEP
+trf_0782,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/7.mp3,7.mp3,Sohni,Sohni,500.95,44100,2,MP3,,,,,,KEEP
+trf_0783,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/8.mp3,8.mp3,Sohni,Sohni,621.714,44100,2,MP3,,,,,,KEEP
+trf_0784,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Marva (thaat)/Sohni/9.mp3,9.mp3,Sohni,Sohni,198.583,44100,2,MP3,,,,,,KEEP
+trf_0785,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/0.mp3,0.mp3,Basant,Basant,362.736,48000,2,MP3,,,,,,KEEP
+trf_0786,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/1.mp3,1.mp3,Basant,Basant,496.92,48000,2,MP3,,,,,,KEEP
+trf_0787,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/10.mp3,10.mp3,Basant,Basant,1262.088,48000,2,MP3,,,,,,KEEP
+trf_0788,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/11.mp3,11.mp3,Basant,Basant,609.552,48000,2,MP3,,,,,,KEEP
+trf_0789,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/12.mp3,12.mp3,Basant,Basant,1627.728,48000,2,MP3,,,,,,KEEP
+trf_0790,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/13.mp3,13.mp3,Basant,Basant,4067.88,48000,2,MP3,,,,,,KEEP
+trf_0791,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/14.mp3,14.mp3,Basant,Basant,429.14,44100,2,MP3,,,,,,KEEP
+trf_0792,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/15.mp3,15.mp3,Basant,Basant,357.59,44100,2,MP3,,,,,,KEEP
+trf_0793,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/16.mp3,16.mp3,Basant,Basant,1206.544,44100,2,MP3,,,,,,KEEP
+trf_0794,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/17.mp3,17.mp3,Basant,Basant,84.072,48000,2,MP3,,,,,,KEEP
+trf_0795,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/18.mp3,18.mp3,Basant,Basant,312.059,44100,1,MP3,,,,,,KEEP
+trf_0796,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/19.mp3,19.mp3,Basant,Basant,123.507,44100,1,MP3,,,,,,KEEP
+trf_0797,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/2.mp3,2.mp3,Basant,Basant,510.792,48000,2,MP3,,,,,,KEEP
+trf_0798,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/20.mp3,20.mp3,Basant,Basant,442.384,44100,2,MP3,,,,,,KEEP
+trf_0799,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/21.mp3,21.mp3,Basant,Basant,621.061,44100,2,MP3,,,,,,KEEP
+trf_0800,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/22.mp3,22.mp3,Basant,Basant,196.049,44100,2,MP3,,,,,,KEEP
+trf_0801,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/23.mp3,23.mp3,Basant,Basant,341.029,44100,2,MP3,,,,,,KEEP
+trf_0802,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/24.mp3,24.mp3,Basant,Basant,654.211,44100,2,MP3,,,,,,KEEP
+trf_0803,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/3.mp3,3.mp3,Basant,Basant,621.072,48000,2,MP3,,,,,,KEEP
+trf_0804,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/4.mp3,4.mp3,Basant,Basant,625.084,44100,2,MP3,,,,,,KEEP
+trf_0805,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/5.mp3,5.mp3,Basant,Basant,284.352,48000,2,MP3,,,,,,KEEP
+trf_0806,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/6.mp3,6.mp3,Basant,Basant,1542.408,48000,2,MP3,,,,,,KEEP
+trf_0807,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/7.mp3,7.mp3,Basant,Basant,257.064,48000,2,MP3,,,,,,KEEP
+trf_0808,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/8.mp3,8.mp3,Basant,Basant,629.544,48000,2,MP3,,,,,,KEEP
+trf_0809,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Basant/9.mp3,9.mp3,Basant,Basant,1667.424,48000,2,MP3,,,,,,KEEP
+trf_0810,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/0.mp3,0.mp3,Deepak,Deepak,114.73,44100,2,MP3,,,,,,KEEP
+trf_0811,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/1.mp3,1.mp3,Deepak,Deepak,202.501,44100,2,MP3,,,,,,KEEP
+trf_0812,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/10.mp3,10.mp3,Deepak,Deepak,1795.213,44100,2,MP3,,,,,,KEEP
+trf_0813,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/11.mp3,11.mp3,Deepak,Deepak,362.083,44100,2,MP3,,,,,,KEEP
+trf_0814,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/12.mp3,12.mp3,Deepak,Deepak,1033.091,44100,2,MP3,,,,,,KEEP
+trf_0815,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/13.mp3,13.mp3,Deepak,Deepak,2743.928,44100,2,MP3,,,,,,KEEP
+trf_0816,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/14.mp3,14.mp3,Deepak,Deepak,1650.051,44100,2,MP3,,,,,,KEEP
+trf_0817,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/15.mp3,15.mp3,Deepak,Deepak,3370.031,44100,2,MP3,,,,,,KEEP
+trf_0818,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/16.mp3,16.mp3,Deepak,Deepak,205.531,44100,2,MP3,,,,,,KEEP
+trf_0819,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/17.mp3,17.mp3,Deepak,Deepak,149.52,48000,2,MP3,,,,,,KEEP
+trf_0820,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/18.mp3,18.mp3,Deepak,Deepak,212.48,44100,2,MP3,,,,,,KEEP
+trf_0821,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/19.mp3,19.mp3,Deepak,Deepak,205.479,44100,2,MP3,,,,,,KEEP
+trf_0822,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/2.mp3,2.mp3,Deepak,Deepak,17.58,44100,2,MP3,,,,,,KEEP
+trf_0823,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/20.mp3,20.mp3,Deepak,Deepak,401.711,44100,2,MP3,,,,,,KEEP
+trf_0824,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/21.mp3,21.mp3,Deepak,Deepak,366.785,44100,2,MP3,,,,,,KEEP
+trf_0825,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/22.mp3,22.mp3,Deepak,Deepak,71.314,44100,2,MP3,,,,,,KEEP
+trf_0826,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/23.mp3,23.mp3,Deepak,Deepak,698.619,44100,2,MP3,,,,,,KEEP
+trf_0827,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/24.mp3,24.mp3,Deepak,Deepak,60.029,44100,2,MP3,,,,,,KEEP
+trf_0828,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/3.mp3,3.mp3,Deepak,Deepak,364.173,44100,2,MP3,,,,,,KEEP
+trf_0829,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/4.mp3,4.mp3,Deepak,Deepak,359.784,44100,2,MP3,,,,,,KEEP
+trf_0830,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/5.mp3,5.mp3,Deepak,Deepak,445.571,44100,2,MP3,,,,,,KEEP
+trf_0831,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/6.mp3,6.mp3,Deepak,Deepak,378.41,44100,2,MP3,,,,,,KEEP
+trf_0832,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/7.mp3,7.mp3,Deepak,Deepak,54.152,44100,2,MP3,,,,,,KEEP
+trf_0833,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/8.mp3,8.mp3,Deepak,Deepak,406.413,44100,2,MP3,,,,,,KEEP
+trf_0834,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Deepak/9.mp3,9.mp3,Deepak,Deepak,505.522,44100,2,MP3,,,,,,KEEP
+trf_0835,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/0.mp3,0.mp3,Gauri,Gauri,1326.968,44100,2,MP3,,,,,,KEEP
+trf_0836,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/1.mp3,1.mp3,Gauri,Gauri,953.861,44100,2,MP3,,,,,,KEEP
+trf_0837,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/10.mp3,10.mp3,Gauri,Gauri,1982.616,44100,2,MP3,,,,,,KEEP
+trf_0838,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/11.mp3,11.mp3,Gauri,Gauri,272.17,44100,2,MP3,,,,,,KEEP
+trf_0839,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/12.mp3,12.mp3,Gauri,Gauri,969.273,44100,2,MP3,,,,,,KEEP
+trf_0840,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/13.mp3,13.mp3,Gauri,Gauri,576.549,44100,2,MP3,,,,,,KEEP
+trf_0841,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/14.mp3,14.mp3,Gauri,Gauri,981.185,44100,2,MP3,,,,,,KEEP
+trf_0842,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/2.mp3,2.mp3,Gauri,Gauri,630.962,44100,2,MP3,,,,,,KEEP
+trf_0843,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/3.mp3,3.mp3,Gauri,Gauri,953.783,44100,2,MP3,,,,,,KEEP
+trf_0844,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/4.mp3,4.mp3,Gauri,Gauri,1326.768,48000,2,MP3,,,,,,KEEP
+trf_0845,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/5.mp3,5.mp3,Gauri,Gauri,280.248,48000,2,MP3,,,,,,KEEP
+trf_0846,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/6.mp3,6.mp3,Gauri,Gauri,1328.952,48000,2,MP3,,,,,,KEEP
+trf_0847,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/7.mp3,7.mp3,Gauri,Gauri,610.368,48000,2,MP3,,,,,,KEEP
+trf_0848,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/8.mp3,8.mp3,Gauri,Gauri,232.803,44100,2,MP3,,,,,,KEEP
+trf_0849,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Gauri/9.mp3,9.mp3,Gauri,Gauri,569.156,44100,2,MP3,,,,,,KEEP
+trf_0850,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/0.mp3,0.mp3,Lalit,Lalit,196.056,48000,2,MP3,,,,,,KEEP
+trf_0851,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/1.mp3,1.mp3,Lalit,Lalit,1335.072,48000,2,MP3,,,,,,KEEP
+trf_0852,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/10.mp3,10.mp3,Lalit,Lalit,351.528,48000,2,MP3,,,,,,KEEP
+trf_0853,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/11.mp3,11.mp3,Lalit,Lalit,357.048,48000,2,MP3,,,,,,KEEP
+trf_0854,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/12.mp3,12.mp3,Lalit,Lalit,289.248,48000,2,MP3,,,,,,KEEP
+trf_0855,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/2.mp3,2.mp3,Lalit,Lalit,430.776,48000,2,MP3,,,,,,KEEP
+trf_0856,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/3.mp3,3.mp3,Lalit,Lalit,2215.628,44100,2,MP3,,,,,,KEEP
+trf_0857,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/4.mp3,4.mp3,Lalit,Lalit,1364.01,44100,2,MP3,,,,,,KEEP
+trf_0858,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/5.mp3,5.mp3,Lalit,Lalit,3000.048,48000,2,MP3,,,,,,KEEP
+trf_0859,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/6.mp3,6.mp3,Lalit,Lalit,4100.088,48000,2,MP3,,,,,,KEEP
+trf_0860,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/7.mp3,7.mp3,Lalit,Lalit,4549.512,48000,2,MP3,,,,,,KEEP
+trf_0861,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/8.mp3,8.mp3,Lalit,Lalit,674.482,44100,2,MP3,,,,,,KEEP
+trf_0862,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Lalit/9.mp3,9.mp3,Lalit,Lalit,424.056,48000,2,MP3,,,,,,KEEP
+trf_0863,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/0.mp3,0.mp3,Poorvi,Poorvi,90.96,48000,2,MP3,,,,,,KEEP
+trf_0864,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/1.mp3,1.mp3,Poorvi,Poorvi,1305.182,44100,2,MP3,,,,,,KEEP
+trf_0865,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/10.mp3,10.mp3,Poorvi,Poorvi,1020.604,44100,2,MP3,,,,,,KEEP
+trf_0866,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/11.mp3,11.mp3,Poorvi,Poorvi,702.851,44100,2,MP3,,,,,,KEEP
+trf_0867,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/12.mp3,12.mp3,Poorvi,Poorvi,1780.558,44100,2,MP3,,,,,,KEEP
+trf_0868,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/13.mp3,13.mp3,Poorvi,Poorvi,634.462,44100,2,MP3,,,,,,KEEP
+trf_0869,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/14.mp3,14.mp3,Poorvi,Poorvi,1767.34,44100,2,MP3,,,,,,KEEP
+trf_0870,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/2.mp3,2.mp3,Poorvi,Poorvi,490.083,44100,2,MP3,,,,,,KEEP
+trf_0871,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/3.mp3,3.mp3,Poorvi,Poorvi,1020.735,44100,2,MP3,,,,,,KEEP
+trf_0872,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/4.mp3,4.mp3,Poorvi,Poorvi,2830.237,44100,2,MP3,,,,,,KEEP
+trf_0873,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/5.mp3,5.mp3,Poorvi,Poorvi,344.581,44100,2,MP3,,,,,,KEEP
+trf_0874,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/6.mp3,6.mp3,Poorvi,Poorvi,441.024,48000,2,MP3,,,,,,KEEP
+trf_0875,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/7.mp3,7.mp3,Poorvi,Poorvi,725.107,44100,2,MP3,,,,,,KEEP
+trf_0876,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/8.mp3,8.mp3,Poorvi,Poorvi,344.581,44100,2,MP3,,,,,,KEEP
+trf_0877,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Poorvi/9.mp3,9.mp3,Poorvi,Poorvi,2677.029,44100,2,MP3,,,,,,KEEP
+trf_0878,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/0.mp3,0.mp3,Shree,Shree,630.727,44100,2,MP3,,,,,,KEEP
+trf_0879,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/1.mp3,1.mp3,Shree,Shree,769.463,44100,2,MP3,,,,,,KEEP
+trf_0880,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/10.mp3,10.mp3,Shree,Shree,597.29,44100,2,MP3,,,,,,KEEP
+trf_0881,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/11.mp3,11.mp3,Shree,Shree,1090.743,44100,2,MP3,,,,,,KEEP
+trf_0882,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/12.mp3,12.mp3,Shree,Shree,220.003,44100,2,MP3,,,,,,KEEP
+trf_0883,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/2.mp3,2.mp3,Shree,Shree,668.856,48000,2,MP3,,,,,,KEEP
+trf_0884,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/3.mp3,3.mp3,Shree,Shree,838.844,44100,2,MP3,,,,,,KEEP
+trf_0885,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/4.mp3,4.mp3,Shree,Shree,829.362,44100,2,MP3,,,,,,KEEP
+trf_0886,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/5.mp3,5.mp3,Shree,Shree,555.05,44100,2,MP3,,,,,,KEEP
+trf_0887,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/6.mp3,6.mp3,Shree,Shree,926.38,44100,2,MP3,,,,,,KEEP
+trf_0888,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/7.mp3,7.mp3,Shree,Shree,202.736,44100,1,MP3,,,,,,KEEP
+trf_0889,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/8.mp3,8.mp3,Shree,Shree,156.024,48000,2,MP3,,,,,,KEEP
+trf_0890,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Poorvi (thaat)/Shree/9.mp3,9.mp3,Shree,Shree,2922.971,44100,2,MP3,,,,,,KEEP
+trf_0891,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/0.mp3,0.mp3,Gujari Todi,Gujari Todi,350.224,44100,2,MP3,,,,,,KEEP
+trf_0892,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/1.mp3,1.mp3,Gujari Todi,Gujari Todi,208.744,44100,2,MP3,,,,,,KEEP
+trf_0893,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/10.mp3,10.mp3,Gujari Todi,Gujari Todi,889.574,44100,2,MP3,,,,,,KEEP
+trf_0894,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/11.mp3,11.mp3,Gujari Todi,Gujari Todi,289.62,44100,2,MP3,,,,,,KEEP
+trf_0895,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/12.mp3,12.mp3,Gujari Todi,Gujari Todi,1163.807,44100,2,MP3,,,,,,KEEP
+trf_0896,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/2.mp3,2.mp3,Gujari Todi,Gujari Todi,230.016,48000,2,MP3,,,,,,KEEP
+trf_0897,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/3.mp3,3.mp3,Gujari Todi,Gujari Todi,202.109,44100,2,MP3,,,,,,KEEP
+trf_0898,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/4.mp3,4.mp3,Gujari Todi,Gujari Todi,1790.772,44100,2,MP3,,,,,,KEEP
+trf_0899,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/5.mp3,5.mp3,Gujari Todi,Gujari Todi,420.389,44100,2,MP3,,,,,,KEEP
+trf_0900,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/6.mp3,6.mp3,Gujari Todi,Gujari Todi,1490.376,48000,2,MP3,,,,,,KEEP
+trf_0901,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/7.mp3,7.mp3,Gujari Todi,Gujari Todi,3210.475,44100,2,MP3,,,,,,KEEP
+trf_0902,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/8.mp3,8.mp3,Gujari Todi,Gujari Todi,614.568,48000,2,MP3,,,,,,KEEP
+trf_0903,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Gujari Todi/9.mp3,9.mp3,Gujari Todi,Gujari Todi,991.582,44100,2,MP3,,,,,,KEEP
+trf_0904,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/0.mp3,0.mp3,Madhuvanti,Madhuvanti,227.527,44100,2,MP3,,,,,,KEEP
+trf_0905,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/1.mp3,1.mp3,Madhuvanti,Madhuvanti,161.045,44100,2,MP3,,,,,,KEEP
+trf_0906,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/10.mp3,10.mp3,Madhuvanti,Madhuvanti,2802.26,44100,2,MP3,,,,,,KEEP
+trf_0907,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/11.mp3,11.mp3,Madhuvanti,Madhuvanti,910.488,48000,2,MP3,,,,,,KEEP
+trf_0908,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/12.mp3,12.mp3,Madhuvanti,Madhuvanti,1478.088,48000,2,MP3,,,,,,KEEP
+trf_0909,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/2.mp3,2.mp3,Madhuvanti,Madhuvanti,296.124,44100,2,MP3,,,,,,KEEP
+trf_0910,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/3.mp3,3.mp3,Madhuvanti,Madhuvanti,471.12,48000,2,MP3,,,,,,KEEP
+trf_0911,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/4.mp3,4.mp3,Madhuvanti,Madhuvanti,252.5,44100,2,MP3,,,,,,KEEP
+trf_0912,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/5.mp3,5.mp3,Madhuvanti,Madhuvanti,1622.335,44100,2,MP3,,,,,,KEEP
+trf_0913,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/6.mp3,6.mp3,Madhuvanti,Madhuvanti,251.742,44100,2,MP3,,,,,,KEEP
+trf_0914,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/7.mp3,7.mp3,Madhuvanti,Madhuvanti,878.054,44100,2,MP3,,,,,,KEEP
+trf_0915,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/8.mp3,8.mp3,Madhuvanti,Madhuvanti,3668.872,44100,2,MP3,,,,,,KEEP
+trf_0916,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Madhuvanti/9.mp3,9.mp3,Madhuvanti,Madhuvanti,640.261,44100,2,MP3,,,,,,KEEP
+trf_0917,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/0.mp3,0.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,199.704,48000,2,MP3,,,,,,EXCLUDED
+trf_0918,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/1.mp3,1.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,344.088,48000,2,MP3,,,,,,EXCLUDED
+trf_0919,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/10.mp3,10.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,359.064,48000,2,MP3,,,,,,EXCLUDED
+trf_0920,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/11.mp3,11.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,235.08,48000,2,MP3,,,,,,EXCLUDED
+trf_0921,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/12.mp3,12.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,1743.48,48000,2,MP3,,,,,,EXCLUDED
+trf_0922,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/13.mp3,13.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,5605.248,48000,2,MP3,,,,,,EXCLUDED
+trf_0923,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/14.mp3,14.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,1644.147,44100,2,MP3,,,,,,EXCLUDED
+trf_0924,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/15.mp3,15.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,2608.509,44100,2,MP3,,,,,,EXCLUDED
+trf_0925,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/16.mp3,16.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,677.172,44100,2,MP3,,,,,,EXCLUDED
+trf_0926,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/17.mp3,17.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,801.96,48000,2,MP3,,,,,,EXCLUDED
+trf_0927,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/18.mp3,18.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,603.011,44100,2,MP3,,,,,,EXCLUDED
+trf_0928,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/19.mp3,19.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,1789.32,48000,2,MP3,,,,,,EXCLUDED
+trf_0929,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/2.mp3,2.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,407.144,44100,2,MP3,,,,,,EXCLUDED
+trf_0930,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/20.mp3,20.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,453.904,44100,2,MP3,,,,,,EXCLUDED
+trf_0931,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/21.mp3,21.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,5340.264,44100,2,MP3,,,,,,EXCLUDED
+trf_0932,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/3.mp3,3.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,210.408,48000,2,MP3,,,,,,EXCLUDED
+trf_0933,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/4.mp3,4.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,172.416,48000,2,MP3,,,,,,EXCLUDED
+trf_0934,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/5.mp3,5.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,344.999,44100,2,MP3,,,,,,EXCLUDED
+trf_0935,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/6.mp3,6.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,207.02,44100,2,MP3,,,,,,EXCLUDED
+trf_0936,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/7.mp3,7.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,223.128,48000,2,MP3,,,,,,EXCLUDED
+trf_0937,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/8.mp3,8.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,184.555,44100,2,MP3,,,,,,EXCLUDED
+trf_0938,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Miyan Ki Todi orTodi or Darbari Todi/9.mp3,9.mp3,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,319.656,48000,2,MP3,,,,,,EXCLUDED
+trf_0939,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/0.mp3,0.mp3,Multani,Multani,198.269,44100,2,MP3,,,,,,KEEP
+trf_0940,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/1.mp3,1.mp3,Multani,Multani,168.647,44100,2,MP3,,,,,,KEEP
+trf_0941,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/10.mp3,10.mp3,Multani,Multani,565.577,44100,2,MP3,,,,,,KEEP
+trf_0942,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/11.mp3,11.mp3,Multani,Multani,201.064,44100,2,MP3,,,,,,KEEP
+trf_0943,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/12.mp3,12.mp3,Multani,Multani,1343.556,44100,2,MP3,,,,,,KEEP
+trf_0944,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/13.mp3,13.mp3,Multani,Multani,335.673,44100,2,MP3,,,,,,KEEP
+trf_0945,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/2.mp3,2.mp3,Multani,Multani,469.342,44100,2,MP3,,,,,,KEEP
+trf_0946,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/3.mp3,3.mp3,Multani,Multani,3399.027,44100,2,MP3,,,,,,KEEP
+trf_0947,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/4.mp3,4.mp3,Multani,Multani,526.55,44100,2,MP3,,,,,,KEEP
+trf_0948,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/5.mp3,5.mp3,Multani,Multani,2206.176,48000,2,MP3,,,,,,KEEP
+trf_0949,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/6.mp3,6.mp3,Multani,Multani,328.385,44100,2,MP3,,,,,,KEEP
+trf_0950,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/7.mp3,7.mp3,Multani,Multani,657.58,44100,2,MP3,,,,,,KEEP
+trf_0951,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/8.mp3,8.mp3,Multani,Multani,938.292,44100,2,MP3,,,,,,KEEP
+trf_0952,trf,data/raw/Thaat and Raga Forest (TRF) Dataset/Todi (thaat)/Multani/9.mp3,9.mp3,Multani,Multani,537.025,44100,2,MP3,,,,,,KEEP

@@ -1,0 +1,44 @@
+                 precision    recall  f1-score   support
+
+         Abhogi       1.00      0.50      0.67         2
+          Adana       0.60      0.75      0.67         4
+   Ahir Bhairav       1.00      0.50      0.67         2
+        Asawari       1.00      0.33      0.50         3
+      Bageshree       1.00      0.75      0.86         4
+          Bahar       0.75      0.75      0.75         4
+         Basant       0.43      0.75      0.55         4
+        Bhairav       0.50      1.00      0.67         2
+  Bhairav Bahar       1.00      0.67      0.80         3
+       Bhairavi       0.50      0.60      0.55         5
+       Bhatiyar       0.50      0.67      0.57         3
+     Bhimpalasi       0.30      1.00      0.46         3
+       Bhoopali       1.00      0.50      0.67         4
+         Bibhas       0.50      0.67      0.57         3
+          Bihag       0.50      0.67      0.57         3
+Bilaskhani Todi       0.67      0.67      0.67         3
+        Bilaval       0.00      0.00      0.00         3
+         Deepak       0.00      0.00      0.00         4
+           Desh       1.00      0.33      0.50         3
+          Durga       0.50      1.00      0.67         2
+          Gauri       1.00      0.33      0.50         3
+           Kafi       1.00      0.33      0.50         3
+          Kedar       0.67      0.67      0.67         3
+         Khamaj       1.00      0.33      0.50         3
+          Lalit       0.75      1.00      0.86         3
+         Malhar       0.00      0.00      0.00         2
+       Malkauns       1.00      0.40      0.57         5
+          Marwa       0.33      0.67      0.44         3
+           Megh       0.50      0.33      0.40         3
+        Multani       1.00      0.50      0.67         2
+    Nat Bhairav       0.50      1.00      0.67         2
+         Poorvi       1.00      1.00      1.00         2
+         Puriya       0.00      0.00      0.00         2
+        Ramkali       0.50      1.00      0.67         2
+         Sarang       0.75      0.75      0.75         4
+          Shree       0.60      1.00      0.75         3
+          Yaman       0.50      0.40      0.44         5
+   Yaman Kalyan       0.17      0.50      0.25         2
+
+       accuracy                           0.58       116
+      macro avg       0.63      0.59      0.55       116
+   weighted avg       0.64      0.58      0.55       116
